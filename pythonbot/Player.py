@@ -7,6 +7,7 @@ from StartingHand import *
 from PercentWin import *
 from myCard import * 
 from BetCalc import *
+from DataParser import *
 
 
 """
@@ -18,207 +19,101 @@ It is meant as an example of how a pokerbot should communicate with the engine.
 """
 class Player:
     def run(self, input_socket):
-
-        minOppPercent = 100
-
         f_in = input_socket.makefile()
+
+        # amount bet after flop / 200 - percentage of hand/board
+        # cut off for accepting my bets: my bets/200  - percentage of hand/board
+        # preflop bet /200 - percentage of starting hand
+
+        # global variables
+        d = DataParser()
+        minOppPercent = 100 # minimum percept opp goes all in on 
+
+        
         while True:
-            # Block until the engine sends us a packet.
             data = f_in.readline().strip()
-            # If data is None, connection has closed.
             if not data:
                 print "Gameover, engine disconnected."
                 break
-
             print data
 
-            d = data.split()
-            word = d[0]
-            if word == "NEWGAME":
-                myName = d[1]
-                oppName = d[2]
-                stackSize = int(d[3]) # starting number of chips
-                bb = int(d[4]) # big blind being used for the match (always a multiple of 2)
-                numHands = int(d[5])
-                timeBank = float(d[6]) # secs left for bot to return action
-            if word == "KEYVALUE":
-                key = d[1]
-                value = d[2]
-            if word == "NEWHAND":
-                handID = int(d[1])
-                # the button indicates the player who is set to act last after the cards are dealt
-                button = bool(d[2]) # am i the button?
-                card1 = d[3][0]
-                suit1 = d[3][1]
-                card2 = d[4][0]
-                suit2 = d[4][1]
-                startingHand = StartingHand(card1, card2, suit1, suit2)
-                hand = [
-                    myCard(card1+suit1),
-                    myCard(card2+suit2)
-                    ]
-                board = []
-                pw = PercentWin([], hand)
-                bc = BetCalc()
-                myBank = int(d[5])
-                oppBank = int(d[6])
-                timeBank = float(d[7])
-            # GETACTION potSize numBoardCards [boardCards] numLastActions [lastActions] numLegalActions [legalActions] timebank
-            if word == "GETACTION":
-                potSize = int(d[1])
+            d.parse(data)
 
-                numBoardCards = int(d[2])
-                for i in range(0,numBoardCards):
-                    if len(board) < numBoardCards:
-                        newCard = myCard(d[2+numBoardCards-i])
-                        board.append(newCard)
-                        pw.addToBoard(newCard)
+            if d.word == "NEWGAME":
+                pass
+            if d.word == "NEWHAND":
+                pass
+            if d.word == "GETACTION":
 
-                numLastActions = int(d[3+numBoardCards])
-                lastActions = []
-                for j in range(0,numLastActions):
-                    lastActions.append(d[4+numBoardCards+j])
-
-                numLegalActions = int(d[4+numBoardCards+numLastActions])
-                legalActions = []
-                for k in range(0,numLegalActions):
-                    legalActions.append(d[5+numBoardCards+numLastActions+k])
-                timeBank = float(d[5+numBoardCards+numLastActions+numLegalActions])
-
-                if lastActions[0][0] == "D": #discard
-                    # update hand
-                    parseDiscard = lastActions[0].split(":")
-                    #print parseDiscard
-                    oldHandCard = myCard(parseDiscard[1])
-                    newHandCard = myCard(parseDiscard[2])
-                    pw.updateHand(oldHandCard, newHandCard)
-
-                if len(board) == 0:
-                    handRank = startingHand.getRank()
+                if len(d.board) == 0:
+                    d.handRank = d.startingHand.getRank()
                 else:
-                    handRank = pw.getWinPercentage()
+                    d.handRank = d.pw.getWinPercentage()
 
-               # print "\nHAND " , hand
-               # print "\nBOARD " , board
-               # print "\nRANK " , handRank ,"\n"
+                if d.actionType == "CHECK BET":
+                    if d.handRank >= 90:
+                        bet = d.bc.getBetAmount("LARGE",d.maxBet,d.minBet)
+                        s.send("BET:"+str(bet)+"\n")
+                    elif d.handRank >= 80:
+                        bet = d.bc.getBetAmount("MED",d.maxBet,d.minBet)
+                        s.send("BET:"+str(bet)+"\n")
+                    elif d.handRank >= 70:
+                        bet = d.bc.getBetAmount("SMALL",d.maxBet,d.minBet)
+                        s.send("BET:"+str(bet)+"\n")
+                    else:
+                        s.send("BET:"+str(1)+"\n") 
 
-        # logic on bet i would accept 
-        # / bet i would bet given the probability 
+                elif d.actionType == "CHECK RAISE (AFTER POST)":
+                    if d.handRank >= 90:
+                        bet = d.bc.getBetAmount("LARGE",d.maxRaise,d.minRaise)
+                        s.send("RAISE:"+str(bet)+"\n")
+                    elif d.handRank >= 80:
+                        bet = d.bc.getBetAmount("MED",d.maxRaise,d.minRaise)
+                        s.send("RAISE:"+str(bet)+"\n")
+                    elif d.handRank >= 70:
+                        bet = d.bc.getBetAmount("SMALL",d.maxRaise,d.minRaise)
+                        s.send("RAISE:"+str(bet)+"\n")
+                    else:
+                        s.send("RAISE:"+str(1)+"\n") 
 
-        # action calculator based on probability 
+                elif d.actionType == "CHECK DISCARD DISCARD":
+                    s.send(d.shouldDiscard)
 
+                elif d.actionType == "FOLD CALL":
+                    if d.handRank >= 95.0:
+                        s.send("CALL\n")
+                    else:
+                        s.send("FOLD\n")
 
-
-                if "CALL" in legalActions:
-                    for action in legalActions:
-                        if action[0] == "R": #raise
-                            r = action.split(":")
-                            minRaise = float(r[1])
-                            maxRaise = float(r[2])
-                            raiseAvail = True
-                    oppBet = float(lastActions[-1].split(":")[1])
-
-                    # print "\npotsize "+str(potSize)
-                    # print "mybank "+str(myBank)
-                    # when to raise
-                    #print "handRank",handRank
-                    #print "oppBet",oppBet
-                    #print "potSize",potSize
-
-                    if len(board) == 0 and raisingPreFlop/float(numHands) > 90.0:
-                        if raiseAvail:
-                            raisingPreFlop+=1
-                        if handRank > 80.0:
+                elif d.actionType == "FOLD CALL RAISE":
+                    if d.handRank >= 90.0:
+                        s.send("RAISE:"+str(d.maxRaise/2.0+d.minRaise/2.0)+"\n") 
+                    elif d.handRank >= 75.0:
+                        s.send("CALL\n")
+                    else:
+                        if d.oppBet <= d.handRank*1.5:
                             s.send("CALL\n")
                         else:
-                            s.fold("FOLD")
+                            s.send("FOLD\n")
 
-                    else:
-                        if handRank >= 90.0 and raiseAvail:
-                            s.send("RAISE:"+str(maxRaise/2.0+minRaise/2.0)+"\n") 
-                        elif handRank >= 70.0:
-                            s.send("CALL\n")
-                        else:
-                            if oppBet <= handRank*1.5:
-                                s.send("CALL\n")
-                            else:
-                                s.send("FOLD\n")
-
-                    raiseAvail = False
-                else:
-                    discardRound = False
-                    if legalActions[1][0] == "D": #discard
-                        discardRound = True
-                    else:
-                        r = legalActions[1].split(":")
-                        minBet = float(r[1])
-                        maxBet = float(r[2])
-
-                       # print "handRank",handRank
-                       # print "maxBet",maxBet
-                       # print "potSize",potSize
+                    # 95 for ALL IN CALLS i feel 
+                    # also, dont raise a raise unless hand is REAL good >97
+                    # no big bets on third round tho
 
 
-                        # print minBet
-                        # print maxBet
-                    # should i discard a card???
-                    if discardRound:
-                        s.send(pw.shouldDiscard(handRank))
-                    elif handRank >= 90:
-                        bet = bc.getBetAmount("LARGE",maxBet,minBet)
-                        s.send("BET:"+str(bet)+"\n")
-                    elif handRank >= 75:
-                        bet = bc.getBetAmount("MED",maxBet,minBet)
-                        s.send("BET:"+str(bet)+"\n")
-                    elif handRank >= 60:
-                        bet = bc.getBetAmount("SMALL",maxBet,minBet)
-                        s.send("BET:"+str(bet)+"\n")
-                    else:
-                        s.send("CHECK\n") 
+            if d.word == "HANDOVER":
 
-            if word == "HANDOVER":
-                myBank = int(d[1])
-                oppBank = int(d[2])
-                numBoardCards = int(d[3])
-                #boardCards = BoardCards([])
-                #for i in range(0,numBoardCards):
-                #    boardCards.append(d[4+i])
-
-                numLastActions = int(d[4+numBoardCards])
-                lastActions = []
-                for j in range(0,numLastActions):
-                    lastActions.append(d[5+numBoardCards+j])
-
-                if lastActions[2][0] == "S": # show
-                    show = lastActions[2].split(":")
-                    card1 = show[1][0]
-                    suit1 = show[1][1]
-                    card2 = show[2][0]
-                    suit2 = show[2][1]
-                    hand = [
-                    myCard(card1+suit1),
-                    myCard(card2+suit2)
-                    ]
-                    if potSize >= 200:
-                        oppPercent = pw.getWinPercentage(hand, board)
+                if d.cardsShown and d.winner == d.oppName:
+                    # differnt amounts of overall bets
+                    # near / all-in
+                    if d.winnersPot >= 2.0 * d.stackSize - 5.0:
+                        oppPercent = d.pw.getWinPercentage()
                         minOppPercent = min(oppPercent,minOppPercent)
 
-                timeBank = float(d[5+numBoardCards+numLastActions])
 
 
-            elif word == "REQUESTKEYVALUES":
-                bytesLeft = d[1] #num bytes left to store key/value pairs
-                # At the end, the engine will allow your bot save key/value pairs.
-                # Send FINISH to indicate you're done.
+            elif d.word == "REQUESTKEYVALUES":
                 s.send("FINISH\n")
-
-
-            # KEEPING TABS ON APP
-
-            raisingPreFlop = 0
-
-
-        # Clean up the socket.
         s.close()
 
 if __name__ == '__main__':

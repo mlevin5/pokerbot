@@ -114,16 +114,19 @@ class PercentWin:
 		else:
 			return "CHECK\n" 
 
-
+# FIX THIS ONE PART OF THIS:
+# KEEP A VERY STRONG STARTING HAND ~ALMOST~ NO MATTER WHAT
 	
 
 def main():
-	pw = PercentWin([myCard("Td"),myCard("Kd"),myCard("5c")],
-		[myCard("5h"),myCard("Kc")])
+	pw = PercentWin([myCard("7c"),myCard("2d"),myCard("Js")],
+		[myCard("Qh"),myCard("Qc")])
 	handRank = pw.getWinPercentage()
 	print handRank
-	print pw.shouldDiscard(handRank)
+	#print pw.shouldDiscard(handRank)
 main()
+
+
 					
 
 

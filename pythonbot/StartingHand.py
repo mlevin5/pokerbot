@@ -51,7 +51,8 @@ class StartingHand:
 
 
 def main():
-	hand = StartingHand("Q","6","h","s")
+	# 50.2
+	hand = StartingHand("7","4","h","c")
 	print(hand.getRank())
 	return 0
 main()
