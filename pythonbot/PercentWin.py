@@ -27,6 +27,7 @@ class PercentWin:
 				if not availCard in self.hand+self.board:
 					self.availableCards.append(availCard)
 		self.handDict = dict()
+		self.discardDict = dict()
 		#print self.availableCards
 
 	def addToBoard(self, card):
@@ -67,106 +68,58 @@ class PercentWin:
 		else:
 			return 0
 
-	def shouldDiscardWithBoard(self, handPercentWin):
-		newHandDiscard1 = []
-		numWinsForNewHand1 = 0
-		numWinsForNewHand2 = 0
-		total = 0
-		for newBoardCard in self.availableCards:
-			self.board.append(newBoardCard)
-			self.evalBoard.append(newBoardCard.evalCard)
-			self.availableCards.remove(newBoardCard)
-			myHandRank = self.evaluator.evaluate(self.evalBoard, self.evalHand)
-			for replacementCard in self.availableCards:
-				if (newBoardCard != replacementCard and 
-					self.hand[0] != replacementCard and 
-					self.hand[1] != replacementCard) :
-
-					newHandDiscard1 = [self.hand[0].evalCard, replacementCard.evalCard]
-					newHandDiscard2 = [self.hand[1].evalCard, replacementCard.evalCard]
-					#print self.evalBoard
-					#print self.board
-					#print self.hand[1], replacementCard
-					#print newHandDiscard2
-					thisHandRank1 = self.evaluator.evaluate(self.evalBoard, newHandDiscard1)
-					thisHandRank2 = self.evaluator.evaluate(self.evalBoard, newHandDiscard2)
-					#print newBoardCard, replacementCard
-
-					if thisHandRank1 >= myHandRank:
-						numWinsForNewHand1+=1			
-					if thisHandRank2 >= myHandRank:
-						numWinsForNewHand2+=1				
-					total+=1
-			self.board.remove(newBoardCard)
-			self.evalBoard.remove(newBoardCard.evalCard)
-			self.availableCards.append(newBoardCard)
-
-		if numWinsForNewHand1 >= numWinsForNewHand2:
-			discard = self.hand[0]
-			discardPercent = (float(numWinsForNewHand1)/total)*100
-		else:
-			discard = self.hand[1]
-			discardPercent = (float(numWinsForNewHand2)/total)*100
-
-		# conservative discard strategy
-		# probability discarding card improves hand
-		# probablty my current hand wins
-		# print discardPercent
-		# print handPercentWin
-		#print "discardPercent", discardPercent
-		if discardPercent > handPercentWin:
-			return "DISCARD:"+discard.strCard+"\n"
-		else:
-			return "CHECK\n" 
-
 	def shouldDiscard(self, handPercentWin):
-		newHandDiscard1 = []
-		numWinsForNewHand1 = 0
-		numWinsForNewHand2 = 0
-		total = 0
-		myHandRank = self.evaluator.evaluate(self.evalBoard, self.evalHand)
-		for replacementCard in self.availableCards:
-			if (self.hand[0] != replacementCard and self.hand[1] != replacementCard) :
-				newHandDiscard1 = [self.hand[0].evalCard, replacementCard.evalCard]
-				newHandDiscard2 = [self.hand[1].evalCard, replacementCard.evalCard]
-				#print self.evalBoard
-				#print self.board
-				#print self.hand[1], replacementCard
-				#print newHandDiscard2
-				thisHandRank1 = self.evaluator.evaluate(self.evalBoard, newHandDiscard1)
-				thisHandRank2 = self.evaluator.evaluate(self.evalBoard, newHandDiscard2)
-				#print newBoardCard, replacementCard
+		setOfCards = SetOfCards(self.hand, self.board)
+		if not setOfCards in self.discardDict:
+			newHandDiscard1 = []
+			numWinsForNewHand1 = 0
+			numWinsForNewHand2 = 0
+			total = 0
+			for newBoardCard in self.availableCards:
+				self.board.append(newBoardCard)
+				self.evalBoard.append(newBoardCard.evalCard)
+				self.availableCards.remove(newBoardCard)
+				myHandRank = self.evaluator.evaluate(self.evalBoard, self.evalHand)
+				for replacementCard in self.availableCards:
+					if (newBoardCard != replacementCard and 
+						self.hand[0] != replacementCard and 
+						self.hand[1] != replacementCard):
 
-				if thisHandRank1 >= myHandRank:
-					numWinsForNewHand1+=1			
-				if thisHandRank2 >= myHandRank:
-					numWinsForNewHand2+=1				
-				total+=1
+						newHandDiscard1 = [self.hand[0].evalCard, replacementCard.evalCard]
+						newHandDiscard2 = [self.hand[1].evalCard, replacementCard.evalCard]
 
+						thisHandRank1 = self.evaluator.evaluate(self.evalBoard, newHandDiscard1)
+						thisHandRank2 = self.evaluator.evaluate(self.evalBoard, newHandDiscard2)
 
-		if numWinsForNewHand1 >= numWinsForNewHand2:
-			discard = self.hand[0]
-			discardPercent = (float(numWinsForNewHand1)/total)*100
+						if thisHandRank1 >= myHandRank:
+							numWinsForNewHand1+=1			
+						if thisHandRank2 >= myHandRank:
+							numWinsForNewHand2+=1				
+						total+=1
+				self.board.remove(newBoardCard)
+				self.evalBoard.remove(newBoardCard.evalCard)
+				self.availableCards.append(newBoardCard)
+
+			if numWinsForNewHand1 >= numWinsForNewHand2:
+				discard = self.hand[0]
+				discardPercent = (float(numWinsForNewHand1)/total)*100
+			else:
+				discard = self.hand[1]
+				discardPercent = (float(numWinsForNewHand2)/total)*100
+			self.discardDict[setOfCards] = discardPercent
 		else:
-			discard = self.hand[1]
-			discardPercent = (float(numWinsForNewHand2)/total)*100
-
-		# conservative discard strategy
-		# probability discarding card improves hand
-		# probablty my current hand wins
-		# print discardPercent
-		# print handPercentWin
-		#print "discardPercent", discardPercent
+			discardPercent = self.discardDict[setOfCards]
 		if discardPercent > handPercentWin:
 			return "DISCARD:"+discard.strCard+"\n"
 		else:
 			return "CHECK\n" 
+
+
 	
 
-
 def main():
-	pw = PercentWin([myCard("Jd"),myCard("9h"),myCard("9c")],
-		[myCard("9d"),myCard("9h")])
+	pw = PercentWin([myCard("Td"),myCard("Kd"),myCard("5c")],
+		[myCard("5h"),myCard("Kc")])
 	handRank = pw.getWinPercentage()
 	print handRank
 	print pw.shouldDiscard(handRank)

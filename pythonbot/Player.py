@@ -18,8 +18,9 @@ It is meant as an example of how a pokerbot should communicate with the engine.
 """
 class Player:
     def run(self, input_socket):
-        # Get a file-object for reading packets from the socket.
-        # Using this ensures that you get exactly one packet per read.
+
+        minOppPercent = 100
+
         f_in = input_socket.makefile()
         while True:
             # Block until the engine sends us a packet.
@@ -29,19 +30,10 @@ class Player:
                 print "Gameover, engine disconnected."
                 break
 
-            # Here is where you should implement code to parse the packets from
-            # the engine and act on it. We are just printing it instead.
             print data
 
-            # When appropriate, reply to the engine with a legal action.
-            # The engine will ignore all spurious responses.
-            # The engine will also check/fold for you if you return an
-            # illegal action.
-            # When sending responses, terminate each response with a newline
-            # character (\n) or your bot will hang!
             d = data.split()
             word = d[0]
-
             if word == "NEWGAME":
                 myName = d[1]
                 oppName = d[2]
@@ -133,38 +125,25 @@ class Player:
                     #print "oppBet",oppBet
                     #print "potSize",potSize
 
-                    # fix this (raise in the beginning if good hand)
-                    if handRank >= 90.0 and raiseAvail:
-                        #print "raising because good hand",str(maxRaise/2.0+minRaise/2.0)
-                        s.send("RAISE:"+str(maxRaise/2.0+minRaise/2.0)+"\n") 
-                    # when to call
-
-                    # new addition to bot 7
-                    elif len(board) == 0:
-                        if handRank >= 90.0:
+                    if len(board) == 0 and raisingPreFlop/float(numHands) > 90.0:
+                        if raiseAvail:
+                            raisingPreFlop+=1
+                        if handRank > 80.0:
                             s.send("CALL\n")
                         else:
-                            s.send("FOLD\n")
+                            s.fold("FOLD")
 
-                    elif handRank >= 70.0:
-                        #print "calling because good hand"
-                        s.send("CALL\n")
                     else:
-                        # already so deep in, must keep playing
-                        #if potSize-oppBet >= 100.0:
-                         
-                         #   print "calling because deep in"
-                         #   s.send("CALL\n")
-                        # if bet is small
-
-                        if oppBet <= handRank*1.5:
-                            #print "calling because bet is small"
+                        if handRank >= 90.0 and raiseAvail:
+                            s.send("RAISE:"+str(maxRaise/2.0+minRaise/2.0)+"\n") 
+                        elif handRank >= 70.0:
                             s.send("CALL\n")
-
                         else:
-                            #print "folding"
-                            # not getting to fold when it should :(
-                            s.send("FOLD\n")
+                            if oppBet <= handRank*1.5:
+                                s.send("CALL\n")
+                            else:
+                                s.send("FOLD\n")
+
                     raiseAvail = False
                 else:
                     discardRound = False
@@ -184,7 +163,6 @@ class Player:
                         # print maxBet
                     # should i discard a card???
                     if discardRound:
-                        #print "handRank",handRank
                         s.send(pw.shouldDiscard(handRank))
                     elif handRank >= 90:
                         bet = bc.getBetAmount("LARGE",maxBet,minBet)
@@ -211,6 +189,20 @@ class Player:
                 for j in range(0,numLastActions):
                     lastActions.append(d[5+numBoardCards+j])
 
+                if lastActions[2][0] == "S": # show
+                    show = lastActions[2].split(":")
+                    card1 = show[1][0]
+                    suit1 = show[1][1]
+                    card2 = show[2][0]
+                    suit2 = show[2][1]
+                    hand = [
+                    myCard(card1+suit1),
+                    myCard(card2+suit2)
+                    ]
+                    if potSize >= 200:
+                        oppPercent = pw.getWinPercentage(hand, board)
+                        minOppPercent = min(oppPercent,minOppPercent)
+
                 timeBank = float(d[5+numBoardCards+numLastActions])
 
 
@@ -219,6 +211,13 @@ class Player:
                 # At the end, the engine will allow your bot save key/value pairs.
                 # Send FINISH to indicate you're done.
                 s.send("FINISH\n")
+
+
+            # KEEPING TABS ON APP
+
+            raisingPreFlop = 0
+
+
         # Clean up the socket.
         s.close()
 

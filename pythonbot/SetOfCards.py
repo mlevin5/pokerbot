@@ -16,8 +16,3 @@ class SetOfCards:
 
 	def __hash__(self):
 		return hash(10)
-
-	def __str__(self):
-		return self.list
-	def __repr__(self):
-		return self.__str__()
