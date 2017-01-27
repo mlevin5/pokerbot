@@ -17,8 +17,8 @@ class DataParser:
             self.oppBet = self.bb
             #timeBank = float(d[6]) # secs left for bot to return action
         if self.word == "NEWHAND":
-            self.handID = int(d[1]) # number hand it is
-            self.button = bool(d[2]) # am i the button?
+            #self.handID = int(d[1]) # number hand it is
+            #self.button = bool(d[2]) # am i the button?
             card1 = d[3][0]
             suit1 = d[3][1]
             card2 = d[4][0]
@@ -30,13 +30,13 @@ class DataParser:
                 ]
             self.board = []
             self.pw = PercentWin([], self.hand)
-            self.bc = BetCalc()
-            self.myBank = int(d[5])
-            self.oppBank = int(d[6])
+            #self.bc = BetCalc()
+            #self.myBank = int(d[5])
+            #self.oppBank = int(d[6])
             # timeBank = float(d[7])
         # GETACTION potSize numBoardCards [boardCards] numLastActions [lastActions] numLegalActions [legalActions] timebank
         if self.word == "GETACTION":
-            self.potSize = int(d[1])
+            #self.potSize = int(d[1])
             numBoardCards = int(d[2])
             for i in range(0,numBoardCards):
                 if len(self.board) < numBoardCards:
@@ -44,10 +44,10 @@ class DataParser:
                     self.board.append(newCard)
                     self.pw.addToBoard(newCard)
             numLastActions = int(d[3+numBoardCards])
-            self.lastActions = []
+            lastActions = []
             for j in range(0,numLastActions):
                 a = Action(d[4+numBoardCards+j])
-                self.lastActions.append(a)
+                lastActions.append(a)
                 if a.action == "BET":
                     if a.player == self.oppName:
                         self.oppBet = float(a.amount)
@@ -77,47 +77,46 @@ class DataParser:
                #         pass
 
             numLegalActions = int(d[4+numBoardCards+numLastActions])
-            self.legalActions = []
+            legalActions = []
             for k in range(0,numLegalActions):
-                self.legalActions.append(d[5+numBoardCards+numLastActions+k])
+                legalActions.append(d[5+numBoardCards+numLastActions+k])
             #timeBank = float(d[5+numBoardCards+numLastActions+numLegalActions])
 
             # update hand if discarded a card last hand
-            discard = self.lastActions[0]
+            discard = lastActions[0]
             if discard.action == "DISCARD": #discard
                 oldHandCard = myCard(discard.card1)
                 newHandCard = myCard(discard.card2)
                 self.pw.updateHand(oldHandCard, newHandCard)
 
+            if len(self.board) == 0:
+                self.handRank = self.startingHand.getRank()
+            else:
+                self.handRank = self.pw.getWinPercentage()
 
-            # CHECK BET
-            if "BET" in self.legalActions:
-                r = self.legalActions[1].split(":")
+
+            # CHECK BET / CHECK RAISE
+            if "CHECK" in legalActions and len(legalActions) == 2:
+                r = legalActions[1].split(":")
                 self.minBet = float(r[1])
                 self.maxBet = float(r[2])
-                self.actionType = "CHECK BET"
-
-            # CHECK RAISE (right afterPOST)
-            elif "CHECK" in self.legalActions and len(self.legalActions) == 2:
-                self.actionType = "CHECK RAISE (AFTER POST)"
-                r = self.legalActions[1].split(":")
-                self.minRaise = float(r[1])
-                self.maxRaise = float(r[2])
+                self.actionType = "CHECK BET/RAISE"
+                self.betOrRaise = r[0]
 
             # CHECK DISCARD DISCARD
-            elif "CHECK" in self.legalActions and len(self.legalActions) == 3:
+            elif "CHECK" in legalActions and len(legalActions) == 3:
                 self.actionType = "CHECK DISCARD DISCARD"
                 self.shouldDiscard = self.pw.shouldDiscard(self.handRank)
 
             # FOLD CALL
-            elif "CALL" in self.legalActions and len(self.legalActions) == 2:
+            elif "CALL" in legalActions and len(legalActions) == 2:
                 self.actionType = "FOLD CALL"
             # FOLD CALL RAISE
-            elif "CALL" in self.legalActions and len(self.legalActions) == 3:
-                r = self.legalActions[2].split(":")
+            elif "CALL" in legalActions and len(legalActions) == 3:
+                r = legalActions[2].split(":")
                 self.minRaise = float(r[1])
                 self.maxRaise = float(r[2])
-                for a in self.lastActions:
+                for a in lastActions:
                     if a.action == "BET" and a.player == self.oppName:
                         self.oppBet = float(a.amount)
                 self.actionType = "FOLD CALL RAISE"
@@ -128,11 +127,11 @@ class DataParser:
             self.oppBank = int(d[2])
             numBoardCards = int(d[3])
             numLastActions = int(d[4+numBoardCards])
-            self.lastActions = []
+            lastActions = []
             self.cardsShown = False
             for j in range(0,numLastActions):
                 action = Action(d[5+numBoardCards+j])
-                self.lastActions.append(action)
+                lastActions.append(action)
                 if action.action == "WIN":
                     self.winner = action.player
                     self.winnersPot = action.amount

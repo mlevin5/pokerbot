@@ -28,7 +28,9 @@ class Player:
         # global variables
         d = DataParser()
         minOppPercent = 100 # minimum percept opp goes all in on 
+        bc = BetCalc()
 
+        # QUIT WHILE YOU'RE AHEAD FUNCTION ! **************
         
         while True:
             data = f_in.readline().strip()
@@ -39,61 +41,52 @@ class Player:
 
             d.parse(data)
 
-            if d.word == "NEWGAME":
+            word = d.word
+
+            if word == "NEWGAME":
                 pass
-            if d.word == "NEWHAND":
+            elif word == "NEWHAND":
                 pass
-            if d.word == "GETACTION":
-
-                if len(d.board) == 0:
-                    d.handRank = d.startingHand.getRank()
-                else:
-                    d.handRank = d.pw.getWinPercentage()
-
-                if d.actionType == "CHECK BET":
+            elif word == "GETACTION":
+                actionType = d.actionType
+                handRank = d.handRank
+                if actionType == "CHECK BET/RAISE":
                     if d.handRank >= 90:
-                        bet = d.bc.getBetAmount("LARGE",d.maxBet,d.minBet)
-                        s.send("BET:"+str(bet)+"\n")
+                        bet = bc.getBetAmount("LARGE",d.maxBet,d.minBet)
+                        s.send(d.betOrRaise+":"+str(bet)+"\n")
                     elif d.handRank >= 80:
-                        bet = d.bc.getBetAmount("MED",d.maxBet,d.minBet)
-                        s.send("BET:"+str(bet)+"\n")
+                        bet = bc.getBetAmount("MED",d.maxBet,d.minBet)
+                        s.send(d.betOrRaise+":"+str(bet)+"\n")
                     elif d.handRank >= 70:
-                        bet = d.bc.getBetAmount("SMALL",d.maxBet,d.minBet)
-                        s.send("BET:"+str(bet)+"\n")
+                        bet = bc.getBetAmount("SMALL",d.maxBet,d.minBet)
+                        s.send(d.betOrRaise+":"+str(bet)+"\n")
                     else:
-                        s.send("BET:"+str(1)+"\n") 
+                        s.send(d.betOrRaise+":"+str(d.minBet)+"\n") 
 
-                elif d.actionType == "CHECK RAISE (AFTER POST)":
-                    if d.handRank >= 90:
-                        bet = d.bc.getBetAmount("LARGE",d.maxRaise,d.minRaise)
-                        s.send("RAISE:"+str(bet)+"\n")
-                    elif d.handRank >= 80:
-                        bet = d.bc.getBetAmount("MED",d.maxRaise,d.minRaise)
-                        s.send("RAISE:"+str(bet)+"\n")
-                    elif d.handRank >= 70:
-                        bet = d.bc.getBetAmount("SMALL",d.maxRaise,d.minRaise)
-                        s.send("RAISE:"+str(bet)+"\n")
-                    else:
-                        s.send("RAISE:"+str(1)+"\n") 
-
-                elif d.actionType == "CHECK DISCARD DISCARD":
+                elif actionType == "CHECK DISCARD DISCARD":
                     s.send(d.shouldDiscard)
 
-                elif d.actionType == "FOLD CALL":
+                elif actionType == "FOLD CALL":
                     if d.handRank >= 95.0:
+                        print "calling to all-in"
                         s.send("CALL\n")
                     else:
+                        print "folding to all-in"
                         s.send("FOLD\n")
 
-                elif d.actionType == "FOLD CALL RAISE":
+                elif actionType == "FOLD CALL RAISE":
                     if d.handRank >= 90.0:
+                        print "raising"
                         s.send("RAISE:"+str(d.maxRaise/2.0+d.minRaise/2.0)+"\n") 
                     elif d.handRank >= 75.0:
+                        print "calling"
                         s.send("CALL\n")
                     else:
                         if d.oppBet <= d.handRank*1.5:
+                            print "calling based on bet size"
                             s.send("CALL\n")
                         else:
+                            print "folding"
                             s.send("FOLD\n")
 
                     # 95 for ALL IN CALLS i feel 
@@ -101,18 +94,18 @@ class Player:
                     # no big bets on third round tho
 
 
-            if d.word == "HANDOVER":
-
-                if d.cardsShown and d.winner == d.oppName:
+            elif word == "HANDOVER":
+                pass
+               # if d.cardsShown and d.winner == d.oppName:
                     # differnt amounts of overall bets
                     # near / all-in
-                    if d.winnersPot >= 2.0 * d.stackSize - 5.0:
-                        oppPercent = d.pw.getWinPercentage()
-                        minOppPercent = min(oppPercent,minOppPercent)
+                #    if d.winnersPot >= 2.0 * d.stackSize - 5.0:
+                 #       oppPercent = d.pw.getWinPercentage()
+                  #      minOppPercent = min(oppPercent,minOppPercent)
 
 
 
-            elif d.word == "REQUESTKEYVALUES":
+            elif word == "REQUESTKEYVALUES":
                 s.send("FINISH\n")
         s.close()
 
