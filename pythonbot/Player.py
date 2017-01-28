@@ -28,9 +28,12 @@ class Player:
         # global variables
         d = DataParser()
         minOppPercent = 100 # minimum percept opp goes all in on 
+        discardRound = 0 # 0 if preflop, 1 if preturn, 2 if preriver
+        quitWhileAheadMode = False
+        myStack = 200
+        myBank = 0
         bc = BetCalc()
 
-        # QUIT WHILE YOU'RE AHEAD FUNCTION ! **************
         
         while True:
             data = f_in.readline().strip()
@@ -39,25 +42,42 @@ class Player:
                 break
             print data
 
+        # QUIT WHILE YOU'RE AHEAD FUNCTION ! **************
+            quitWhileAheadMode =  myBank >= myStack*1.5
+            print quitWhileAheadMode
+
             d.parse(data)
 
             word = d.word
 
             if word == "NEWGAME":
-                pass
+                myStack = d.stackSize
             elif word == "NEWHAND":
-                pass
+                myBank = d.myBank
+                startingHandRank = d.startingHandRank
             elif word == "GETACTION":
+
                 actionType = d.actionType
                 handRank = d.handRank
+
                 if actionType == "CHECK BET/RAISE":
-                    if d.handRank >= 90:
+                    if len(d.board) == 0:
+                        bettingNums = [80, 75, 70, 60]
+                    else:
+                        bettingNums = [97, 90, 80, 70]
+
+                    if quitWhileAheadMode:
+                        if handRank >= bettingNums[0]:
+                            s.send(d.betOrRaise+":"+str(d.maxBet)+"\n")
+                        else:
+                            s.send("CHECK\n")
+                    elif handRank >= bettingNums[1]:
                         bet = bc.getBetAmount("LARGE",d.maxBet,d.minBet)
                         s.send(d.betOrRaise+":"+str(bet)+"\n")
-                    elif d.handRank >= 80:
+                    elif handRank >= bettingNums[2]:
                         bet = bc.getBetAmount("MED",d.maxBet,d.minBet)
                         s.send(d.betOrRaise+":"+str(bet)+"\n")
-                    elif d.handRank >= 70:
+                    elif handRank >= bettingNums[3]:
                         bet = bc.getBetAmount("SMALL",d.maxBet,d.minBet)
                         s.send(d.betOrRaise+":"+str(bet)+"\n")
                     else:
@@ -66,30 +86,66 @@ class Player:
                 elif actionType == "CHECK DISCARD DISCARD":
                     s.send(d.shouldDiscard)
 
-                elif actionType == "FOLD CALL":
-                    if d.handRank >= 95.0:
-                        print "calling to all-in"
-                        s.send("CALL\n")
-                    else:
-                        print "folding to all-in"
-                        s.send("FOLD\n")
+                    # CALL 95 IF NOTHING IN POT (400 is all in)
+                    #(95, 400) -200/5x -3400
+                    #(90, 200)
+                    # CALL 90 IF SOMETHING ALREADY IN POT (198 is example)
+                    # POT USUALLY SOMEWHAT PROPORTIONAL TO HOW GOOD THEIR CARD IS
 
-                elif actionType == "FOLD CALL RAISE":
-                    if d.handRank >= 90.0:
+                elif actionType == "FOLD CALL RAISE": 
+                    if len(d.board) == 0:
+                        bettingNums = [80, 80, 50]
+                    else:
+                        bettingNums = [97, 90, 75]
+
+
+                    if quitWhileAheadMode:
+                        if handRank >= bettingNums[0]:
+                            s.send("RAISE"+str(d.maxRaise)+"\n") 
+                        else:
+                            s.send("FOLD\n")
+                    elif handRank >= bettingNums[1]:
                         print "raising"
                         s.send("RAISE:"+str(d.maxRaise/2.0+d.minRaise/2.0)+"\n") 
-                    elif d.handRank >= 75.0:
+                    # calling 
+                    elif handRank >= bettingNums[2]:
                         print "calling"
                         s.send("CALL\n")
                     else:
-                        if d.oppBet <= d.handRank*1.5:
+                        # this idea needs WERK
+                        if d.oppBet <= d.handRank/3:
                             print "calling based on bet size"
                             s.send("CALL\n")
                         else:
                             print "folding"
                             s.send("FOLD\n")
+# shitty hand (30% ish)
+# raise on pre flop
+# what to do?
+# -> usually a good hand
+                elif actionType == "FOLD CALL":
+                    if len(d.board) == 0:
+                        bettingNums = [80, 70]
+                    else:
+                        bettingNums = [97, 95]
 
-                    # 95 for ALL IN CALLS i feel 
+
+                    if quitWhileAheadMode:
+                        if handRank >= bettingNums[0]:
+                            s.send("CALL\n") 
+                        else:
+                            s.send("FOLD\n")
+                    elif d.oppName[-6:] == "potnet":
+                        if handRank >= 50:
+                            s.send("CALL\n")
+                        else:
+                            s.send("FOLD\n")
+                    elif handRank >= bettingNums[1]:
+                        print "calling"
+                        s.send("CALL\n")
+                    else:
+                        s.send("FOLD\n")
+
                     # also, dont raise a raise unless hand is REAL good >97
                     # no big bets on third round tho
 
@@ -102,8 +158,6 @@ class Player:
                 #    if d.winnersPot >= 2.0 * d.stackSize - 5.0:
                  #       oppPercent = d.pw.getWinPercentage()
                   #      minOppPercent = min(oppPercent,minOppPercent)
-
-
 
             elif word == "REQUESTKEYVALUES":
                 s.send("FINISH\n")

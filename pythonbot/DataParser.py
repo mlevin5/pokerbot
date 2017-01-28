@@ -1,4 +1,3 @@
-from StartingHand import *
 from PercentWin import *
 from myCard import * 
 from BetCalc import *
@@ -15,23 +14,19 @@ class DataParser:
             self.bb = int(d[4]) # big blind being used for the match (always a multiple of 2)
             self.numHands = int(d[5])
             self.oppBet = self.bb
-            #timeBank = float(d[6]) # secs left for bot to return action
+            # timeBank = float(d[6]) # secs left for bot to return action
         if self.word == "NEWHAND":
-            #self.handID = int(d[1]) # number hand it is
+            self.handID = int(d[1]) # number hand it is
             #self.button = bool(d[2]) # am i the button?
-            card1 = d[3][0]
-            suit1 = d[3][1]
-            card2 = d[4][0]
-            suit2 = d[4][1]
-            self.startingHand = StartingHand(card1, card2, suit1, suit2)
             self.hand = [
-                myCard(card1+suit1),
-                myCard(card2+suit2)
+                myCard(d[3]),
+                myCard(d[4])
                 ]
             self.board = []
             self.pw = PercentWin([], self.hand)
+            self.startingHandRank = self.pw.getWinPercentage()
             #self.bc = BetCalc()
-            #self.myBank = int(d[5])
+            self.myBank = int(d[5])
             #self.oppBank = int(d[6])
             # timeBank = float(d[7])
         # GETACTION potSize numBoardCards [boardCards] numLastActions [lastActions] numLegalActions [legalActions] timebank
@@ -48,6 +43,9 @@ class DataParser:
             for j in range(0,numLastActions):
                 a = Action(d[4+numBoardCards+j])
                 lastActions.append(a)
+                if hasattr(a,"player"):
+                    if a.player == self.oppName:
+                        self.lastOppAction = a
                 if a.action == "BET":
                     if a.player == self.oppName:
                         self.oppBet = float(a.amount)
@@ -90,7 +88,7 @@ class DataParser:
                 self.pw.updateHand(oldHandCard, newHandCard)
 
             if len(self.board) == 0:
-                self.handRank = self.startingHand.getRank()
+                self.handRank = self.startingHandRank
             else:
                 self.handRank = self.pw.getWinPercentage()
 

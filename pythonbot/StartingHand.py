@@ -37,7 +37,6 @@ class StartingHand:
 	def getRank(self):
 		f = open("startingHandRanks.txt","r")
 		while True:
-
 			lineList = f.readline().strip().split()
 			if lineList == []:
 				break
@@ -52,7 +51,7 @@ class StartingHand:
 
 def main():
 	# 50.2
-	hand = StartingHand("7","4","h","c")
+	hand = StartingHand("A","K","s","s")
 	print(hand.getRank())
 	return 0
 main()

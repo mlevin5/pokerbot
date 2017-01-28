@@ -63,8 +63,26 @@ class PercentWin:
 			handPer = ( float(numWinsForMe)/total ) * 100
 			self.handDict[setOfCards] = handPer
 			return handPer
-		elif setOfCards in self.handDict:
-			return self.handDict[setOfCards]
+		# starting hand
+		elif len(self.board) == 0 and not setOfCards in self.handDict:
+			f = open("startingHandRanks.txt","r")
+			myHandSameSuit = self.hand[0].suit == self.hand[1].suit
+			while True:
+				lineList = f.readline().strip().split()
+				if lineList == []:
+					break
+				handStr = lineList[0].upper()
+				if (self.hand[0].face.upper() in handStr and self.hand[1].face.upper() in handStr):
+					if myHandSameSuit and handStr[-1] == "S":
+						self.startingHandRank = float(lineList[1])
+						return self.startingHandRank
+					elif not myHandSameSuit and not handStr[-1] == "S":
+						self.startingHandRank = float(lineList[1])
+						return self.startingHandRank
+			return 0
+		if setOfCards in self.handDict:
+			self.startingHandRank = self.handDict[setOfCards]
+			return self.startingHandRank
 		else:
 			return 0
 
@@ -109,7 +127,10 @@ class PercentWin:
 			self.discardDict[setOfCards] = discardPercent
 		else:
 			discardPercent = self.discardDict[setOfCards]
-		if discardPercent > handPercentWin:
+
+		if len(self.board) == 3 and self.startingHandRank > 60:
+			return "CHECK\n" 
+		elif discardPercent > handPercentWin:
 			return "DISCARD:"+discard.strCard+"\n"
 		else:
 			return "CHECK\n" 
@@ -119,10 +140,11 @@ class PercentWin:
 	
 
 def main():
-	pw = PercentWin([myCard("7c"),myCard("2d"),myCard("Js")],
-		[myCard("Qh"),myCard("Qc")])
-	handRank = pw.getWinPercentage()
-	print handRank
+	pw1 = PercentWin([myCard("Qc"),myCard("3h"),myCard("5d")],
+		[myCard("Jh"),myCard("Ac")])
+	pw2 = PercentWin([],[myCard("Jh"), myCard("Ac")])
+	print pw2.getWinPercentage()
+	
 	#print pw.shouldDiscard(handRank)
 main()
 

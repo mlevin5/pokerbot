@@ -4,6 +4,8 @@ class myCard:
 	def __init__(self, strCard):
 		self.strCard = strCard
 		self.evalCard = Card.new(strCard)
+		self.face = strCard[0]
+		self.suit = strCard[1]
 
 	def __eq__(self, other):
 		if isinstance(other, self.__class__):
