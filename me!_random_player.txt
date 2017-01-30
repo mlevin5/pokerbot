@@ -2,1053 +2,1012 @@
 Hand #1, me! (0), random_player (0)
 me! posts the blind of 1
 random_player posts the blind of 2
-Dealt to me! [Jd 9s]
-Dealt to random_player [5c Ac]
+Dealt to me! [5s 6d]
+Dealt to random_player [7h Qs]
 me! calls
-random_player checks
-*** FLOP *** (4) [Kh Ks 4d]
-random_player checks
-me! discards 9s for 3d
-random_player checks
-me! bets 2
-random_player calls
-*** TURN *** (8) [Kh Ks 4d] [3s]
-random_player discards 5c for 9d
-me! checks
-random_player bets 188
-me! folds
-Uncalled bet of 188 returned to random_player
-random_player wins the pot (8)
-
-Hand #2, random_player (4), me! (-4)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [6h Jh]
-Dealt to me! [4d 7d]
-random_player raises to 160
+random_player raises to 120
 me! calls
-*** FLOP *** (320) [7s Ad Td]
-me! discards 4d for Js
-random_player discards Jh for 8h
-me! bets 2
-random_player raises to 15
+*** FLOP *** (240) [2s 6h 9d]
+random_player discards Qs for 7c
+me! discards 5s for Kh
+random_player checks
+me! bets 12
+random_player raises to 56
 me! calls
-*** TURN *** (350) [7s Ad Td] [6d]
-me! discards Js for Th
+*** TURN *** (352) [2s 6h 9d] [6c]
 random_player checks
-me! bets 7
-random_player folds
-Uncalled bet of 7 returned to me!
-me! wins the pot (350)
-
-Hand #3, me! (171), random_player (-171)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [8c Jc]
-Dealt to random_player [Kc 2s]
-me! calls
-random_player raises to 162
-me! calls
-*** FLOP *** (324) [Js 7d 4d]
-random_player checks
-me! discards 8c for Tc
-random_player checks
-me! bets 27
-random_player folds
-Uncalled bet of 27 returned to me!
-me! wins the pot (324)
-
-Hand #4, random_player (-333), me! (333)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [Ac 9s]
-Dealt to me! [5h Qs]
-random_player calls
-me! checks
-*** FLOP *** (4) [7c 6c Kc]
-me! discards 5h for Jc
-random_player discards Ac for 4h
-me! checks
-random_player bets 107
-me! folds
-Uncalled bet of 107 returned to random_player
-random_player wins the pot (4)
-
-Hand #5, me! (331), random_player (-331)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [4d 4c]
-Dealt to random_player [7h 6s]
-me! folds
-random_player wins the pot (3)
-
-Hand #6, random_player (-330), me! (330)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [9c 4d]
-Dealt to me! [3s Ts]
-random_player folds
-me! wins the pot (3)
-
-Hand #7, me! (331), random_player (-331)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [5c 7h]
-Dealt to random_player [2c 7c]
-me! folds
-random_player wins the pot (3)
-
-Hand #8, random_player (-330), me! (330)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [9s 8s]
-Dealt to me! [6h Kh]
-random_player raises to 14
-me! folds
-Uncalled bet of 12 returned to random_player
-random_player wins the pot (4)
-
-Hand #9, me! (328), random_player (-328)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [Jd 4d]
-Dealt to random_player [6c Kc]
-me! folds
-random_player wins the pot (3)
-
-Hand #10, random_player (-327), me! (327)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [Ah 3h]
-Dealt to me! [8c 5c]
-random_player folds
-me! wins the pot (3)
-
-Hand #11, me! (328), random_player (-328)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [Qc Th]
-Dealt to random_player [Ks 7s]
-me! folds
-random_player wins the pot (3)
-
-Hand #12, random_player (-327), me! (327)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [2c Kd]
-Dealt to me! [Qd 9h]
-random_player raises to 180
-me! folds
-Uncalled bet of 178 returned to random_player
-random_player wins the pot (4)
-
-Hand #13, me! (325), random_player (-325)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [Jd 8c]
-Dealt to random_player [6h 4d]
-me! folds
-random_player wins the pot (3)
-
-Hand #14, random_player (-324), me! (324)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [Qd 2c]
-Dealt to me! [Ac 7h]
-random_player folds
-me! wins the pot (3)
-
-Hand #15, me! (325), random_player (-325)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [9c Qd]
-Dealt to random_player [7h Qh]
-me! folds
-random_player wins the pot (3)
-
-Hand #16, random_player (-324), me! (324)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [3h 8h]
-Dealt to me! [9c Jd]
-random_player raises to 166
-me! folds
-Uncalled bet of 164 returned to random_player
-random_player wins the pot (4)
-
-Hand #17, me! (322), random_player (-322)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [9s Th]
-Dealt to random_player [3s 4h]
-me! folds
-random_player wins the pot (3)
-
-Hand #18, random_player (-321), me! (321)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [Ts 3s]
-Dealt to me! [2c As]
-random_player calls
-me! checks
-*** FLOP *** (4) [7d Th 6c]
-me! discards 2c for Qd
-random_player discards 3s for 9c
-me! checks
-random_player checks
-*** TURN *** (4) [7d Th 6c] [5h]
-me! discards Qd for 3h
-random_player discards 9c for 4h
-me! checks
-random_player bets 7
-me! folds
-Uncalled bet of 7 returned to random_player
-random_player wins the pot (4)
-
-Hand #19, me! (319), random_player (-319)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [3h Qd]
-Dealt to random_player [9s Ad]
-me! folds
-random_player wins the pot (3)
-
-Hand #20, random_player (-318), me! (318)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [5c Tc]
-Dealt to me! [5s 6h]
-random_player calls
-me! checks
-*** FLOP *** (4) [3s 9h Kc]
-me! discards 5s for 3h
-random_player checks
-me! checks
-random_player bets 14
-me! folds
-Uncalled bet of 14 returned to random_player
-random_player wins the pot (4)
-
-Hand #21, me! (316), random_player (-316)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [6s Qh]
-Dealt to random_player [3c 9d]
-me! folds
-random_player wins the pot (3)
-
-Hand #22, random_player (-315), me! (315)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [Th Ad]
-Dealt to me! [8c 2h]
-random_player raises to 45
-me! folds
-Uncalled bet of 43 returned to random_player
-random_player wins the pot (4)
-
-Hand #23, me! (313), random_player (-313)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [2s 5d]
-Dealt to random_player [Jd Qs]
-me! folds
-random_player wins the pot (3)
-
-Hand #24, random_player (-312), me! (312)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [Ah Ad]
-Dealt to me! [Js 5s]
-random_player folds
-me! wins the pot (3)
-
-Hand #25, me! (313), random_player (-313)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [7h 6h]
-Dealt to random_player [2d 7s]
-me! folds
-random_player wins the pot (3)
-
-Hand #26, random_player (-312), me! (312)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [6s Qh]
-Dealt to me! [8d 4c]
-random_player calls
-me! checks
-*** FLOP *** (4) [7h 4h 9c]
-me! discards 8d for 5h
-random_player checks
-me! checks
-random_player checks
-*** TURN *** (4) [7h 4h 9c] [Ts]
-me! discards 5h for Tc
-random_player discards 6s for 5c
-me! checks
-random_player checks
-*** RIVER *** (4) [7h 4h 9c Ts] [Kd]
-me! checks
-random_player checks
-random_player shows [Qh 5c]
-me! shows [4c Tc]
-me! wins the pot (4)
-
-Hand #27, me! (314), random_player (-314)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [5h 3d]
-Dealt to random_player [8d 6c]
-me! folds
-random_player wins the pot (3)
-
-Hand #28, random_player (-313), me! (313)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [Tc 6h]
-Dealt to me! [5c 4h]
-random_player calls
-me! checks
-*** FLOP *** (4) [Jh Jc Kc]
-me! discards 4h for As
-random_player discards 6h for 5d
-me! checks
-random_player checks
-*** TURN *** (4) [Jh Jc Kc] [Js]
-me! checks
-random_player discards Tc for Qd
-me! checks
-random_player checks
-*** RIVER *** (4) [Jh Jc Kc Js] [7d]
-me! checks
-random_player bets 126
-me! folds
-Uncalled bet of 126 returned to random_player
-random_player wins the pot (4)
-
-Hand #29, me! (311), random_player (-311)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [9c 6c]
-Dealt to random_player [8c Qs]
-me! folds
-random_player wins the pot (3)
-
-Hand #30, random_player (-310), me! (310)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [Ad Jh]
-Dealt to me! [As 8c]
-random_player folds
-me! wins the pot (3)
-
-Hand #31, me! (311), random_player (-311)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [4d 7s]
-Dealt to random_player [9h Ts]
-me! folds
-random_player wins the pot (3)
-
-Hand #32, random_player (-310), me! (310)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [Qc 8c]
-Dealt to me! [Th Jh]
-random_player raises to 50
-me! folds
-Uncalled bet of 48 returned to random_player
-random_player wins the pot (4)
-
-Hand #33, me! (308), random_player (-308)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [5d Tc]
-Dealt to random_player [2h 3c]
-me! folds
-random_player wins the pot (3)
-
-Hand #34, random_player (-307), me! (307)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [8h Qh]
-Dealt to me! [9s 7c]
-random_player raises to 137
-me! folds
-Uncalled bet of 135 returned to random_player
-random_player wins the pot (4)
-
-Hand #35, me! (305), random_player (-305)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [9s 3d]
-Dealt to random_player [8h Js]
-me! folds
-random_player wins the pot (3)
-
-Hand #36, random_player (-304), me! (304)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [3c 9h]
-Dealt to me! [5h Td]
-random_player folds
-me! wins the pot (3)
-
-Hand #37, me! (305), random_player (-305)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [Ad 5d]
-Dealt to random_player [4d Qc]
-me! folds
-random_player wins the pot (3)
-
-Hand #38, random_player (-304), me! (304)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [2d 7d]
-Dealt to me! [4d Jh]
-random_player calls
-me! checks
-*** FLOP *** (4) [As Th Td]
-me! discards 4d for Kh
-random_player discards 7d for 6d
-me! checks
-random_player bets 123
-me! folds
-Uncalled bet of 123 returned to random_player
-random_player wins the pot (4)
-
-Hand #39, me! (302), random_player (-302)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [5d Ts]
-Dealt to random_player [Qd 3c]
-me! folds
-random_player wins the pot (3)
-
-Hand #40, random_player (-301), me! (301)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [3s 6c]
-Dealt to me! [6d 3c]
-random_player folds
-me! wins the pot (3)
-
-Hand #41, me! (302), random_player (-302)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [Qd 5c]
-Dealt to random_player [Th Kc]
-me! folds
-random_player wins the pot (3)
-
-Hand #42, random_player (-301), me! (301)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [9d Ks]
-Dealt to me! [Ad 8c]
-random_player calls
-me! checks
-*** FLOP *** (4) [8d 2c Jc]
-me! checks
-random_player checks
-me! checks
-random_player checks
-*** TURN *** (4) [8d 2c Jc] [6c]
-me! discards Ad for 3d
-random_player checks
-me! checks
-random_player bets 194
-me! folds
-Uncalled bet of 194 returned to random_player
-random_player wins the pot (4)
-
-Hand #43, me! (299), random_player (-299)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [Js 8c]
-Dealt to random_player [4h Ks]
-me! calls
-random_player raises to 106
-me! calls
-*** FLOP *** (212) [2c 5h As]
-random_player checks
-me! discards 8c for 4c
-random_player checks
-me! bets 2
-random_player calls
-*** TURN *** (216) [2c 5h As] [5d]
-random_player discards Ks for 7c
-me! discards 4c for 7s
-random_player bets 67
-me! folds
-Uncalled bet of 67 returned to random_player
-random_player wins the pot (216)
-
-Hand #44, random_player (-191), me! (191)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [3c 2c]
-Dealt to me! [Ks 2d]
-random_player folds
-me! wins the pot (3)
-
-Hand #45, me! (192), random_player (-192)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [4h Ah]
-Dealt to random_player [5d 2d]
-me! calls
-random_player checks
-*** FLOP *** (4) [2c 2s 9d]
-random_player discards 5d for Kc
-me! discards 4h for 8c
-random_player bets 110
-me! folds
-Uncalled bet of 110 returned to random_player
-random_player wins the pot (4)
-
-Hand #46, random_player (-190), me! (190)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [3d 5h]
-Dealt to me! [9h Ac]
-random_player raises to 67
-me! calls
-*** FLOP *** (134) [5c Ad 6s]
-me! checks
-random_player discards 3d for Jc
-me! bets 75
-random_player calls
-*** TURN *** (284) [5c Ad 6s] [Qd]
-me! discards 9h for Ks
+me! discards Kh for 2d
 random_player checks
 me! bets 17
-random_player calls
-*** RIVER *** (318) [5c Ad 6s Qd] [8s]
-me! bets 2
-random_player raises to 28
+random_player raises to 24
 me! calls
-random_player shows [5h Jc]
-me! shows [Ac Ks]
-me! wins the pot (374)
+*** RIVER *** (400) [2s 6h 9d 6c] [3d]
+me! shows [6d 2d]
+random_player shows [7h 7c]
+me! wins the pot (400)
 
-Hand #47, me! (377), random_player (-377)
+Hand #2, random_player (-200), me! (200)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [5c 2c]
+Dealt to me! [7d Qc]
+random_player raises to 69
+me! calls
+*** FLOP *** (138) [Kc 6h Jd]
+me! discards 7d for 4c
+random_player checks
+me! bets 2
+random_player calls
+*** TURN *** (142) [Kc 6h Jd] [Js]
+me! discards 4c for 6c
+random_player checks
+me! bets 6
+random_player raises to 72
+me! calls
+*** RIVER *** (286) [Kc 6h Jd Js] [6s]
+me! bets 18
+random_player calls
+random_player shows [5c 2c]
+me! shows [Qc 6c]
+me! wins the pot (322)
+
+Hand #3, me! (361), random_player (-361)
 me! posts the blind of 1
 random_player posts the blind of 2
-Dealt to me! [Jc 5d]
-Dealt to random_player [3s 6d]
+Dealt to me! [4d 5d]
+Dealt to random_player [Jd 9h]
 me! folds
 random_player wins the pot (3)
 
-Hand #48, random_player (-376), me! (376)
+Hand #4, random_player (-360), me! (360)
 random_player posts the blind of 1
 me! posts the blind of 2
-Dealt to random_player [3h 9d]
-Dealt to me! [6s 8h]
-random_player raises to 194
-me! folds
-Uncalled bet of 192 returned to random_player
-random_player wins the pot (4)
-
-Hand #49, me! (374), random_player (-374)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [8c 2s]
-Dealt to random_player [6s 5s]
-me! folds
-random_player wins the pot (3)
-
-Hand #50, random_player (-373), me! (373)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [6c 7s]
-Dealt to me! [Kh 8d]
+Dealt to random_player [6d 8s]
+Dealt to me! [Kd 9h]
 random_player folds
 me! wins the pot (3)
 
-Hand #51, me! (374), random_player (-374)
+Hand #5, me! (361), random_player (-361)
 me! posts the blind of 1
 random_player posts the blind of 2
-Dealt to me! [Jc 4d]
-Dealt to random_player [6h 9c]
+Dealt to me! [Kd 3s]
+Dealt to random_player [Jh 9c]
 me! folds
 random_player wins the pot (3)
 
-Hand #52, random_player (-373), me! (373)
+Hand #6, random_player (-360), me! (360)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [6d 6s]
+Dealt to me! [Ad 2d]
+random_player calls
+me! checks
+*** FLOP *** (4) [Kd 4c 9c]
+me! discards 2d for Ks
+random_player discards 6s for Kh
+me! bets 198
+random_player folds
+Uncalled bet of 198 returned to me!
+me! wins the pot (4)
+
+Hand #7, me! (362), random_player (-362)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [9s Qh]
+Dealt to random_player [4d 6h]
+me! folds
+random_player wins the pot (3)
+
+Hand #8, random_player (-361), me! (361)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [7d 6c]
+Dealt to me! [8d Qs]
+random_player raises to 151
+me! folds
+Uncalled bet of 149 returned to random_player
+random_player wins the pot (4)
+
+Hand #9, me! (359), random_player (-359)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [4s 7s]
+Dealt to random_player [3d 9s]
+me! folds
+random_player wins the pot (3)
+
+Hand #10, random_player (-358), me! (358)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [Tc 3s]
+Dealt to me! [Ks 7s]
+random_player folds
+me! wins the pot (3)
+
+Hand #11, me! (359), random_player (-359)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [3h 6h]
+Dealt to random_player [Ah 5c]
+me! folds
+random_player wins the pot (3)
+
+Hand #12, random_player (-358), me! (358)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [4c 2d]
+Dealt to me! [Kc 3c]
+random_player folds
+me! wins the pot (3)
+
+Hand #13, me! (359), random_player (-359)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [Ks 3d]
+Dealt to random_player [6d 4s]
+me! folds
+random_player wins the pot (3)
+
+Hand #14, random_player (-358), me! (358)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [4h Jc]
+Dealt to me! [2c 6c]
+random_player raises to 77
+me! folds
+Uncalled bet of 75 returned to random_player
+random_player wins the pot (4)
+
+Hand #15, me! (356), random_player (-356)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [4c Td]
+Dealt to random_player [7s 7c]
+me! folds
+random_player wins the pot (3)
+
+Hand #16, random_player (-355), me! (355)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [Js Qc]
+Dealt to me! [2c Th]
+random_player folds
+me! wins the pot (3)
+
+Hand #17, me! (356), random_player (-356)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [3c 8s]
+Dealt to random_player [4d Ac]
+me! folds
+random_player wins the pot (3)
+
+Hand #18, random_player (-355), me! (355)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [2d 6d]
+Dealt to me! [8h Th]
+random_player calls
+me! checks
+*** FLOP *** (4) [Td 3d 6s]
+me! discards 8h for Ks
+random_player discards 6d for 2h
+me! checks
+random_player checks
+*** TURN *** (4) [Td 3d 6s] [Qs]
+me! checks
+random_player discards 2d for Kd
+me! checks
+random_player bets 21
+me! folds
+Uncalled bet of 21 returned to random_player
+random_player wins the pot (4)
+
+Hand #19, me! (353), random_player (-353)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [2s 2c]
+Dealt to random_player [Kc 8d]
+me! folds
+random_player wins the pot (3)
+
+Hand #20, random_player (-352), me! (352)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [4h 6d]
+Dealt to me! [Kh 4d]
+random_player raises to 171
+me! folds
+Uncalled bet of 169 returned to random_player
+random_player wins the pot (4)
+
+Hand #21, me! (350), random_player (-350)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [4h 3d]
+Dealt to random_player [Qs 8d]
+me! folds
+random_player wins the pot (3)
+
+Hand #22, random_player (-349), me! (349)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [8d Qs]
+Dealt to me! [5c 3c]
+random_player folds
+me! wins the pot (3)
+
+Hand #23, me! (350), random_player (-350)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [6c Qs]
+Dealt to random_player [2s 3c]
+me! folds
+random_player wins the pot (3)
+
+Hand #24, random_player (-349), me! (349)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [5c 9h]
+Dealt to me! [4h 6c]
+random_player folds
+me! wins the pot (3)
+
+Hand #25, me! (350), random_player (-350)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [3s Qd]
+Dealt to random_player [9c Qh]
+me! folds
+random_player wins the pot (3)
+
+Hand #26, random_player (-349), me! (349)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [7s 9s]
+Dealt to me! [2s Kd]
+random_player calls
+me! checks
+*** FLOP *** (4) [8s Jd Qd]
+me! discards 2s for 4s
+random_player discards 9s for Jc
+me! checks
+random_player checks
+*** TURN *** (4) [8s Jd Qd] [Ks]
+me! discards 4s for 3h
+random_player discards Jc for Kh
+me! checks
+random_player bets 100
+me! folds
+Uncalled bet of 100 returned to random_player
+random_player wins the pot (4)
+
+Hand #27, me! (347), random_player (-347)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [Jd Qd]
+Dealt to random_player [2h 6c]
+me! folds
+random_player wins the pot (3)
+
+Hand #28, random_player (-346), me! (346)
 random_player posts the blind of 1
 me! posts the blind of 2
 Dealt to random_player [Qc Td]
+Dealt to me! [4h 8c]
+random_player raises to 158
+me! folds
+Uncalled bet of 156 returned to random_player
+random_player wins the pot (4)
+
+Hand #29, me! (344), random_player (-344)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [Js 5c]
+Dealt to random_player [4c 9s]
+me! folds
+random_player wins the pot (3)
+
+Hand #30, random_player (-343), me! (343)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [Th 9h]
+Dealt to me! [Ts Ad]
+random_player calls
+me! checks
+*** FLOP *** (4) [5c 4s 3s]
+me! discards Ts for Kh
+random_player discards 9h for As
+me! checks
+random_player checks
+*** TURN *** (4) [5c 4s 3s] [8d]
+me! discards Kh for 7d
+random_player checks
+me! checks
+random_player checks
+*** RIVER *** (4) [5c 4s 3s 8d] [Jd]
+me! checks
+random_player checks
+random_player shows [Th As]
+me! shows [Ad 7d]
+random_player wins the pot (4)
+
+Hand #31, me! (341), random_player (-341)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [Kd 7h]
+Dealt to random_player [9s Qc]
+me! folds
+random_player wins the pot (3)
+
+Hand #32, random_player (-340), me! (340)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [Th 8c]
+Dealt to me! [7d 4c]
+random_player folds
+me! wins the pot (3)
+
+Hand #33, me! (341), random_player (-341)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [Ks 9c]
+Dealt to random_player [9d Jd]
+me! folds
+random_player wins the pot (3)
+
+Hand #34, random_player (-340), me! (340)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [Kc 3d]
+Dealt to me! [Jd 6s]
+random_player folds
+me! wins the pot (3)
+
+Hand #35, me! (341), random_player (-341)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [8h Kc]
+Dealt to random_player [Jd 3s]
+me! folds
+random_player wins the pot (3)
+
+Hand #36, random_player (-340), me! (340)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [3d 5s]
+Dealt to me! [Ah 7d]
+random_player raises to 117
+me! folds
+Uncalled bet of 115 returned to random_player
+random_player wins the pot (4)
+
+Hand #37, me! (338), random_player (-338)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [Qh 3c]
+Dealt to random_player [7c Kc]
+me! folds
+random_player wins the pot (3)
+
+Hand #38, random_player (-337), me! (337)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [Qc 5s]
+Dealt to me! [3h Kd]
+random_player folds
+me! wins the pot (3)
+
+Hand #39, me! (338), random_player (-338)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [7s 2c]
+Dealt to random_player [Td 9d]
+me! folds
+random_player wins the pot (3)
+
+Hand #40, random_player (-337), me! (337)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [3c 7c]
+Dealt to me! [5c 6d]
+random_player folds
+me! wins the pot (3)
+
+Hand #41, me! (338), random_player (-338)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [Qs 3h]
+Dealt to random_player [7s Qc]
+me! folds
+random_player wins the pot (3)
+
+Hand #42, random_player (-337), me! (337)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [Th 5d]
+Dealt to me! [Kh 3c]
+random_player folds
+me! wins the pot (3)
+
+Hand #43, me! (338), random_player (-338)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [Ac Ts]
+Dealt to random_player [Th Qs]
+me! folds
+random_player wins the pot (3)
+
+Hand #44, random_player (-337), me! (337)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [4d 5c]
+Dealt to me! [Ks Kh]
+random_player folds
+me! wins the pot (3)
+
+Hand #45, me! (338), random_player (-338)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [2s 8d]
+Dealt to random_player [Js Qc]
+me! folds
+random_player wins the pot (3)
+
+Hand #46, random_player (-337), me! (337)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [8h 7c]
+Dealt to me! [4d 8s]
+random_player folds
+me! wins the pot (3)
+
+Hand #47, me! (338), random_player (-338)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [4s Kc]
+Dealt to random_player [3d Jd]
+me! folds
+random_player wins the pot (3)
+
+Hand #48, random_player (-337), me! (337)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [As Jh]
+Dealt to me! [6c Ks]
+random_player calls
+me! checks
+*** FLOP *** (4) [8c 3d 4h]
+me! discards 6c for 9d
+random_player checks
+me! checks
+random_player bets 99
+me! folds
+Uncalled bet of 99 returned to random_player
+random_player wins the pot (4)
+
+Hand #49, me! (335), random_player (-335)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [6d Qc]
+Dealt to random_player [9c Th]
+me! folds
+random_player wins the pot (3)
+
+Hand #50, random_player (-334), me! (334)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [8s 3h]
+Dealt to me! [2h 2d]
+random_player folds
+me! wins the pot (3)
+
+Hand #51, me! (335), random_player (-335)
+me! posts the blind of 1
+random_player posts the blind of 2
 Dealt to me! [Qs 9c]
+Dealt to random_player [Jh 2c]
+me! folds
+random_player wins the pot (3)
+
+Hand #52, random_player (-334), me! (334)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [4d As]
+Dealt to me! [3h 5h]
+random_player raises to 193
+me! folds
+Uncalled bet of 191 returned to random_player
+random_player wins the pot (4)
+
+Hand #53, me! (332), random_player (-332)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [8d 3s]
+Dealt to random_player [8h 4s]
+me! folds
+random_player wins the pot (3)
+
+Hand #54, random_player (-331), me! (331)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [8d As]
+Dealt to me! [Ad Jc]
+random_player folds
+me! wins the pot (3)
+
+Hand #55, me! (332), random_player (-332)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [Td As]
+Dealt to random_player [Th 7c]
+me! folds
+random_player wins the pot (3)
+
+Hand #56, random_player (-331), me! (331)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [6c 3d]
+Dealt to me! [5c Qh]
+random_player raises to 173
+me! folds
+Uncalled bet of 171 returned to random_player
+random_player wins the pot (4)
+
+Hand #57, me! (329), random_player (-329)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [Qs 8d]
+Dealt to random_player [6s 2c]
+me! folds
+random_player wins the pot (3)
+
+Hand #58, random_player (-328), me! (328)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [8d 4d]
+Dealt to me! [8c Qs]
 random_player calls
 me! checks
-*** FLOP *** (4) [9h Ks 9d]
+*** FLOP *** (4) [Jc As Td]
+me! discards 8c for 2c
+random_player checks
+me! checks
+random_player bets 63
+me! folds
+Uncalled bet of 63 returned to random_player
+random_player wins the pot (4)
+
+Hand #59, me! (326), random_player (-326)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [5c 8s]
+Dealt to random_player [Kc 7c]
+me! folds
+random_player wins the pot (3)
+
+Hand #60, random_player (-325), me! (325)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [Tc 8d]
+Dealt to me! [6h Qd]
+random_player calls
+me! checks
+*** FLOP *** (4) [2d 4c As]
+me! discards 6h for Td
+random_player discards 8d for 4s
+me! checks
+random_player bets 97
+me! folds
+Uncalled bet of 97 returned to random_player
+random_player wins the pot (4)
+
+Hand #61, me! (323), random_player (-323)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [2s 7h]
+Dealt to random_player [Ac 3h]
+me! folds
+random_player wins the pot (3)
+
+Hand #62, random_player (-322), me! (322)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [2c Kc]
+Dealt to me! [Jh 5s]
+random_player calls
+me! checks
+*** FLOP *** (4) [As 5c 6c]
+me! discards Jh for 8c
+random_player discards Kc for Tc
 me! checks
 random_player checks
-me! bets 198
-random_player folds
-Uncalled bet of 198 returned to me!
-me! wins the pot (4)
-
-Hand #53, me! (375), random_player (-375)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [7h As]
-Dealt to random_player [Qc 7d]
-me! folds
-random_player wins the pot (3)
-
-Hand #54, random_player (-374), me! (374)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [5h 4s]
-Dealt to me! [As 2c]
-random_player folds
-me! wins the pot (3)
-
-Hand #55, me! (375), random_player (-375)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [9d 9h]
-Dealt to random_player [2s 7h]
-me! folds
-random_player wins the pot (3)
-
-Hand #56, random_player (-374), me! (374)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [Ac Kh]
-Dealt to me! [5c 3h]
-random_player calls
-me! checks
-*** FLOP *** (4) [4d Tc 3c]
-me! discards 5c for 3s
-random_player discards Kh for 9h
-me! bets 198
-random_player calls
-*** TURN *** (400) [4d Tc 3c] [Jc]
-me! checks
-random_player discards Ac for 6d
-*** RIVER *** (400) [4d Tc 3c Jc] [9d]
-random_player shows [9h 6d]
-me! shows [3h 3s]
-me! wins the pot (400)
-
-Hand #57, me! (574), random_player (-574)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [Td Th]
-Dealt to random_player [3h 4c]
-me! folds
-random_player wins the pot (3)
-
-Hand #58, random_player (-573), me! (573)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [Ts 2s]
-Dealt to me! [9s Js]
-random_player folds
-me! wins the pot (3)
-
-Hand #59, me! (574), random_player (-574)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [5s Ts]
-Dealt to random_player [8s 6c]
-me! folds
-random_player wins the pot (3)
-
-Hand #60, random_player (-573), me! (573)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [4d 9d]
-Dealt to me! [4s 3s]
-random_player raises to 79
-me! folds
-Uncalled bet of 77 returned to random_player
-random_player wins the pot (4)
-
-Hand #61, me! (571), random_player (-571)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [5h 4s]
-Dealt to random_player [5d 5c]
-me! folds
-random_player wins the pot (3)
-
-Hand #62, random_player (-570), me! (570)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [Jd Kc]
-Dealt to me! [3s 2h]
-random_player calls
-me! checks
-*** FLOP *** (4) [5s 4d Ac]
-me! checks
-random_player discards Jd for 7c
-me! bets 198
-random_player folds
-Uncalled bet of 198 returned to me!
-me! wins the pot (4)
-
-Hand #63, me! (572), random_player (-572)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [Ts Qh]
-Dealt to random_player [9s As]
-me! folds
-random_player wins the pot (3)
-
-Hand #64, random_player (-571), me! (571)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [As 6h]
-Dealt to me! [9s Js]
-random_player folds
-me! wins the pot (3)
-
-Hand #65, me! (572), random_player (-572)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [Jd 2h]
-Dealt to random_player [9c Qd]
-me! folds
-random_player wins the pot (3)
-
-Hand #66, random_player (-571), me! (571)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [6d Ac]
-Dealt to me! [Jh 5d]
-random_player calls
-me! checks
-*** FLOP *** (4) [3s 8s 8h]
-me! discards 5d for 6h
-random_player discards 6d for 2d
+*** TURN *** (4) [As 5c 6c] [2s]
 me! checks
 random_player checks
-*** TURN *** (4) [3s 8s 8h] [7c]
-me! discards 6h for 6c
-random_player discards Ac for 4h
 me! checks
-random_player bets 14
+random_player bets 73
 me! folds
-Uncalled bet of 14 returned to random_player
+Uncalled bet of 73 returned to random_player
 random_player wins the pot (4)
 
-Hand #67, me! (569), random_player (-569)
+Hand #63, me! (320), random_player (-320)
 me! posts the blind of 1
 random_player posts the blind of 2
-Dealt to me! [Jc 7d]
-Dealt to random_player [Qs 7s]
+Dealt to me! [8h Qh]
+Dealt to random_player [Qd 9d]
 me! folds
 random_player wins the pot (3)
 
-Hand #68, random_player (-568), me! (568)
+Hand #64, random_player (-319), me! (319)
 random_player posts the blind of 1
 me! posts the blind of 2
-Dealt to random_player [Ad 5d]
-Dealt to me! [7d Ks]
+Dealt to random_player [6s 4c]
+Dealt to me! [6c 2s]
 random_player folds
 me! wins the pot (3)
 
-Hand #69, me! (569), random_player (-569)
+Hand #65, me! (320), random_player (-320)
 me! posts the blind of 1
 random_player posts the blind of 2
-Dealt to me! [Kh 7c]
-Dealt to random_player [3h 6h]
+Dealt to me! [Ac 4s]
+Dealt to random_player [Js 8s]
 me! folds
 random_player wins the pot (3)
 
-Hand #70, random_player (-568), me! (568)
+Hand #66, random_player (-319), me! (319)
 random_player posts the blind of 1
 me! posts the blind of 2
-Dealt to random_player [3c 9h]
-Dealt to me! [Ad 6c]
-random_player raises to 100
-me! folds
-Uncalled bet of 98 returned to random_player
-random_player wins the pot (4)
+Dealt to random_player [Qc 9s]
+Dealt to me! [8c Ts]
+random_player folds
+me! wins the pot (3)
 
-Hand #71, me! (566), random_player (-566)
+Hand #67, me! (320), random_player (-320)
 me! posts the blind of 1
 random_player posts the blind of 2
-Dealt to me! [Tc Qc]
-Dealt to random_player [8d Kd]
+Dealt to me! [Qc 2c]
+Dealt to random_player [8d Kh]
 me! folds
 random_player wins the pot (3)
 
-Hand #72, random_player (-565), me! (565)
+Hand #68, random_player (-319), me! (319)
 random_player posts the blind of 1
 me! posts the blind of 2
-Dealt to random_player [2d 7c]
-Dealt to me! [6s 9h]
-random_player calls
-me! checks
-*** FLOP *** (4) [4c 9d Qd]
-me! discards 6s for Ts
-random_player discards 7c for Td
-me! checks
-random_player bets 142
+Dealt to random_player [Js Ks]
+Dealt to me! [9c 8d]
+random_player raises to 160
 me! folds
-Uncalled bet of 142 returned to random_player
+Uncalled bet of 158 returned to random_player
 random_player wins the pot (4)
 
-Hand #73, me! (563), random_player (-563)
+Hand #69, me! (317), random_player (-317)
 me! posts the blind of 1
 random_player posts the blind of 2
-Dealt to me! [9c 6d]
-Dealt to random_player [4d 9d]
+Dealt to me! [4d Qh]
+Dealt to random_player [3s 7s]
 me! folds
 random_player wins the pot (3)
 
-Hand #74, random_player (-562), me! (562)
+Hand #70, random_player (-316), me! (316)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [2c 8c]
+Dealt to me! [7c 7h]
+random_player raises to 93
+me! folds
+Uncalled bet of 91 returned to random_player
+random_player wins the pot (4)
+
+Hand #71, me! (314), random_player (-314)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [5s 2c]
+Dealt to random_player [Kh 2d]
+me! folds
+random_player wins the pot (3)
+
+Hand #72, random_player (-313), me! (313)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [Jd 8c]
+Dealt to me! [Jh Qd]
+random_player folds
+me! wins the pot (3)
+
+Hand #73, me! (314), random_player (-314)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [Ah 5c]
+Dealt to random_player [Ts 3s]
+me! folds
+random_player wins the pot (3)
+
+Hand #74, random_player (-313), me! (313)
 random_player posts the blind of 1
 me! posts the blind of 2
 Dealt to random_player [Td 8c]
-Dealt to me! [5d Jd]
-random_player folds
-me! wins the pot (3)
-
-Hand #75, me! (563), random_player (-563)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [2c Ks]
-Dealt to random_player [5s Qh]
-me! folds
-random_player wins the pot (3)
-
-Hand #76, random_player (-562), me! (562)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [Th Qs]
-Dealt to me! [Ah Qd]
+Dealt to me! [Kd Jd]
 random_player calls
 me! checks
-*** FLOP *** (4) [6c 2h 8c]
-me! checks
+*** FLOP *** (4) [5h 3c 4h]
+me! discards Jd for 9h
 random_player checks
 me! checks
-random_player bets 101
+random_player bets 64
 me! folds
-Uncalled bet of 101 returned to random_player
+Uncalled bet of 64 returned to random_player
 random_player wins the pot (4)
 
-Hand #77, me! (560), random_player (-560)
+Hand #75, me! (311), random_player (-311)
 me! posts the blind of 1
 random_player posts the blind of 2
-Dealt to me! [9h 8s]
-Dealt to random_player [Kh 5h]
+Dealt to me! [Ad 4c]
+Dealt to random_player [Kd 7d]
 me! folds
 random_player wins the pot (3)
 
-Hand #78, random_player (-559), me! (559)
+Hand #76, random_player (-310), me! (310)
 random_player posts the blind of 1
 me! posts the blind of 2
-Dealt to random_player [7s Js]
-Dealt to me! [8s 6h]
+Dealt to random_player [2s 4h]
+Dealt to me! [Kd 8s]
 random_player folds
 me! wins the pot (3)
 
-Hand #79, me! (560), random_player (-560)
+Hand #77, me! (311), random_player (-311)
 me! posts the blind of 1
 random_player posts the blind of 2
-Dealt to me! [5c Td]
-Dealt to random_player [7h 7d]
+Dealt to me! [3s Ks]
+Dealt to random_player [9h 2h]
 me! folds
 random_player wins the pot (3)
 
-Hand #80, random_player (-559), me! (559)
+Hand #78, random_player (-310), me! (310)
 random_player posts the blind of 1
 me! posts the blind of 2
-Dealt to random_player [2h Qd]
-Dealt to me! [2d 9s]
-random_player raises to 83
-me! folds
-Uncalled bet of 81 returned to random_player
-random_player wins the pot (4)
-
-Hand #81, me! (557), random_player (-557)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [Ad Th]
-Dealt to random_player [Jd 5s]
-me! folds
-random_player wins the pot (3)
-
-Hand #82, random_player (-556), me! (556)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [Qs Qd]
-Dealt to me! [5h 7c]
-random_player raises to 105
-me! folds
-Uncalled bet of 103 returned to random_player
-random_player wins the pot (4)
-
-Hand #83, me! (554), random_player (-554)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [6s Qd]
-Dealt to random_player [6c Qs]
-me! folds
-random_player wins the pot (3)
-
-Hand #84, random_player (-553), me! (553)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [9h Qh]
-Dealt to me! [Qd Ah]
+Dealt to random_player [Qc 3h]
+Dealt to me! [4h 8c]
 random_player folds
 me! wins the pot (3)
 
-Hand #85, me! (554), random_player (-554)
+Hand #79, me! (311), random_player (-311)
 me! posts the blind of 1
 random_player posts the blind of 2
-Dealt to me! [5d Qs]
-Dealt to random_player [9h 9s]
+Dealt to me! [9h 7d]
+Dealt to random_player [Jh 2s]
 me! folds
 random_player wins the pot (3)
 
-Hand #86, random_player (-553), me! (553)
+Hand #80, random_player (-310), me! (310)
 random_player posts the blind of 1
 me! posts the blind of 2
-Dealt to random_player [As Ad]
-Dealt to me! [9d Js]
-random_player calls
-me! checks
-*** FLOP *** (4) [7s 3c 9c]
-me! checks
-random_player discards Ad for 8d
-me! checks
-random_player bets 23
+Dealt to random_player [Tc Kh]
+Dealt to me! [6d 2d]
+random_player folds
+me! wins the pot (3)
+
+Hand #81, me! (311), random_player (-311)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [Js Ks]
+Dealt to random_player [5c 8h]
+me! folds
+random_player wins the pot (3)
+
+Hand #82, random_player (-310), me! (310)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [4s Tc]
+Dealt to me! [5c Ac]
+random_player raises to 73
+me! folds
+Uncalled bet of 71 returned to random_player
+random_player wins the pot (4)
+
+Hand #83, me! (308), random_player (-308)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [4d 9h]
+Dealt to random_player [Ks Ts]
+me! folds
+random_player wins the pot (3)
+
+Hand #84, random_player (-307), me! (307)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [9c Kd]
+Dealt to me! [6h 2s]
+random_player raises to 177
+me! folds
+Uncalled bet of 175 returned to random_player
+random_player wins the pot (4)
+
+Hand #85, me! (305), random_player (-305)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [Jh As]
+Dealt to random_player [6d Ad]
+me! folds
+random_player wins the pot (3)
+
+Hand #86, random_player (-304), me! (304)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [4h 6d]
+Dealt to me! [8c Ah]
+random_player folds
+me! wins the pot (3)
+
+Hand #87, me! (305), random_player (-305)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [2h 7h]
+Dealt to random_player [Tc 4c]
+me! folds
+random_player wins the pot (3)
+
+Hand #88, random_player (-304), me! (304)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [Kd 7c]
+Dealt to me! [7h Ah]
+random_player raises to 25
 me! folds
 Uncalled bet of 23 returned to random_player
 random_player wins the pot (4)
 
-Hand #87, me! (551), random_player (-551)
+Hand #89, me! (302), random_player (-302)
 me! posts the blind of 1
 random_player posts the blind of 2
-Dealt to me! [7c 4h]
-Dealt to random_player [Qh Ts]
+Dealt to me! [Th Qs]
+Dealt to random_player [6h 8c]
 me! folds
 random_player wins the pot (3)
 
-Hand #88, random_player (-550), me! (550)
+Hand #90, random_player (-301), me! (301)
 random_player posts the blind of 1
 me! posts the blind of 2
-Dealt to random_player [Qh 5s]
-Dealt to me! [Td 9s]
+Dealt to random_player [2s Kh]
+Dealt to me! [Qh 8c]
+random_player raises to 163
+me! folds
+Uncalled bet of 161 returned to random_player
+random_player wins the pot (4)
+
+Hand #91, me! (299), random_player (-299)
+me! posts the blind of 1
+random_player posts the blind of 2
+Dealt to me! [4s Jc]
+Dealt to random_player [Ah 7d]
+me! calls
 random_player raises to 104
+me! calls
+*** FLOP *** (208) [As Td 7c]
+random_player discards 7d for 8d
+me! discards 4s for Qd
+random_player checks
+me! bets 2
+random_player raises to 9
+me! calls
+*** TURN *** (226) [As Td 7c] [Ad]
+random_player checks
+me! discards Jc for 3c
+random_player checks
+me! bets 2
+random_player raises to 67
+me! calls
+*** RIVER *** (360) [As Td 7c Ad] [7h]
+random_player checks
+me! bets 2
+random_player folds
+Uncalled bet of 2 returned to me!
+me! wins the pot (360)
+
+Hand #92, random_player (-479), me! (479)
+random_player posts the blind of 1
+me! posts the blind of 2
+Dealt to random_player [4s 9d]
+Dealt to me! [7c 8s]
+random_player raises to 23
 me! folds
-Uncalled bet of 102 returned to random_player
+Uncalled bet of 21 returned to random_player
 random_player wins the pot (4)
 
-Hand #89, me! (548), random_player (-548)
+Hand #93, me! (477), random_player (-477)
 me! posts the blind of 1
 random_player posts the blind of 2
-Dealt to me! [Jd 4h]
-Dealt to random_player [3h 8d]
+Dealt to me! [Qh 8h]
+Dealt to random_player [7d 8c]
 me! folds
 random_player wins the pot (3)
 
-Hand #90, random_player (-547), me! (547)
+Hand #94, random_player (-476), me! (476)
 random_player posts the blind of 1
 me! posts the blind of 2
-Dealt to random_player [4s 4d]
-Dealt to me! [Ks 9c]
-random_player raises to 125
-me! folds
-Uncalled bet of 123 returned to random_player
-random_player wins the pot (4)
+Dealt to random_player [6s 8d]
+Dealt to me! [7c Th]
+random_player calls
+me! checks
+*** FLOP *** (4) [8h 9d 6d]
+me! checks
+random_player discards 8d for 3d
+me! bets 198
+random_player calls
+*** TURN *** (400) [8h 9d 6d] [4s]
+me! checks
+random_player checks
+*** RIVER *** (400) [8h 9d 6d 4s] [4d]
+random_player shows [6s 3d]
+me! shows [7c Th]
+me! wins the pot (400)
 
-Hand #91, me! (545), random_player (-545)
+Hand #95, me! (676), random_player (-676)
 me! posts the blind of 1
 random_player posts the blind of 2
-Dealt to me! [6c Qs]
-Dealt to random_player [2d 8s]
+Dealt to me! [9c Kd]
+Dealt to random_player [Ks 2h]
 me! folds
 random_player wins the pot (3)
 
-Hand #92, random_player (-544), me! (544)
+Hand #96, random_player (-675), me! (675)
 random_player posts the blind of 1
 me! posts the blind of 2
-Dealt to random_player [5s Th]
-Dealt to me! [5h 6c]
-random_player raises to 84
-me! folds
-Uncalled bet of 82 returned to random_player
-random_player wins the pot (4)
+Dealt to random_player [3d 2s]
+Dealt to me! [4h 2c]
+random_player calls
+me! checks
+*** FLOP *** (4) [As 8h 4d]
+me! discards 2c for 8s
+random_player discards 3d for 6h
+me! bets 198
+random_player calls
+*** TURN *** (400) [As 8h 4d] [Ah]
+me! discards 4h for 5h
+random_player discards 6h for Jh
+*** RIVER *** (400) [As 8h 4d Ah] [4s]
+random_player shows [2s Jh]
+me! shows [8s 5h]
+me! wins the pot (400)
 
-Hand #93, me! (542), random_player (-542)
+Hand #97, me! (875), random_player (-875)
 me! posts the blind of 1
 random_player posts the blind of 2
-Dealt to me! [8s 6d]
-Dealt to random_player [7s Kh]
+Dealt to me! [Ks Th]
+Dealt to random_player [9s 3d]
 me! folds
 random_player wins the pot (3)
 
-Hand #94, random_player (-541), me! (541)
+Hand #98, random_player (-874), me! (874)
 random_player posts the blind of 1
 me! posts the blind of 2
-Dealt to random_player [Jd 9s]
-Dealt to me! [Qc 5c]
-random_player raises to 178
+Dealt to random_player [Qc 5d]
+Dealt to me! [3h 9h]
+random_player calls
+me! checks
+*** FLOP *** (4) [8c Tc 7c]
+me! discards 3h for 5h
+random_player checks
+me! checks
+random_player bets 49
 me! folds
-Uncalled bet of 176 returned to random_player
+Uncalled bet of 49 returned to random_player
 random_player wins the pot (4)
 
-Hand #95, me! (539), random_player (-539)
+Hand #99, me! (872), random_player (-872)
 me! posts the blind of 1
 random_player posts the blind of 2
-Dealt to me! [2s 4d]
-Dealt to random_player [8s Ac]
+Dealt to me! [Kd Ks]
+Dealt to random_player [8c 9d]
 me! folds
 random_player wins the pot (3)
 
-Hand #96, random_player (-538), me! (538)
+Hand #100, random_player (-871), me! (871)
 random_player posts the blind of 1
 me! posts the blind of 2
-Dealt to random_player [Td 3h]
-Dealt to me! [Kh 9c]
+Dealt to random_player [9d 3h]
+Dealt to me! [4c 7c]
 random_player folds
 me! wins the pot (3)
 
-Hand #97, me! (539), random_player (-539)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [7h 9c]
-Dealt to random_player [3h 5s]
-me! folds
-random_player wins the pot (3)
-
-Hand #98, random_player (-538), me! (538)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [Kd 2s]
-Dealt to me! [Jh Ts]
-random_player raises to 19
-me! folds
-Uncalled bet of 17 returned to random_player
-random_player wins the pot (4)
-
-Hand #99, me! (536), random_player (-536)
-me! posts the blind of 1
-random_player posts the blind of 2
-Dealt to me! [8d 9h]
-Dealt to random_player [8c 5h]
-me! folds
-random_player wins the pot (3)
-
-Hand #100, random_player (-535), me! (535)
-random_player posts the blind of 1
-me! posts the blind of 2
-Dealt to random_player [Kh Td]
-Dealt to me! [9d 6s]
-random_player raises to 18
-me! folds
-Uncalled bet of 16 returned to random_player
-random_player wins the pot (4)
-
-FINAL: me! (533) random_player (-533)
+FINAL: me! (872) random_player (-872)

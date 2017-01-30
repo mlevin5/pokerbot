@@ -117,7 +117,6 @@ class PercentWin:
 				self.board.remove(newBoardCard)
 				self.evalBoard.remove(newBoardCard.evalCard)
 				self.availableCards.append(newBoardCard)
-
 			if numWinsForNewHand1 >= numWinsForNewHand2:
 				discard = self.hand[0]
 				discardPercent = (float(numWinsForNewHand1)/total)*100
@@ -128,9 +127,10 @@ class PercentWin:
 		else:
 			discardPercent = self.discardDict[setOfCards]
 
-		if len(self.board) == 3 and self.startingHandRank > 60:
-			return "CHECK\n" 
-		elif discardPercent > handPercentWin:
+		#if len(self.board) == 3 and self.startingHandRank > 60:
+		#	return "CHECK\n" 
+		print discardPercent
+		if discardPercent > handPercentWin:
 			return "DISCARD:"+discard.strCard+"\n"
 		else:
 			return "CHECK\n" 
@@ -140,12 +140,12 @@ class PercentWin:
 	
 
 def main():
-	pw1 = PercentWin([myCard("Qc"),myCard("3h"),myCard("5d")],
-		[myCard("Jh"),myCard("Ac")])
-	pw2 = PercentWin([],[myCard("Jh"), myCard("Ac")])
-	print pw2.getWinPercentage()
-	
-	#print pw.shouldDiscard(handRank)
+	pw1 = PercentWin([myCard("Js"),myCard("6s"),myCard("Kh"),myCard("Qh")],
+		[myCard("6c"),myCard("9h")])
+	pw2 = PercentWin([],[myCard("9s"), myCard("9c")])
+	handRank =  pw1.getWinPercentage()
+	print handRank
+	print pw1.shouldDiscard(handRank)
 main()
 
 

@@ -10,13 +10,6 @@ from BetCalc import *
 from DataParser import *
 
 
-"""
-Simple example pokerbot, written in python.
-
-This is an example of a bare bones pokerbot. It only sets up the socket
-necessary to connect with the engine and then always returns the same action.
-It is meant as an example of how a pokerbot should communicate with the engine.
-"""
 class Player:
     def run(self, input_socket):
         f_in = input_socket.makefile()
@@ -66,7 +59,10 @@ class Player:
                     else:
                         bettingNums = [97, 90, 80, 70]
 
-                    if quitWhileAheadMode:
+
+                    if d.oppName[-6:] == "potnet":
+                        s.send("RAISE:"+str(d.maxBet)+"\n")
+                    elif quitWhileAheadMode:
                         if handRank >= bettingNums[0]:
                             s.send(d.betOrRaise+":"+str(d.maxBet)+"\n")
                         else:
@@ -92,14 +88,16 @@ class Player:
                     # CALL 90 IF SOMETHING ALREADY IN POT (198 is example)
                     # POT USUALLY SOMEWHAT PROPORTIONAL TO HOW GOOD THEIR CARD IS
 
+                # needs to be fixed tbh
                 elif actionType == "FOLD CALL RAISE": 
                     if len(d.board) == 0:
-                        bettingNums = [80, 80, 50]
+                        bettingNums = [75, 75, 50]
                     else:
                         bettingNums = [97, 90, 75]
 
-
-                    if quitWhileAheadMode:
+                    if d.oppName[-6:] == "potnet":
+                        s.send("RAISE:"+str(d.maxRaise)+"\n")
+                    elif quitWhileAheadMode:
                         if handRank >= bettingNums[0]:
                             s.send("RAISE"+str(d.maxRaise)+"\n") 
                         else:
@@ -116,6 +114,10 @@ class Player:
                         if d.oppBet <= d.handRank/3:
                             print "calling based on bet size"
                             s.send("CALL\n")
+                        # elif d.potSize - d.oppBet >= d.stackSize/2.0
+                        elif d.potSize - d.oppBet >= d.oppBet:
+                            print "bet is small / ive already put a lot in"
+                            s.send("CALL\n")
                         else:
                             print "folding"
                             s.send("FOLD\n")
@@ -125,19 +127,19 @@ class Player:
 # -> usually a good hand
                 elif actionType == "FOLD CALL":
                     if len(d.board) == 0:
-                        bettingNums = [80, 70]
+                        bettingNums = [70, 55]
                     else:
                         bettingNums = [97, 95]
 
 
-                    if quitWhileAheadMode:
-                        if handRank >= bettingNums[0]:
-                            s.send("CALL\n") 
+                    if d.oppName[-6:] == "potnet":
+                        if handRank >= 0.0:
+                            s.send("CALL\n")
                         else:
                             s.send("FOLD\n")
-                    elif d.oppName[-6:] == "potnet":
-                        if handRank >= 50:
-                            s.send("CALL\n")
+                    elif quitWhileAheadMode:
+                        if handRank >= bettingNums[0]:
+                            s.send("CALL\n") 
                         else:
                             s.send("FOLD\n")
                     elif handRank >= bettingNums[1]:

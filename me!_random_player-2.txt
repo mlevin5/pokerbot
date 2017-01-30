@@ -2,420 +2,540 @@
 Hand #1, random_player2 (0), me!2 (0)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [Jd 9s]
-Dealt to me!2 [5c Ac]
-random_player2 raises to 188
+Dealt to random_player2 [5s 6d]
+Dealt to me!2 [7h Qs]
+random_player2 folds
+me!2 wins the pot (3)
+
+Hand #2, me!2 (1), random_player2 (-1)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [5c 2c]
+Dealt to random_player2 [7d Qc]
 ### me!2 never connected - compiling might have errored? Playing default...
 me!2 folds
-Uncalled bet of 186 returned to random_player2
-random_player2 wins the pot (4)
-
-Hand #2, me!2 (-2), random_player2 (2)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [6h Jh]
-Dealt to random_player2 [4d 7d]
-### me!2 is not available. Playing default...
-me!2 folds
 random_player2 wins the pot (3)
 
-Hand #3, random_player2 (3), me!2 (-3)
+Hand #3, random_player2 (0), me!2 (0)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [8c Jc]
-Dealt to me!2 [Kc 2s]
-random_player2 calls
-### me!2 is not available. Playing default...
-me!2 checks
-*** FLOP *** (4) [Js 7d 4d]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 discards Jc for Tc
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 checks
-*** TURN *** (4) [Js 7d 4d] [5c]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 discards 8c for 8h
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 bets 10
-### me!2 is not available. Playing default...
-me!2 folds
-Uncalled bet of 10 returned to random_player2
-random_player2 wins the pot (4)
-
-Hand #4, me!2 (-5), random_player2 (5)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [Ac 9s]
-Dealt to random_player2 [5h Qs]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #5, random_player2 (6), me!2 (-6)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [4d 4c]
-Dealt to me!2 [7h 6s]
-random_player2 calls
-### me!2 is not available. Playing default...
-me!2 checks
-*** FLOP *** (4) [Jc 9s 5d]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 discards 4c for 2d
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 bets 174
-### me!2 is not available. Playing default...
-me!2 folds
-Uncalled bet of 174 returned to random_player2
-random_player2 wins the pot (4)
-
-Hand #6, me!2 (-8), random_player2 (8)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [9c 4d]
-Dealt to random_player2 [3s Ts]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #7, random_player2 (9), me!2 (-9)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [5c 7h]
-Dealt to me!2 [2c 7c]
+Dealt to random_player2 [4d 5d]
+Dealt to me!2 [Jd 9h]
 random_player2 folds
 me!2 wins the pot (3)
 
-Hand #8, me!2 (-8), random_player2 (8)
+Hand #4, me!2 (1), random_player2 (-1)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [9s 8s]
-Dealt to random_player2 [6h Kh]
+Dealt to me!2 [6d 8s]
+Dealt to random_player2 [Kd 9h]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
 
-Hand #9, random_player2 (9), me!2 (-9)
+Hand #5, random_player2 (0), me!2 (0)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [Jd 4d]
-Dealt to me!2 [6c Kc]
-random_player2 raises to 111
+Dealt to random_player2 [Kd 3s]
+Dealt to me!2 [Jh 9c]
+random_player2 raises to 174
 ### me!2 is not available. Playing default...
 me!2 folds
-Uncalled bet of 109 returned to random_player2
+Uncalled bet of 172 returned to random_player2
 random_player2 wins the pot (4)
 
-Hand #10, me!2 (-11), random_player2 (11)
+Hand #6, me!2 (-2), random_player2 (2)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [Ah 3h]
-Dealt to random_player2 [8c 5c]
+Dealt to me!2 [6d 6s]
+Dealt to random_player2 [Ad 2d]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
 
-Hand #11, random_player2 (12), me!2 (-12)
+Hand #7, random_player2 (3), me!2 (-3)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [Qc Th]
-Dealt to me!2 [Ks 7s]
-random_player2 calls
-### me!2 is not available. Playing default...
-me!2 checks
-*** FLOP *** (4) [6d 7d Jh]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 discards Qc for Jc
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 checks
-*** TURN *** (4) [6d 7d Jh] [8c]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 discards Th for 2c
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 checks
-*** RIVER *** (4) [6d 7d Jh 8c] [Qs]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 bets 51
-### me!2 is not available. Playing default...
-me!2 folds
-Uncalled bet of 51 returned to random_player2
-random_player2 wins the pot (4)
-
-Hand #12, me!2 (-14), random_player2 (14)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [2c Kd]
-Dealt to random_player2 [Qd 9h]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #13, random_player2 (15), me!2 (-15)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [Jd 8c]
-Dealt to me!2 [6h 4d]
+Dealt to random_player2 [9s Qh]
+Dealt to me!2 [4d 6h]
 random_player2 folds
 me!2 wins the pot (3)
 
-Hand #14, me!2 (-14), random_player2 (14)
+Hand #8, me!2 (-2), random_player2 (2)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [Qd 2c]
-Dealt to random_player2 [Ac 7h]
+Dealt to me!2 [7d 6c]
+Dealt to random_player2 [8d Qs]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
 
-Hand #15, random_player2 (15), me!2 (-15)
+Hand #9, random_player2 (3), me!2 (-3)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [9c Qd]
-Dealt to me!2 [7h Qh]
+Dealt to random_player2 [4s 7s]
+Dealt to me!2 [3d 9s]
 random_player2 folds
 me!2 wins the pot (3)
 
-Hand #16, me!2 (-14), random_player2 (14)
+Hand #10, me!2 (-2), random_player2 (2)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [3h 8h]
-Dealt to random_player2 [9c Jd]
+Dealt to me!2 [Tc 3s]
+Dealt to random_player2 [Ks 7s]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
 
-Hand #17, random_player2 (15), me!2 (-15)
+Hand #11, random_player2 (3), me!2 (-3)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [9s Th]
-Dealt to me!2 [3s 4h]
+Dealt to random_player2 [3h 6h]
+Dealt to me!2 [Ah 5c]
 random_player2 calls
 ### me!2 is not available. Playing default...
 me!2 checks
-*** FLOP *** (4) [4d Js 9d]
+*** FLOP *** (4) [Th 7s 9h]
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 discards 3h for Qs
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 bets 45
+### me!2 is not available. Playing default...
+me!2 folds
+Uncalled bet of 45 returned to random_player2
+random_player2 wins the pot (4)
+
+Hand #12, me!2 (-5), random_player2 (5)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [4c 2d]
+Dealt to random_player2 [Kc 3c]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #13, random_player2 (6), me!2 (-6)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [Ks 3d]
+Dealt to me!2 [6d 4s]
+random_player2 raises to 149
+### me!2 is not available. Playing default...
+me!2 folds
+Uncalled bet of 147 returned to random_player2
+random_player2 wins the pot (4)
+
+Hand #14, me!2 (-8), random_player2 (8)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [4h Jc]
+Dealt to random_player2 [2c 6c]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #15, random_player2 (9), me!2 (-9)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [4c Td]
+Dealt to me!2 [7s 7c]
+random_player2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [Ts Qs Kc]
 ### me!2 is not available. Playing default...
 me!2 checks
 random_player2 checks
 ### me!2 is not available. Playing default...
 me!2 checks
+random_player2 bets 104
+### me!2 is not available. Playing default...
+me!2 folds
+Uncalled bet of 104 returned to random_player2
+random_player2 wins the pot (4)
+
+Hand #16, me!2 (-11), random_player2 (11)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [Js Qc]
+Dealt to random_player2 [2c Th]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #17, random_player2 (12), me!2 (-12)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [3c 8s]
+Dealt to me!2 [4d Ac]
+random_player2 folds
+me!2 wins the pot (3)
+
+Hand #18, me!2 (-11), random_player2 (11)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [2d 6d]
+Dealt to random_player2 [8h Th]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #19, random_player2 (12), me!2 (-12)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [2s 2c]
+Dealt to me!2 [Kc 8d]
+random_player2 raises to 150
+### me!2 is not available. Playing default...
+me!2 folds
+Uncalled bet of 148 returned to random_player2
+random_player2 wins the pot (4)
+
+Hand #20, me!2 (-14), random_player2 (14)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [4h 6d]
+Dealt to random_player2 [Kh 4d]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #21, random_player2 (15), me!2 (-15)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [4h 3d]
+Dealt to me!2 [Qs 8d]
+random_player2 folds
+me!2 wins the pot (3)
+
+Hand #22, me!2 (-14), random_player2 (14)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [8d Qs]
+Dealt to random_player2 [5c 3c]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #23, random_player2 (15), me!2 (-15)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [6c Qs]
+Dealt to me!2 [2s 3c]
+random_player2 folds
+me!2 wins the pot (3)
+
+Hand #24, me!2 (-14), random_player2 (14)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [5c 9h]
+Dealt to random_player2 [4h 6c]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #25, random_player2 (15), me!2 (-15)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [3s Qd]
+Dealt to me!2 [9c Qh]
+random_player2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [5s Tc Kc]
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 discards 3s for As
+### me!2 is not available. Playing default...
+me!2 checks
 random_player2 checks
-*** TURN *** (4) [4d Js 9d] [Kh]
+*** TURN *** (4) [5s Tc Kc] [7d]
 ### me!2 is not available. Playing default...
 me!2 checks
-random_player2 discards Th for 9h
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 bets 55
-### me!2 is not available. Playing default...
-me!2 folds
-Uncalled bet of 55 returned to random_player2
-random_player2 wins the pot (4)
-
-Hand #18, me!2 (-17), random_player2 (17)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [Ts 3s]
-Dealt to random_player2 [2c As]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #19, random_player2 (18), me!2 (-18)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [3h Qd]
-Dealt to me!2 [9s Ad]
-random_player2 raises to 197
-### me!2 is not available. Playing default...
-me!2 folds
-Uncalled bet of 195 returned to random_player2
-random_player2 wins the pot (4)
-
-Hand #20, me!2 (-20), random_player2 (20)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [5c Tc]
-Dealt to random_player2 [5s 6h]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #21, random_player2 (21), me!2 (-21)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [6s Qh]
-Dealt to me!2 [3c 9d]
-random_player2 calls
-### me!2 is not available. Playing default...
-me!2 checks
-*** FLOP *** (4) [2s 5c Ah]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 discards 6s for Jd
+random_player2 discards Qd for Td
 ### me!2 is not available. Playing default...
 me!2 checks
 random_player2 checks
-*** TURN *** (4) [2s 5c Ah] [3d]
+*** RIVER *** (4) [5s Tc Kc 7d] [Ts]
 ### me!2 is not available. Playing default...
 me!2 checks
-random_player2 discards Qh for 8c
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 bets 68
+random_player2 bets 7
 ### me!2 is not available. Playing default...
 me!2 folds
-Uncalled bet of 68 returned to random_player2
+Uncalled bet of 7 returned to random_player2
 random_player2 wins the pot (4)
 
-Hand #22, me!2 (-23), random_player2 (23)
+Hand #26, me!2 (-17), random_player2 (17)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [Th Ad]
-Dealt to random_player2 [8c 2h]
+Dealt to me!2 [7s 9s]
+Dealt to random_player2 [2s Kd]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
 
-Hand #23, random_player2 (24), me!2 (-24)
+Hand #27, random_player2 (18), me!2 (-18)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [2s 5d]
-Dealt to me!2 [Jd Qs]
+Dealt to random_player2 [Jd Qd]
+Dealt to me!2 [2h 6c]
+random_player2 folds
+me!2 wins the pot (3)
+
+Hand #28, me!2 (-17), random_player2 (17)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [Qc Td]
+Dealt to random_player2 [4h 8c]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #29, random_player2 (18), me!2 (-18)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [Js 5c]
+Dealt to me!2 [4c 9s]
+random_player2 raises to 108
+### me!2 is not available. Playing default...
+me!2 folds
+Uncalled bet of 106 returned to random_player2
+random_player2 wins the pot (4)
+
+Hand #30, me!2 (-20), random_player2 (20)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [Th 9h]
+Dealt to random_player2 [Ts Ad]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #31, random_player2 (21), me!2 (-21)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [Kd 7h]
+Dealt to me!2 [9s Qc]
 random_player2 calls
 ### me!2 is not available. Playing default...
 me!2 checks
-*** FLOP *** (4) [3s Qd Ad]
+*** FLOP *** (4) [6d 3d Ks]
 ### me!2 is not available. Playing default...
 me!2 checks
-random_player2 discards 5d for Kh
+random_player2 checks
 ### me!2 is not available. Playing default...
 me!2 checks
-random_player2 bets 6
+random_player2 checks
+*** TURN *** (4) [6d 3d Ks] [Ad]
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 discards 7h for 6c
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 checks
+*** RIVER *** (4) [6d 3d Ks Ad] [Ts]
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 bets 57
 ### me!2 is not available. Playing default...
 me!2 folds
-Uncalled bet of 6 returned to random_player2
+Uncalled bet of 57 returned to random_player2
 random_player2 wins the pot (4)
 
-Hand #24, me!2 (-26), random_player2 (26)
+Hand #32, me!2 (-23), random_player2 (23)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [Ah Ad]
-Dealt to random_player2 [Js 5s]
+Dealt to me!2 [Th 8c]
+Dealt to random_player2 [7d 4c]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
 
-Hand #25, random_player2 (27), me!2 (-27)
+Hand #33, random_player2 (24), me!2 (-24)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [7h 6h]
-Dealt to me!2 [2d 7s]
+Dealt to random_player2 [Ks 9c]
+Dealt to me!2 [9d Jd]
 random_player2 folds
 me!2 wins the pot (3)
 
-Hand #26, me!2 (-26), random_player2 (26)
+Hand #34, me!2 (-23), random_player2 (23)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [6s Qh]
-Dealt to random_player2 [8d 4c]
+Dealt to me!2 [Kc 3d]
+Dealt to random_player2 [Jd 6s]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
 
-Hand #27, random_player2 (27), me!2 (-27)
+Hand #35, random_player2 (24), me!2 (-24)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [5h 3d]
-Dealt to me!2 [8d 6c]
-random_player2 raises to 164
+Dealt to random_player2 [8h Kc]
+Dealt to me!2 [Jd 3s]
+random_player2 raises to 119
 ### me!2 is not available. Playing default...
 me!2 folds
-Uncalled bet of 162 returned to random_player2
+Uncalled bet of 117 returned to random_player2
 random_player2 wins the pot (4)
 
-Hand #28, me!2 (-29), random_player2 (29)
+Hand #36, me!2 (-26), random_player2 (26)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [Tc 6h]
-Dealt to random_player2 [5c 4h]
+Dealt to me!2 [3d 5s]
+Dealt to random_player2 [Ah 7d]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
 
-Hand #29, random_player2 (30), me!2 (-30)
+Hand #37, random_player2 (27), me!2 (-27)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [9c 6c]
-Dealt to me!2 [8c Qs]
-random_player2 folds
-me!2 wins the pot (3)
-
-Hand #30, me!2 (-29), random_player2 (29)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [Ad Jh]
-Dealt to random_player2 [As 8c]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #31, random_player2 (30), me!2 (-30)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [4d 7s]
-Dealt to me!2 [9h Ts]
-random_player2 folds
-me!2 wins the pot (3)
-
-Hand #32, me!2 (-29), random_player2 (29)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [Qc 8c]
-Dealt to random_player2 [Th Jh]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #33, random_player2 (30), me!2 (-30)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [5d Tc]
-Dealt to me!2 [2h 3c]
-random_player2 folds
-me!2 wins the pot (3)
-
-Hand #34, me!2 (-29), random_player2 (29)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [8h Qh]
-Dealt to random_player2 [9s 7c]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #35, random_player2 (30), me!2 (-30)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [9s 3d]
-Dealt to me!2 [8h Js]
+Dealt to random_player2 [Qh 3c]
+Dealt to me!2 [7c Kc]
 random_player2 calls
 ### me!2 is not available. Playing default...
 me!2 checks
-*** FLOP *** (4) [Ad 7h 3h]
+*** FLOP *** (4) [9h Js Jc]
 ### me!2 is not available. Playing default...
 me!2 checks
-random_player2 discards 9s for Kc
+random_player2 discards 3c for Ac
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 bets 183
+### me!2 is not available. Playing default...
+me!2 folds
+Uncalled bet of 183 returned to random_player2
+random_player2 wins the pot (4)
+
+Hand #38, me!2 (-29), random_player2 (29)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [Qc 5s]
+Dealt to random_player2 [3h Kd]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #39, random_player2 (30), me!2 (-30)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [7s 2c]
+Dealt to me!2 [Td 9d]
+random_player2 raises to 35
+### me!2 is not available. Playing default...
+me!2 folds
+Uncalled bet of 33 returned to random_player2
+random_player2 wins the pot (4)
+
+Hand #40, me!2 (-32), random_player2 (32)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [3c 7c]
+Dealt to random_player2 [5c 6d]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #41, random_player2 (33), me!2 (-33)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [Qs 3h]
+Dealt to me!2 [7s Qc]
+random_player2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [Tc 5h 9d]
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 discards 3h for 5d
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 checks
+*** TURN *** (4) [Tc 5h 9d] [6c]
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 discards 5d for Qd
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 bets 102
+### me!2 is not available. Playing default...
+me!2 folds
+Uncalled bet of 102 returned to random_player2
+random_player2 wins the pot (4)
+
+Hand #42, me!2 (-35), random_player2 (35)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [Th 5d]
+Dealt to random_player2 [Kh 3c]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #43, random_player2 (36), me!2 (-36)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [Ac Ts]
+Dealt to me!2 [Th Qs]
+random_player2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [5h Td 4c]
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 discards Ts for 7h
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 bets 8
+### me!2 is not available. Playing default...
+me!2 folds
+Uncalled bet of 8 returned to random_player2
+random_player2 wins the pot (4)
+
+Hand #44, me!2 (-38), random_player2 (38)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [4d 5c]
+Dealt to random_player2 [Ks Kh]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #45, random_player2 (39), me!2 (-39)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [2s 8d]
+Dealt to me!2 [Js Qc]
+random_player2 raises to 120
+### me!2 is not available. Playing default...
+me!2 folds
+Uncalled bet of 118 returned to random_player2
+random_player2 wins the pot (4)
+
+Hand #46, me!2 (-41), random_player2 (41)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [8h 7c]
+Dealt to random_player2 [4d 8s]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #47, random_player2 (42), me!2 (-42)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [4s Kc]
+Dealt to me!2 [3d Jd]
+random_player2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [Kh 4c 8s]
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 discards Kc for Ts
 ### me!2 is not available. Playing default...
 me!2 checks
 random_player2 bets 131
@@ -424,179 +544,11 @@ me!2 folds
 Uncalled bet of 131 returned to random_player2
 random_player2 wins the pot (4)
 
-Hand #36, me!2 (-32), random_player2 (32)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [3c 9h]
-Dealt to random_player2 [5h Td]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #37, random_player2 (33), me!2 (-33)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [Ad 5d]
-Dealt to me!2 [4d Qc]
-random_player2 calls
-### me!2 is not available. Playing default...
-me!2 checks
-*** FLOP *** (4) [Th 6c 5c]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 checks
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 checks
-*** TURN *** (4) [Th 6c 5c] [3h]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 discards Ad for 7h
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 checks
-*** RIVER *** (4) [Th 6c 5c 3h] [6h]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 checks
-random_player2 shows [5d 7h]
-me!2 shows [4d Qc]
-random_player2 wins the pot (4)
-
-Hand #38, me!2 (-35), random_player2 (35)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [2d 7d]
-Dealt to random_player2 [4d Jh]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #39, random_player2 (36), me!2 (-36)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [5d Ts]
-Dealt to me!2 [Qd 3c]
-random_player2 folds
-me!2 wins the pot (3)
-
-Hand #40, me!2 (-35), random_player2 (35)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [3s 6c]
-Dealt to random_player2 [6d 3c]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #41, random_player2 (36), me!2 (-36)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [Qd 5c]
-Dealt to me!2 [Th Kc]
-random_player2 calls
-### me!2 is not available. Playing default...
-me!2 checks
-*** FLOP *** (4) [6h Ah 2s]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 checks
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 checks
-*** TURN *** (4) [6h Ah 2s] [8s]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 checks
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 bets 15
-### me!2 is not available. Playing default...
-me!2 folds
-Uncalled bet of 15 returned to random_player2
-random_player2 wins the pot (4)
-
-Hand #42, me!2 (-38), random_player2 (38)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [9d Ks]
-Dealt to random_player2 [Ad 8c]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #43, random_player2 (39), me!2 (-39)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [Js 8c]
-Dealt to me!2 [4h Ks]
-random_player2 calls
-### me!2 is not available. Playing default...
-me!2 checks
-*** FLOP *** (4) [2c 5h As]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 discards 8c for 4c
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 checks
-*** TURN *** (4) [2c 5h As] [5d]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 discards 4c for 7c
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 checks
-*** RIVER *** (4) [2c 5h As 5d] [7s]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 checks
-random_player2 shows [Js 7c]
-me!2 shows [4h Ks]
-random_player2 wins the pot (4)
-
-Hand #44, me!2 (-41), random_player2 (41)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [3c 2c]
-Dealt to random_player2 [Ks 2d]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #45, random_player2 (42), me!2 (-42)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [4h Ah]
-Dealt to me!2 [5d 2d]
-random_player2 raises to 85
-### me!2 is not available. Playing default...
-me!2 folds
-Uncalled bet of 83 returned to random_player2
-random_player2 wins the pot (4)
-
-Hand #46, me!2 (-44), random_player2 (44)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [3d 5h]
-Dealt to random_player2 [9h Ac]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #47, random_player2 (45), me!2 (-45)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [Jc 5d]
-Dealt to me!2 [3s 6d]
-random_player2 folds
-me!2 wins the pot (3)
-
 Hand #48, me!2 (-44), random_player2 (44)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [3h 9d]
-Dealt to random_player2 [6s 8h]
+Dealt to me!2 [As Jh]
+Dealt to random_player2 [6c Ks]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
@@ -604,16 +556,16 @@ random_player2 wins the pot (3)
 Hand #49, random_player2 (45), me!2 (-45)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [8c 2s]
-Dealt to me!2 [6s 5s]
+Dealt to random_player2 [6d Qc]
+Dealt to me!2 [9c Th]
 random_player2 folds
 me!2 wins the pot (3)
 
 Hand #50, me!2 (-44), random_player2 (44)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [6c 7s]
-Dealt to random_player2 [Kh 8d]
+Dealt to me!2 [8s 3h]
+Dealt to random_player2 [2h 2d]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
@@ -621,16 +573,16 @@ random_player2 wins the pot (3)
 Hand #51, random_player2 (45), me!2 (-45)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [Jc 4d]
-Dealt to me!2 [6h 9c]
+Dealt to random_player2 [Qs 9c]
+Dealt to me!2 [Jh 2c]
 random_player2 folds
 me!2 wins the pot (3)
 
 Hand #52, me!2 (-44), random_player2 (44)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [Qc Td]
-Dealt to random_player2 [Qs 9c]
+Dealt to me!2 [4d As]
+Dealt to random_player2 [3h 5h]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
@@ -638,56 +590,36 @@ random_player2 wins the pot (3)
 Hand #53, random_player2 (45), me!2 (-45)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [7h As]
-Dealt to me!2 [Qc 7d]
-random_player2 calls
-### me!2 is not available. Playing default...
-me!2 checks
-*** FLOP *** (4) [9c Th 6s]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 discards 7h for 3c
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 checks
-*** TURN *** (4) [9c Th 6s] [Td]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 checks
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 checks
-*** RIVER *** (4) [9c Th 6s Td] [2c]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 bets 30
-### me!2 is not available. Playing default...
-me!2 folds
-Uncalled bet of 30 returned to random_player2
-random_player2 wins the pot (4)
+Dealt to random_player2 [8d 3s]
+Dealt to me!2 [8h 4s]
+random_player2 folds
+me!2 wins the pot (3)
 
-Hand #54, me!2 (-47), random_player2 (47)
+Hand #54, me!2 (-44), random_player2 (44)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [5h 4s]
-Dealt to random_player2 [As 2c]
+Dealt to me!2 [8d As]
+Dealt to random_player2 [Ad Jc]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
 
-Hand #55, random_player2 (48), me!2 (-48)
+Hand #55, random_player2 (45), me!2 (-45)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [9d 9h]
-Dealt to me!2 [2s 7h]
-random_player2 folds
-me!2 wins the pot (3)
+Dealt to random_player2 [Td As]
+Dealt to me!2 [Th 7c]
+random_player2 raises to 131
+### me!2 is not available. Playing default...
+me!2 folds
+Uncalled bet of 129 returned to random_player2
+random_player2 wins the pot (4)
 
 Hand #56, me!2 (-47), random_player2 (47)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [Ac Kh]
-Dealt to random_player2 [5c 3h]
+Dealt to me!2 [6c 3d]
+Dealt to random_player2 [5c Qh]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
@@ -695,85 +627,76 @@ random_player2 wins the pot (3)
 Hand #57, random_player2 (48), me!2 (-48)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [Td Th]
-Dealt to me!2 [3h 4c]
-random_player2 raises to 169
-### me!2 is not available. Playing default...
-me!2 folds
-Uncalled bet of 167 returned to random_player2
-random_player2 wins the pot (4)
-
-Hand #58, me!2 (-50), random_player2 (50)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [Ts 2s]
-Dealt to random_player2 [9s Js]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #59, random_player2 (51), me!2 (-51)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [5s Ts]
-Dealt to me!2 [8s 6c]
-random_player2 calls
-### me!2 is not available. Playing default...
-me!2 checks
-*** FLOP *** (4) [3c 9d 4s]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 discards 5s for 5d
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 bets 6
-### me!2 is not available. Playing default...
-me!2 folds
-Uncalled bet of 6 returned to random_player2
-random_player2 wins the pot (4)
-
-Hand #60, me!2 (-53), random_player2 (53)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [4d 9d]
-Dealt to random_player2 [4s 3s]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #61, random_player2 (54), me!2 (-54)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [5h 4s]
-Dealt to me!2 [5d 5c]
-random_player2 raises to 61
-### me!2 is not available. Playing default...
-me!2 folds
-Uncalled bet of 59 returned to random_player2
-random_player2 wins the pot (4)
-
-Hand #62, me!2 (-56), random_player2 (56)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [Jd Kc]
-Dealt to random_player2 [3s 2h]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #63, random_player2 (57), me!2 (-57)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [Ts Qh]
-Dealt to me!2 [9s As]
+Dealt to random_player2 [Qs 8d]
+Dealt to me!2 [6s 2c]
 random_player2 folds
 me!2 wins the pot (3)
+
+Hand #58, me!2 (-47), random_player2 (47)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [8d 4d]
+Dealt to random_player2 [8c Qs]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #59, random_player2 (48), me!2 (-48)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [5c 8s]
+Dealt to me!2 [Kc 7c]
+random_player2 raises to 100
+### me!2 is not available. Playing default...
+me!2 folds
+Uncalled bet of 98 returned to random_player2
+random_player2 wins the pot (4)
+
+Hand #60, me!2 (-50), random_player2 (50)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [Tc 8d]
+Dealt to random_player2 [6h Qd]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #61, random_player2 (51), me!2 (-51)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [2s 7h]
+Dealt to me!2 [Ac 3h]
+random_player2 raises to 152
+### me!2 is not available. Playing default...
+me!2 folds
+Uncalled bet of 150 returned to random_player2
+random_player2 wins the pot (4)
+
+Hand #62, me!2 (-53), random_player2 (53)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [2c Kc]
+Dealt to random_player2 [Jh 5s]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #63, random_player2 (54), me!2 (-54)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [8h Qh]
+Dealt to me!2 [Qd 9d]
+random_player2 raises to 109
+### me!2 is not available. Playing default...
+me!2 folds
+Uncalled bet of 107 returned to random_player2
+random_player2 wins the pot (4)
 
 Hand #64, me!2 (-56), random_player2 (56)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [As 6h]
-Dealt to random_player2 [9s Js]
+Dealt to me!2 [6s 4c]
+Dealt to random_player2 [6c 2s]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
@@ -781,16 +704,16 @@ random_player2 wins the pot (3)
 Hand #65, random_player2 (57), me!2 (-57)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [Jd 2h]
-Dealt to me!2 [9c Qd]
+Dealt to random_player2 [Ac 4s]
+Dealt to me!2 [Js 8s]
 random_player2 folds
 me!2 wins the pot (3)
 
 Hand #66, me!2 (-56), random_player2 (56)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [6d Ac]
-Dealt to random_player2 [Jh 5d]
+Dealt to me!2 [Qc 9s]
+Dealt to random_player2 [8c Ts]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
@@ -798,35 +721,19 @@ random_player2 wins the pot (3)
 Hand #67, random_player2 (57), me!2 (-57)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [Jc 7d]
-Dealt to me!2 [Qs 7s]
-random_player2 calls
-### me!2 is not available. Playing default...
-me!2 checks
-*** FLOP *** (4) [3d Td 5c]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 discards Jc for 8s
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 checks
-*** TURN *** (4) [3d Td 5c] [As]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 discards 7d for Tc
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 bets 188
+Dealt to random_player2 [Qc 2c]
+Dealt to me!2 [8d Kh]
+random_player2 raises to 196
 ### me!2 is not available. Playing default...
 me!2 folds
-Uncalled bet of 188 returned to random_player2
+Uncalled bet of 194 returned to random_player2
 random_player2 wins the pot (4)
 
 Hand #68, me!2 (-59), random_player2 (59)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [Ad 5d]
-Dealt to random_player2 [7d Ks]
+Dealt to me!2 [Js Ks]
+Dealt to random_player2 [9c 8d]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
@@ -834,45 +741,36 @@ random_player2 wins the pot (3)
 Hand #69, random_player2 (60), me!2 (-60)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [Kh 7c]
-Dealt to me!2 [3h 6h]
-random_player2 folds
-me!2 wins the pot (3)
+Dealt to random_player2 [4d Qh]
+Dealt to me!2 [3s 7s]
+random_player2 raises to 44
+### me!2 is not available. Playing default...
+me!2 folds
+Uncalled bet of 42 returned to random_player2
+random_player2 wins the pot (4)
 
-Hand #70, me!2 (-59), random_player2 (59)
+Hand #70, me!2 (-62), random_player2 (62)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [3c 9h]
-Dealt to random_player2 [Ad 6c]
+Dealt to me!2 [2c 8c]
+Dealt to random_player2 [7c 7h]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
 
-Hand #71, random_player2 (60), me!2 (-60)
+Hand #71, random_player2 (63), me!2 (-63)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [Tc Qc]
-Dealt to me!2 [8d Kd]
-random_player2 calls
-### me!2 is not available. Playing default...
-me!2 checks
-*** FLOP *** (4) [8c Ah 3c]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 checks
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 bets 105
-### me!2 is not available. Playing default...
-me!2 folds
-Uncalled bet of 105 returned to random_player2
-random_player2 wins the pot (4)
+Dealt to random_player2 [5s 2c]
+Dealt to me!2 [Kh 2d]
+random_player2 folds
+me!2 wins the pot (3)
 
 Hand #72, me!2 (-62), random_player2 (62)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [2d 7c]
-Dealt to random_player2 [6s 9h]
+Dealt to me!2 [Jd 8c]
+Dealt to random_player2 [Jh Qd]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
@@ -880,312 +778,332 @@ random_player2 wins the pot (3)
 Hand #73, random_player2 (63), me!2 (-63)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [9c 6d]
-Dealt to me!2 [4d 9d]
-random_player2 raises to 101
-### me!2 is not available. Playing default...
-me!2 folds
-Uncalled bet of 99 returned to random_player2
-random_player2 wins the pot (4)
+Dealt to random_player2 [Ah 5c]
+Dealt to me!2 [Ts 3s]
+random_player2 folds
+me!2 wins the pot (3)
 
-Hand #74, me!2 (-65), random_player2 (65)
+Hand #74, me!2 (-62), random_player2 (62)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
 Dealt to me!2 [Td 8c]
-Dealt to random_player2 [5d Jd]
+Dealt to random_player2 [Kd Jd]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
 
-Hand #75, random_player2 (66), me!2 (-66)
+Hand #75, random_player2 (63), me!2 (-63)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [2c Ks]
-Dealt to me!2 [5s Qh]
+Dealt to random_player2 [Ad 4c]
+Dealt to me!2 [Kd 7d]
 random_player2 calls
 ### me!2 is not available. Playing default...
 me!2 checks
-*** FLOP *** (4) [2d Ah Td]
+*** FLOP *** (4) [3s 2h 4s]
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 discards 4c for Jh
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 bets 90
+### me!2 is not available. Playing default...
+me!2 folds
+Uncalled bet of 90 returned to random_player2
+random_player2 wins the pot (4)
+
+Hand #76, me!2 (-65), random_player2 (65)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [2s 4h]
+Dealt to random_player2 [Kd 8s]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #77, random_player2 (66), me!2 (-66)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [3s Ks]
+Dealt to me!2 [9h 2h]
+random_player2 raises to 137
+### me!2 is not available. Playing default...
+me!2 folds
+Uncalled bet of 135 returned to random_player2
+random_player2 wins the pot (4)
+
+Hand #78, me!2 (-68), random_player2 (68)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [Qc 3h]
+Dealt to random_player2 [4h 8c]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #79, random_player2 (69), me!2 (-69)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [9h 7d]
+Dealt to me!2 [Jh 2s]
+random_player2 folds
+me!2 wins the pot (3)
+
+Hand #80, me!2 (-68), random_player2 (68)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [Tc Kh]
+Dealt to random_player2 [6d 2d]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #81, random_player2 (69), me!2 (-69)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [Js Ks]
+Dealt to me!2 [5c 8h]
+random_player2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [6d 9h As]
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 discards Js for 8d
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 checks
+*** TURN *** (4) [6d 9h As] [7d]
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 discards Ks for 3h
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 bets 119
+### me!2 is not available. Playing default...
+me!2 folds
+Uncalled bet of 119 returned to random_player2
+random_player2 wins the pot (4)
+
+Hand #82, me!2 (-71), random_player2 (71)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [4s Tc]
+Dealt to random_player2 [5c Ac]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #83, random_player2 (72), me!2 (-72)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [4d 9h]
+Dealt to me!2 [Ks Ts]
+random_player2 folds
+me!2 wins the pot (3)
+
+Hand #84, me!2 (-71), random_player2 (71)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [9c Kd]
+Dealt to random_player2 [6h 2s]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #85, random_player2 (72), me!2 (-72)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [Jh As]
+Dealt to me!2 [6d Ad]
+random_player2 folds
+me!2 wins the pot (3)
+
+Hand #86, me!2 (-71), random_player2 (71)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [4h 6d]
+Dealt to random_player2 [8c Ah]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #87, random_player2 (72), me!2 (-72)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [2h 7h]
+Dealt to me!2 [Tc 4c]
+random_player2 raises to 68
+### me!2 is not available. Playing default...
+me!2 folds
+Uncalled bet of 66 returned to random_player2
+random_player2 wins the pot (4)
+
+Hand #88, me!2 (-74), random_player2 (74)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [Kd 7c]
+Dealt to random_player2 [7h Ah]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #89, random_player2 (75), me!2 (-75)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [Th Qs]
+Dealt to me!2 [6h 8c]
+random_player2 raises to 180
+### me!2 is not available. Playing default...
+me!2 folds
+Uncalled bet of 178 returned to random_player2
+random_player2 wins the pot (4)
+
+Hand #90, me!2 (-77), random_player2 (77)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [2s Kh]
+Dealt to random_player2 [Qh 8c]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #91, random_player2 (78), me!2 (-78)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [4s Jc]
+Dealt to me!2 [Ah 7d]
+random_player2 folds
+me!2 wins the pot (3)
+
+Hand #92, me!2 (-77), random_player2 (77)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [4s 9d]
+Dealt to random_player2 [7c 8s]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+Hand #93, random_player2 (78), me!2 (-78)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [Qh 8h]
+Dealt to me!2 [7d 8c]
+random_player2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [Kd Ks 6d]
 ### me!2 is not available. Playing default...
 me!2 checks
 random_player2 checks
 ### me!2 is not available. Playing default...
 me!2 checks
-random_player2 bets 108
-### me!2 is not available. Playing default...
-me!2 folds
-Uncalled bet of 108 returned to random_player2
-random_player2 wins the pot (4)
-
-Hand #76, me!2 (-68), random_player2 (68)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [Th Qs]
-Dealt to random_player2 [Ah Qd]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #77, random_player2 (69), me!2 (-69)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [9h 8s]
-Dealt to me!2 [Kh 5h]
-random_player2 calls
-### me!2 is not available. Playing default...
-me!2 checks
-*** FLOP *** (4) [As 2s 8h]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 discards 8s for Qc
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 bets 106
-### me!2 is not available. Playing default...
-me!2 folds
-Uncalled bet of 106 returned to random_player2
-random_player2 wins the pot (4)
-
-Hand #78, me!2 (-71), random_player2 (71)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [7s Js]
-Dealt to random_player2 [8s 6h]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #79, random_player2 (72), me!2 (-72)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [5c Td]
-Dealt to me!2 [7h 7d]
-random_player2 raises to 48
-### me!2 is not available. Playing default...
-me!2 folds
-Uncalled bet of 46 returned to random_player2
-random_player2 wins the pot (4)
-
-Hand #80, me!2 (-74), random_player2 (74)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [2h Qd]
-Dealt to random_player2 [2d 9s]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #81, random_player2 (75), me!2 (-75)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [Ad Th]
-Dealt to me!2 [Jd 5s]
-random_player2 folds
-me!2 wins the pot (3)
-
-Hand #82, me!2 (-74), random_player2 (74)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [Qs Qd]
-Dealt to random_player2 [5h 7c]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #83, random_player2 (75), me!2 (-75)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [6s Qd]
-Dealt to me!2 [6c Qs]
-random_player2 folds
-me!2 wins the pot (3)
-
-Hand #84, me!2 (-74), random_player2 (74)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [9h Qh]
-Dealt to random_player2 [Qd Ah]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #85, random_player2 (75), me!2 (-75)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [5d Qs]
-Dealt to me!2 [9h 9s]
-random_player2 raises to 51
-### me!2 is not available. Playing default...
-me!2 folds
-Uncalled bet of 49 returned to random_player2
-random_player2 wins the pot (4)
-
-Hand #86, me!2 (-77), random_player2 (77)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [As Ad]
-Dealt to random_player2 [9d Js]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #87, random_player2 (78), me!2 (-78)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [7c 4h]
-Dealt to me!2 [Qh Ts]
-random_player2 folds
-me!2 wins the pot (3)
-
-Hand #88, me!2 (-77), random_player2 (77)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [Qh 5s]
-Dealt to random_player2 [Td 9s]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #89, random_player2 (78), me!2 (-78)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [Jd 4h]
-Dealt to me!2 [3h 8d]
-random_player2 raises to 56
-### me!2 is not available. Playing default...
-me!2 folds
-Uncalled bet of 54 returned to random_player2
-random_player2 wins the pot (4)
-
-Hand #90, me!2 (-80), random_player2 (80)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [4s 4d]
-Dealt to random_player2 [Ks 9c]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #91, random_player2 (81), me!2 (-81)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [6c Qs]
-Dealt to me!2 [2d 8s]
-random_player2 folds
-me!2 wins the pot (3)
-
-Hand #92, me!2 (-80), random_player2 (80)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [5s Th]
-Dealt to random_player2 [5h 6c]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #93, random_player2 (81), me!2 (-81)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [8s 6d]
-Dealt to me!2 [7s Kh]
-random_player2 raises to 109
-### me!2 is not available. Playing default...
-me!2 folds
-Uncalled bet of 107 returned to random_player2
-random_player2 wins the pot (4)
-
-Hand #94, me!2 (-83), random_player2 (83)
-me!2 posts the blind of 1
-random_player2 posts the blind of 2
-Dealt to me!2 [Jd 9s]
-Dealt to random_player2 [Qc 5c]
-### me!2 is not available. Playing default...
-me!2 folds
-random_player2 wins the pot (3)
-
-Hand #95, random_player2 (84), me!2 (-84)
-random_player2 posts the blind of 1
-me!2 posts the blind of 2
-Dealt to random_player2 [2s 4d]
-Dealt to me!2 [8s Ac]
-random_player2 calls
-### me!2 is not available. Playing default...
-me!2 checks
-*** FLOP *** (4) [3d Ts 5s]
-### me!2 is not available. Playing default...
-me!2 checks
-random_player2 discards 4d for Jh
-### me!2 is not available. Playing default...
-me!2 checks
 random_player2 checks
-*** TURN *** (4) [3d Ts 5s] [Ad]
+*** TURN *** (4) [Kd Ks 6d] [7s]
 ### me!2 is not available. Playing default...
 me!2 checks
-random_player2 discards Jh for 7h
+random_player2 discards 8h for Th
 ### me!2 is not available. Playing default...
 me!2 checks
-random_player2 bets 32
+random_player2 bets 102
 ### me!2 is not available. Playing default...
 me!2 folds
-Uncalled bet of 32 returned to random_player2
+Uncalled bet of 102 returned to random_player2
 random_player2 wins the pot (4)
 
-Hand #96, me!2 (-86), random_player2 (86)
+Hand #94, me!2 (-80), random_player2 (80)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [Td 3h]
-Dealt to random_player2 [Kh 9c]
+Dealt to me!2 [6s 8d]
+Dealt to random_player2 [7c Th]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
 
-Hand #97, random_player2 (87), me!2 (-87)
+Hand #95, random_player2 (81), me!2 (-81)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [7h 9c]
-Dealt to me!2 [3h 5s]
+Dealt to random_player2 [9c Kd]
+Dealt to me!2 [Ks 2h]
 random_player2 calls
 ### me!2 is not available. Playing default...
 me!2 checks
-*** FLOP *** (4) [Qs Jh 4s]
+*** FLOP *** (4) [Ah Qs 6d]
 ### me!2 is not available. Playing default...
 me!2 checks
 random_player2 checks
 ### me!2 is not available. Playing default...
 me!2 checks
-random_player2 bets 87
+random_player2 bets 179
 ### me!2 is not available. Playing default...
 me!2 folds
-Uncalled bet of 87 returned to random_player2
+Uncalled bet of 179 returned to random_player2
 random_player2 wins the pot (4)
 
-Hand #98, me!2 (-89), random_player2 (89)
+Hand #96, me!2 (-83), random_player2 (83)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [Kd 2s]
-Dealt to random_player2 [Jh Ts]
+Dealt to me!2 [3d 2s]
+Dealt to random_player2 [4h 2c]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
 
-Hand #99, random_player2 (90), me!2 (-90)
+Hand #97, random_player2 (84), me!2 (-84)
 random_player2 posts the blind of 1
 me!2 posts the blind of 2
-Dealt to random_player2 [8d 9h]
-Dealt to me!2 [8c 5h]
-random_player2 raises to 128
-### me!2 is not available. Playing default...
-me!2 folds
-Uncalled bet of 126 returned to random_player2
-random_player2 wins the pot (4)
+Dealt to random_player2 [Ks Th]
+Dealt to me!2 [9s 3d]
+random_player2 folds
+me!2 wins the pot (3)
 
-Hand #100, me!2 (-92), random_player2 (92)
+Hand #98, me!2 (-83), random_player2 (83)
 me!2 posts the blind of 1
 random_player2 posts the blind of 2
-Dealt to me!2 [Kh Td]
-Dealt to random_player2 [9d 6s]
+Dealt to me!2 [Qc 5d]
+Dealt to random_player2 [3h 9h]
 ### me!2 is not available. Playing default...
 me!2 folds
 random_player2 wins the pot (3)
 
-FINAL: random_player2 (93) me!2 (-93)
+Hand #99, random_player2 (84), me!2 (-84)
+random_player2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random_player2 [Kd Ks]
+Dealt to me!2 [8c 9d]
+random_player2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [Qc Jd 7c]
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 discards Ks for 3h
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 checks
+*** TURN *** (4) [Qc Jd 7c] [Jh]
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 discards Kd for 4h
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 checks
+*** RIVER *** (4) [Qc Jd 7c Jh] [4s]
+### me!2 is not available. Playing default...
+me!2 checks
+random_player2 checks
+random_player2 shows [3h 4h]
+me!2 shows [8c 9d]
+random_player2 wins the pot (4)
+
+Hand #100, me!2 (-86), random_player2 (86)
+me!2 posts the blind of 1
+random_player2 posts the blind of 2
+Dealt to me!2 [9d 3h]
+Dealt to random_player2 [4c 7c]
+### me!2 is not available. Playing default...
+me!2 folds
+random_player2 wins the pot (3)
+
+FINAL: random_player2 (87) me!2 (-87)

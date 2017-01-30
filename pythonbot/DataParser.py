@@ -31,7 +31,8 @@ class DataParser:
             # timeBank = float(d[7])
         # GETACTION potSize numBoardCards [boardCards] numLastActions [lastActions] numLegalActions [legalActions] timebank
         if self.word == "GETACTION":
-            #self.potSize = int(d[1])
+            self.potSize = int(d[1])
+            print self.potSize
             numBoardCards = int(d[2])
             for i in range(0,numBoardCards):
                 if len(self.board) < numBoardCards:
