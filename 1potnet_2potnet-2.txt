@@ -1,0 +1,902 @@
+6.S912 MIT Pokerbots - 2potnet2 vs 1potnet2 (stack=200, bb=2)
+Hand #1, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [9h 7h]
+Dealt to 1potnet2 [2s 2d]
+### 2potnet2 never connected - compiling might have errored? Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #2, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Ts 8d]
+Dealt to 2potnet2 [5s Kc]
+### 1potnet2 never connected - compiling might have errored? Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #3, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [4h 7s]
+Dealt to 1potnet2 [3c Qh]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #4, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Jd 8c]
+Dealt to 2potnet2 [3d 6h]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #5, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [6d 7c]
+Dealt to 1potnet2 [Kc 9c]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #6, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Kh 9s]
+Dealt to 2potnet2 [Js Jc]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #7, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [7h 5h]
+Dealt to 1potnet2 [Ad 3c]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #8, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [8h 4s]
+Dealt to 2potnet2 [8s 8d]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #9, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [Ac Kd]
+Dealt to 1potnet2 [7h 3s]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #10, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [4c 2c]
+Dealt to 2potnet2 [5s 3c]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #11, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [7h 4h]
+Dealt to 1potnet2 [8s 6d]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #12, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Ac 3h]
+Dealt to 2potnet2 [Jh Ts]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #13, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [5h Qc]
+Dealt to 1potnet2 [Jd Qd]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #14, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [3c Th]
+Dealt to 2potnet2 [As Qc]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #15, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [2c 5d]
+Dealt to 1potnet2 [4d Qc]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #16, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Tc 6c]
+Dealt to 2potnet2 [7h 6d]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #17, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [Ah Jd]
+Dealt to 1potnet2 [9d Tc]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #18, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Jh Ks]
+Dealt to 2potnet2 [Ah Ad]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #19, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [3c 9h]
+Dealt to 1potnet2 [6c 7h]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #20, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [9d 5h]
+Dealt to 2potnet2 [3h Qh]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #21, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [Jc Qh]
+Dealt to 1potnet2 [Qs Ac]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #22, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [7c Kd]
+Dealt to 2potnet2 [Qs 2c]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #23, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [As 7s]
+Dealt to 1potnet2 [8h 4c]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #24, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Kc Qs]
+Dealt to 2potnet2 [Td 3c]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #25, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [Jc Ah]
+Dealt to 1potnet2 [4c Ks]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #26, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Kc As]
+Dealt to 2potnet2 [4s 3h]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #27, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [7d Jh]
+Dealt to 1potnet2 [6s 8s]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #28, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [7s Kh]
+Dealt to 2potnet2 [9c Jh]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #29, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [8s Ts]
+Dealt to 1potnet2 [3h 5h]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #30, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [8h 7d]
+Dealt to 2potnet2 [Td 7c]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #31, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [4h 7d]
+Dealt to 1potnet2 [3d 5c]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #32, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Ts 4s]
+Dealt to 2potnet2 [4h 3d]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #33, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [9h 5s]
+Dealt to 1potnet2 [Jd Jc]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #34, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [8s 4d]
+Dealt to 2potnet2 [6h 8h]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #35, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [9c Qh]
+Dealt to 1potnet2 [As Th]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #36, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Th Td]
+Dealt to 2potnet2 [3d Jc]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #37, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [6h 3c]
+Dealt to 1potnet2 [Ac 9s]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #38, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [3s 4c]
+Dealt to 2potnet2 [9s 4s]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #39, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [3s 8d]
+Dealt to 1potnet2 [2s Qd]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #40, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Js 2c]
+Dealt to 2potnet2 [Jd 7c]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #41, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [4h 6h]
+Dealt to 1potnet2 [Kd 7h]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #42, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [6s Ad]
+Dealt to 2potnet2 [9s 6d]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #43, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [Tc 4c]
+Dealt to 1potnet2 [5d Qh]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #44, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [4h 8c]
+Dealt to 2potnet2 [Kd Ks]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #45, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [As 5d]
+Dealt to 1potnet2 [Td Js]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #46, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [7s 7c]
+Dealt to 2potnet2 [Ad Th]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #47, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [Jh Ac]
+Dealt to 1potnet2 [8h Td]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #48, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Qc 2s]
+Dealt to 2potnet2 [Kh 7c]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #49, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [5h Ac]
+Dealt to 1potnet2 [7c 5c]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #50, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [3s 6c]
+Dealt to 2potnet2 [Js Kh]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #51, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [3d 8s]
+Dealt to 1potnet2 [4h 6s]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #52, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [5d Jc]
+Dealt to 2potnet2 [2c 9s]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #53, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [As 8h]
+Dealt to 1potnet2 [2d 5d]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #54, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [3h Qs]
+Dealt to 2potnet2 [6d 3c]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #55, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [Kd Ah]
+Dealt to 1potnet2 [5s 8s]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #56, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [4c Jc]
+Dealt to 2potnet2 [7s Ks]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #57, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [Js 7d]
+Dealt to 1potnet2 [Th 6h]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #58, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Qs 5d]
+Dealt to 2potnet2 [Ac Qd]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #59, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [8s 3h]
+Dealt to 1potnet2 [Tc 7d]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #60, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Ad 3s]
+Dealt to 2potnet2 [Th 5d]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #61, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [Qc 2h]
+Dealt to 1potnet2 [9s 5d]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #62, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Ah 3s]
+Dealt to 2potnet2 [6c Jc]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #63, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [Td Qc]
+Dealt to 1potnet2 [3d 9c]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #64, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Ts 2d]
+Dealt to 2potnet2 [Th 6d]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #65, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [3d Js]
+Dealt to 1potnet2 [Th Kc]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #66, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [3c 2c]
+Dealt to 2potnet2 [Td 3d]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #67, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [7h 7d]
+Dealt to 1potnet2 [5s Td]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #68, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [6h Kd]
+Dealt to 2potnet2 [Ah 6c]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #69, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [9h 7h]
+Dealt to 1potnet2 [4s 7c]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #70, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Qh 5s]
+Dealt to 2potnet2 [Td 4s]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #71, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [Qs 4c]
+Dealt to 1potnet2 [3d 5c]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #72, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [3d Qd]
+Dealt to 2potnet2 [Kd Kc]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #73, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [6d 9s]
+Dealt to 1potnet2 [5d 5s]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #74, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [7d 9c]
+Dealt to 2potnet2 [7h 5s]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #75, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [3d 2d]
+Dealt to 1potnet2 [Kc 7s]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #76, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Ts 5s]
+Dealt to 2potnet2 [3s Th]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #77, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [Kd Jh]
+Dealt to 1potnet2 [7h 5h]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #78, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Jh 7s]
+Dealt to 2potnet2 [6h 8d]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #79, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [6s 7h]
+Dealt to 1potnet2 [2c 3h]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #80, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Qc 5h]
+Dealt to 2potnet2 [2h Qs]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #81, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [3s Jh]
+Dealt to 1potnet2 [4h Jd]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #82, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [5h 3d]
+Dealt to 2potnet2 [4s 5d]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #83, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [3s Qs]
+Dealt to 1potnet2 [8s 9h]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #84, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [3c 7d]
+Dealt to 2potnet2 [Tc 4s]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #85, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [9c 8h]
+Dealt to 1potnet2 [3s 5c]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #86, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [6c 7h]
+Dealt to 2potnet2 [4c 3d]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #87, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [8s Th]
+Dealt to 1potnet2 [2c Jc]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #88, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [7s 3c]
+Dealt to 2potnet2 [Td 5s]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #89, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [8s Td]
+Dealt to 1potnet2 [2h Qc]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #90, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [8s 4d]
+Dealt to 2potnet2 [Ac Ah]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #91, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [8d 6h]
+Dealt to 1potnet2 [Jh 3s]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #92, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Qs Td]
+Dealt to 2potnet2 [8s 4h]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #93, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [7d Kh]
+Dealt to 1potnet2 [Kc 6h]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #94, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [2s 9d]
+Dealt to 2potnet2 [3s Kd]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #95, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [4d Jd]
+Dealt to 1potnet2 [Jh 6s]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #96, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Td Jd]
+Dealt to 2potnet2 [9d Jh]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #97, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [7h Jh]
+Dealt to 1potnet2 [6h Jd]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #98, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [Qd 5s]
+Dealt to 2potnet2 [6c 3s]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+Hand #99, 2potnet2 (0), 1potnet2 (0)
+2potnet2 posts the blind of 1
+1potnet2 posts the blind of 2
+Dealt to 2potnet2 [Ks 7s]
+Dealt to 1potnet2 [9d Jd]
+### 2potnet2 is not available. Playing default...
+2potnet2 folds
+1potnet2 wins the pot (3)
+
+Hand #100, 1potnet2 (1), 2potnet2 (-1)
+1potnet2 posts the blind of 1
+2potnet2 posts the blind of 2
+Dealt to 1potnet2 [9d Js]
+Dealt to 2potnet2 [8d 3h]
+### 1potnet2 is not available. Playing default...
+1potnet2 folds
+2potnet2 wins the pot (3)
+
+FINAL: 2potnet2 (0) 1potnet2 (0)
