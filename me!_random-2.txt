@@ -1,0 +1,1242 @@
+6.S912 MIT Pokerbots - random2 vs me!2 (stack=200, bb=2)
+Hand #1, random2 (0), me!2 (0)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [5s Qc]
+Dealt to me!2 [Ks 9c]
+random2 raises to 81
+### me!2 never connected - compiling might have errored? Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 79 returned to random2
+random2 wins the pot (4)
+
+Hand #2, me!2 (-2), random2 (2)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Qs Qd]
+Dealt to random2 [Js Kh]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #3, random2 (3), me!2 (-3)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Qd 7h]
+Dealt to me!2 [Ts 8d]
+random2 folds
+me!2 wins the pot (3)
+
+Hand #4, me!2 (-2), random2 (2)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Kh 8d]
+Dealt to random2 [9d Td]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #5, random2 (3), me!2 (-3)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Th 2d]
+Dealt to me!2 [5c 9d]
+random2 folds
+me!2 wins the pot (3)
+
+Hand #6, me!2 (-2), random2 (2)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Qc Qs]
+Dealt to random2 [5h 2c]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #7, random2 (3), me!2 (-3)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [3s Jd]
+Dealt to me!2 [Js 8c]
+random2 raises to 92
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 90 returned to random2
+random2 wins the pot (4)
+
+Hand #8, me!2 (-5), random2 (5)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [5d 5c]
+Dealt to random2 [9d 3c]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #9, random2 (6), me!2 (-6)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [5h 4d]
+Dealt to me!2 [2d 8c]
+random2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [6h Qc 7d]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 discards 4d for 2h
+### me!2 is not available. Playing default...
+me!2 checks
+random2 checks
+*** TURN *** (4) [6h Qc 7d] [Ts]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 checks
+### me!2 is not available. Playing default...
+me!2 checks
+random2 bets 19
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 19 returned to random2
+random2 wins the pot (4)
+
+Hand #10, me!2 (-8), random2 (8)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [3s 7d]
+Dealt to random2 [6s Ks]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #11, random2 (9), me!2 (-9)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Kh 3c]
+Dealt to me!2 [6c 7s]
+random2 raises to 13
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 11 returned to random2
+random2 wins the pot (4)
+
+Hand #12, me!2 (-11), random2 (11)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [2s 2d]
+Dealt to random2 [9h 8s]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #13, random2 (12), me!2 (-12)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [8d Jh]
+Dealt to me!2 [4h 8s]
+random2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [Kc 9h 5c]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 discards 8d for 4d
+### me!2 is not available. Playing default...
+me!2 checks
+random2 checks
+*** TURN *** (4) [Kc 9h 5c] [2c]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 discards Jh for 6d
+### me!2 is not available. Playing default...
+me!2 checks
+random2 bets 195
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 195 returned to random2
+random2 wins the pot (4)
+
+Hand #14, me!2 (-14), random2 (14)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [9s 2c]
+Dealt to random2 [4d 8h]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #15, random2 (15), me!2 (-15)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [As Jd]
+Dealt to me!2 [8d Ks]
+random2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [8h Ad 2d]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 discards Jd for 5h
+### me!2 is not available. Playing default...
+me!2 checks
+random2 checks
+*** TURN *** (4) [8h Ad 2d] [4s]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 checks
+### me!2 is not available. Playing default...
+me!2 checks
+random2 checks
+*** RIVER *** (4) [8h Ad 2d 4s] [Ac]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 checks
+random2 shows [As 5h]
+me!2 shows [8d Ks]
+random2 wins the pot (4)
+
+Hand #16, me!2 (-17), random2 (17)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Qs Ts]
+Dealt to random2 [2h Jd]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #17, random2 (18), me!2 (-18)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Tc 2d]
+Dealt to me!2 [Ah 3h]
+random2 folds
+me!2 wins the pot (3)
+
+Hand #18, me!2 (-17), random2 (17)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [5h 5c]
+Dealt to random2 [Ts 8h]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #19, random2 (18), me!2 (-18)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [8h 8c]
+Dealt to me!2 [6d 5s]
+random2 folds
+me!2 wins the pot (3)
+
+Hand #20, me!2 (-17), random2 (17)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [8c Td]
+Dealt to random2 [4s 7c]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #21, random2 (18), me!2 (-18)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Ad 9h]
+Dealt to me!2 [2s 7s]
+random2 raises to 121
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 119 returned to random2
+random2 wins the pot (4)
+
+Hand #22, me!2 (-20), random2 (20)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [5c Kh]
+Dealt to random2 [4h As]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #23, random2 (21), me!2 (-21)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Jd Ks]
+Dealt to me!2 [4d Ah]
+random2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [Qh 3s 8d]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 checks
+### me!2 is not available. Playing default...
+me!2 checks
+random2 checks
+*** TURN *** (4) [Qh 3s 8d] [7d]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 discards Ks for 5s
+### me!2 is not available. Playing default...
+me!2 checks
+random2 bets 16
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 16 returned to random2
+random2 wins the pot (4)
+
+Hand #24, me!2 (-23), random2 (23)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [4h Kd]
+Dealt to random2 [Th Kh]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #25, random2 (24), me!2 (-24)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Kh 7s]
+Dealt to me!2 [Tc 2c]
+random2 folds
+me!2 wins the pot (3)
+
+Hand #26, me!2 (-23), random2 (23)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Jh 4s]
+Dealt to random2 [2d 3h]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #27, random2 (24), me!2 (-24)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Qs Ac]
+Dealt to me!2 [8h 9c]
+random2 folds
+me!2 wins the pot (3)
+
+Hand #28, me!2 (-23), random2 (23)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [8s 9s]
+Dealt to random2 [Kh 7s]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #29, random2 (24), me!2 (-24)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [4c 7h]
+Dealt to me!2 [Ah Kd]
+random2 raises to 130
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 128 returned to random2
+random2 wins the pot (4)
+
+Hand #30, me!2 (-26), random2 (26)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [2c Qd]
+Dealt to random2 [Tc 9s]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #31, random2 (27), me!2 (-27)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Qs 3s]
+Dealt to me!2 [2h Js]
+random2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [Td 3h 7s]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 discards Qs for Kh
+### me!2 is not available. Playing default...
+me!2 checks
+random2 bets 19
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 19 returned to random2
+random2 wins the pot (4)
+
+Hand #32, me!2 (-29), random2 (29)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Th 4c]
+Dealt to random2 [3h 8h]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #33, random2 (30), me!2 (-30)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [3d Ts]
+Dealt to me!2 [3h Ad]
+random2 raises to 163
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 161 returned to random2
+random2 wins the pot (4)
+
+Hand #34, me!2 (-32), random2 (32)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Tc Th]
+Dealt to random2 [8d Ts]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #35, random2 (33), me!2 (-33)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [5c Kc]
+Dealt to me!2 [Ad 6c]
+random2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [3d Qc 7d]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 discards Kc for 3h
+### me!2 is not available. Playing default...
+me!2 checks
+random2 bets 94
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 94 returned to random2
+random2 wins the pot (4)
+
+Hand #36, me!2 (-35), random2 (35)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [7c Qs]
+Dealt to random2 [Ac 4c]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #37, random2 (36), me!2 (-36)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Qs 5s]
+Dealt to me!2 [9h Jh]
+random2 folds
+me!2 wins the pot (3)
+
+Hand #38, me!2 (-35), random2 (35)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [3d Tc]
+Dealt to random2 [Qs 2s]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #39, random2 (36), me!2 (-36)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [8d 6h]
+Dealt to me!2 [3d 7d]
+random2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [Ks 4s 8c]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 discards 8d for Jd
+### me!2 is not available. Playing default...
+me!2 checks
+random2 checks
+*** TURN *** (4) [Ks 4s 8c] [Th]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 checks
+### me!2 is not available. Playing default...
+me!2 checks
+random2 bets 79
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 79 returned to random2
+random2 wins the pot (4)
+
+Hand #40, me!2 (-38), random2 (38)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Jd 3c]
+Dealt to random2 [5c 7c]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #41, random2 (39), me!2 (-39)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Tc 3h]
+Dealt to me!2 [Jd Jc]
+random2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [7d 8d 9h]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 discards 3h for 7h
+### me!2 is not available. Playing default...
+me!2 checks
+random2 bets 42
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 42 returned to random2
+random2 wins the pot (4)
+
+Hand #42, me!2 (-41), random2 (41)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [8c Qc]
+Dealt to random2 [3c Td]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #43, random2 (42), me!2 (-42)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [2s Jh]
+Dealt to me!2 [Kc Ah]
+random2 folds
+me!2 wins the pot (3)
+
+Hand #44, me!2 (-41), random2 (41)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Ts 6d]
+Dealt to random2 [8c Js]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #45, random2 (42), me!2 (-42)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Jc Js]
+Dealt to me!2 [3c 7h]
+random2 raises to 181
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 179 returned to random2
+random2 wins the pot (4)
+
+Hand #46, me!2 (-44), random2 (44)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Qc 3h]
+Dealt to random2 [Kd 9d]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #47, random2 (45), me!2 (-45)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [3s 5c]
+Dealt to me!2 [6h Jc]
+random2 folds
+me!2 wins the pot (3)
+
+Hand #48, me!2 (-44), random2 (44)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [2s 5d]
+Dealt to random2 [3h Qd]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #49, random2 (45), me!2 (-45)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Qc Jd]
+Dealt to me!2 [Js Qh]
+random2 raises to 199
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 197 returned to random2
+random2 wins the pot (4)
+
+Hand #50, me!2 (-47), random2 (47)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [7c Js]
+Dealt to random2 [9s 7s]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #51, random2 (48), me!2 (-48)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [3h Js]
+Dealt to me!2 [Ad Ac]
+random2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [7h 3d Tc]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 discards Js for Qc
+### me!2 is not available. Playing default...
+me!2 checks
+random2 checks
+*** TURN *** (4) [7h 3d Tc] [Qs]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 discards Qc for Kh
+### me!2 is not available. Playing default...
+me!2 checks
+random2 checks
+*** RIVER *** (4) [7h 3d Tc Qs] [6c]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 bets 51
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 51 returned to random2
+random2 wins the pot (4)
+
+Hand #52, me!2 (-50), random2 (50)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Kh Jh]
+Dealt to random2 [6h 4s]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #53, random2 (51), me!2 (-51)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [2h Kh]
+Dealt to me!2 [Qs 8s]
+random2 raises to 102
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 100 returned to random2
+random2 wins the pot (4)
+
+Hand #54, me!2 (-53), random2 (53)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Ad Td]
+Dealt to random2 [5d 9h]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #55, random2 (54), me!2 (-54)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Jd 6s]
+Dealt to me!2 [4c Td]
+random2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [7d 5c 2h]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 discards 6s for 4s
+### me!2 is not available. Playing default...
+me!2 checks
+random2 bets 105
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 105 returned to random2
+random2 wins the pot (4)
+
+Hand #56, me!2 (-56), random2 (56)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [3h Qd]
+Dealt to random2 [Ah 4s]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #57, random2 (57), me!2 (-57)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [6d 9s]
+Dealt to me!2 [8h 9h]
+random2 raises to 65
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 63 returned to random2
+random2 wins the pot (4)
+
+Hand #58, me!2 (-59), random2 (59)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [2c Kc]
+Dealt to random2 [Jd Jh]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #59, random2 (60), me!2 (-60)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [As 9c]
+Dealt to me!2 [Th 9d]
+random2 folds
+me!2 wins the pot (3)
+
+Hand #60, me!2 (-59), random2 (59)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [9d 6s]
+Dealt to random2 [7h 5h]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #61, random2 (60), me!2 (-60)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Qc Qs]
+Dealt to me!2 [Ts 4c]
+random2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [9c 3s 5s]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 discards Qs for Kh
+### me!2 is not available. Playing default...
+me!2 checks
+random2 bets 183
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 183 returned to random2
+random2 wins the pot (4)
+
+Hand #62, me!2 (-62), random2 (62)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [4h Kc]
+Dealt to random2 [4c Qh]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #63, random2 (63), me!2 (-63)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [3c Jc]
+Dealt to me!2 [7d 4c]
+random2 folds
+me!2 wins the pot (3)
+
+Hand #64, me!2 (-62), random2 (62)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Ah 5d]
+Dealt to random2 [Ad 7h]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #65, random2 (63), me!2 (-63)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [5d Qh]
+Dealt to me!2 [Ts 2h]
+random2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [2c 8c 6d]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 discards 5d for Ah
+### me!2 is not available. Playing default...
+me!2 checks
+random2 checks
+*** TURN *** (4) [2c 8c 6d] [Kd]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 discards Ah for 3s
+### me!2 is not available. Playing default...
+me!2 checks
+random2 checks
+*** RIVER *** (4) [2c 8c 6d Kd] [Qc]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 checks
+random2 shows [Qh 3s]
+me!2 shows [Ts 2h]
+random2 wins the pot (4)
+
+Hand #66, me!2 (-65), random2 (65)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Qs Ad]
+Dealt to random2 [Kd 7d]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #67, random2 (66), me!2 (-66)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [4d 3s]
+Dealt to me!2 [Jc 7h]
+random2 raises to 85
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 83 returned to random2
+random2 wins the pot (4)
+
+Hand #68, me!2 (-68), random2 (68)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [6s 9h]
+Dealt to random2 [Kh Ah]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #69, random2 (69), me!2 (-69)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [7d 8c]
+Dealt to me!2 [6h 3h]
+random2 raises to 43
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 41 returned to random2
+random2 wins the pot (4)
+
+Hand #70, me!2 (-71), random2 (71)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Jd Qc]
+Dealt to random2 [5d 7d]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #71, random2 (72), me!2 (-72)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [5h 2s]
+Dealt to me!2 [6h 3h]
+random2 raises to 172
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 170 returned to random2
+random2 wins the pot (4)
+
+Hand #72, me!2 (-74), random2 (74)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Tc Jh]
+Dealt to random2 [Th 5c]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #73, random2 (75), me!2 (-75)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [7c 6d]
+Dealt to me!2 [6h 4c]
+random2 folds
+me!2 wins the pot (3)
+
+Hand #74, me!2 (-74), random2 (74)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [7c Qh]
+Dealt to random2 [Ac Ts]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #75, random2 (75), me!2 (-75)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [4d 5s]
+Dealt to me!2 [9c Td]
+random2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [2h Ad Qh]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 discards 5s for Th
+### me!2 is not available. Playing default...
+me!2 checks
+random2 bets 13
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 13 returned to random2
+random2 wins the pot (4)
+
+Hand #76, me!2 (-77), random2 (77)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Jh Kd]
+Dealt to random2 [6s 3h]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #77, random2 (78), me!2 (-78)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [3s Qh]
+Dealt to me!2 [Jd Ac]
+random2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [Ad Jh Ks]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 checks
+### me!2 is not available. Playing default...
+me!2 checks
+random2 checks
+*** TURN *** (4) [Ad Jh Ks] [5c]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 checks
+### me!2 is not available. Playing default...
+me!2 checks
+random2 bets 187
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 187 returned to random2
+random2 wins the pot (4)
+
+Hand #78, me!2 (-80), random2 (80)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Ac Qd]
+Dealt to random2 [7h Js]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #79, random2 (81), me!2 (-81)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Ad 8h]
+Dealt to me!2 [Kc 4h]
+random2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [6d Jc 2d]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 discards 8h for Ks
+### me!2 is not available. Playing default...
+me!2 checks
+random2 bets 150
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 150 returned to random2
+random2 wins the pot (4)
+
+Hand #80, me!2 (-83), random2 (83)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [7h Js]
+Dealt to random2 [Qd 4s]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #81, random2 (84), me!2 (-84)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Kd Ad]
+Dealt to me!2 [6h Qs]
+random2 folds
+me!2 wins the pot (3)
+
+Hand #82, me!2 (-83), random2 (83)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [5h 9s]
+Dealt to random2 [6h Ks]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #83, random2 (84), me!2 (-84)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Ks Qh]
+Dealt to me!2 [5d Jc]
+random2 calls
+### me!2 is not available. Playing default...
+me!2 checks
+*** FLOP *** (4) [3h Ts Qs]
+### me!2 is not available. Playing default...
+me!2 checks
+random2 discards Ks for 9h
+### me!2 is not available. Playing default...
+me!2 checks
+random2 bets 119
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 119 returned to random2
+random2 wins the pot (4)
+
+Hand #84, me!2 (-86), random2 (86)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [7c 8d]
+Dealt to random2 [2s 9h]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #85, random2 (87), me!2 (-87)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [7d Tc]
+Dealt to me!2 [4s 4d]
+random2 folds
+me!2 wins the pot (3)
+
+Hand #86, me!2 (-86), random2 (86)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [7h 3c]
+Dealt to random2 [9c 3s]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #87, random2 (87), me!2 (-87)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Qh 7d]
+Dealt to me!2 [7c Ad]
+random2 raises to 29
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 27 returned to random2
+random2 wins the pot (4)
+
+Hand #88, me!2 (-89), random2 (89)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [4s Qh]
+Dealt to random2 [3h 7d]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #89, random2 (90), me!2 (-90)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Qh 9c]
+Dealt to me!2 [Ad 9d]
+random2 folds
+me!2 wins the pot (3)
+
+Hand #90, me!2 (-89), random2 (89)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [8d Jc]
+Dealt to random2 [4c 8h]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #91, random2 (90), me!2 (-90)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [5s Ac]
+Dealt to me!2 [7s 7d]
+random2 raises to 140
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 138 returned to random2
+random2 wins the pot (4)
+
+Hand #92, me!2 (-92), random2 (92)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Ac Kc]
+Dealt to random2 [5d 7s]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #93, random2 (93), me!2 (-93)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [3h 9c]
+Dealt to me!2 [Ac 7d]
+random2 folds
+me!2 wins the pot (3)
+
+Hand #94, me!2 (-92), random2 (92)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [6s Ad]
+Dealt to random2 [8d 4d]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #95, random2 (93), me!2 (-93)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [Ad Ah]
+Dealt to me!2 [Th 7s]
+random2 raises to 91
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 89 returned to random2
+random2 wins the pot (4)
+
+Hand #96, me!2 (-95), random2 (95)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Jd Ts]
+Dealt to random2 [6s 6h]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #97, random2 (96), me!2 (-96)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [6h Qs]
+Dealt to me!2 [3d 2c]
+random2 folds
+me!2 wins the pot (3)
+
+Hand #98, me!2 (-95), random2 (95)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [2d 8h]
+Dealt to random2 [4s 3c]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+Hand #99, random2 (96), me!2 (-96)
+random2 posts the blind of 1
+me!2 posts the blind of 2
+Dealt to random2 [5d Ac]
+Dealt to me!2 [Kd Qc]
+random2 raises to 25
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+Uncalled bet of 23 returned to random2
+random2 wins the pot (4)
+
+Hand #100, me!2 (-98), random2 (98)
+me!2 posts the blind of 1
+random2 posts the blind of 2
+Dealt to me!2 [Qs 7c]
+Dealt to random2 [9d 8s]
+### me!2 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me!2]
+me!2 folds
+random2 wins the pot (3)
+
+FINAL: random2 (99) me!2 (-99)
