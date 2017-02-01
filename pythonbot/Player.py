@@ -111,7 +111,7 @@ class Player:
                             print "betsize 1 call"
                             s.send("CALL\n")
 
-                        elif d.potSize - d.oppBet >= d.oppBet: 
+                        elif d.potSize/2.0 - d.oppBet >= d.oppBet: 
                             print "betsize 2 call"
                             s.send("CALL\n")
                         else:
