@@ -1,6 +1,25 @@
 import random
 
 class BetCalc:
+	def getBetAmount_new(self, betType, maxBet, minBet):
+		maxBet = int(maxBet)
+		minBet = int(minBet)
+		if maxBet <= minBet:
+			return maxBet
+		if betType == "SMALL":
+			bet = random.randint(minBet, maxBet/4)
+		elif betType == "MED":
+			bet = random.randint(minBet/4, maxBet/2)
+		elif betType == "LARGE":	
+			bet = random.randint(minBet/2, maxBet)
+		if bet < minBet:
+			bet = minBet
+		elif bet > maxBet:
+			bet = maxBet
+
+		return bet
+			
+
 	def getBetAmount(self, betType, maxBet, minBet):
 		LoUpper = 0.06
 		LoInside = 0.7

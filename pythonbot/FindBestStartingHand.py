@@ -5,13 +5,9 @@ from StartingHand import *
 class FindBestStartingHand:	
 	def parse(self):
 		f = open("potnetdata.txt","r")
-
-		me = "challenger_theinnermachinat"
-		potnet = "opponent_potnet"
-
+		Q6 = False
 		hands = {}
 		dealt = {}
-		fCount = 0
 		lines = True
 
 		while lines:
@@ -19,16 +15,12 @@ class FindBestStartingHand:
 			if lineList == []:
 				pass
 			elif lineList[0] == "FINAL:":
-				fCount += 1
-				if fCount == 9:
-					print "exiting"
-					lines = False
+				lines = False
+				break
 			elif lineList[0] == "Dealt":
 				hand = StartingHand(myCard(lineList[3][1:]),myCard(lineList[4][:-1]))
 				dealt[lineList[2]] = hand
 			elif lineList[1] == "wins" and lineList[4] == "(400)":
-				print dealt
-				print lineList
 				for player in dealt:
 					hand = dealt[player]
 					if hand in hands:
@@ -37,18 +29,20 @@ class FindBestStartingHand:
 						hands[hand] = [0,1] # 0 wins, 1 appearance total
 				winningHand = dealt[lineList[0]]
 				hands[winningHand][0] += 1
+
 		items = hands.items()
+		sorted_items = sorted(items, key=lambda x: x[1][0]/float(x[1][1]), reverse=True)
+		for hand, info in sorted_items:
+			rank = info[0]/float(info[1])
+			print "HAND:", hand, "RANK:", rank
 
-		for hand, info in items:
-			print hand, info[0] / float(info[1])
-
-		print hands
+		#print hands
 		print len(hands) # should be 169
 		return hands
 def main():
 	f = FindBestStartingHand()
 	f.parse()
-main()
+#main()
 
 
 

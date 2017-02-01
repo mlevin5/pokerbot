@@ -65,19 +65,19 @@ class PercentWin:
 			return handPer
 		# starting hand
 		elif len(self.board) == 0 and not setOfCards in self.handDict:
-			f = open("startingHandRanks.txt","r")
+			f = open("startinghanddata.txt","r")
 			myHandSameSuit = self.hand[0].suit == self.hand[1].suit
 			while True:
 				lineList = f.readline().strip().split()
 				if lineList == []:
 					break
-				handStr = lineList[0].upper()
+				handStr = lineList[1].upper()
 				if (self.hand[0].face.upper() in handStr and self.hand[1].face.upper() in handStr):
 					if myHandSameSuit and handStr[-1] == "S":
-						self.startingHandRank = float(lineList[1])
+						self.startingHandRank = float(lineList[3]) * 100
 						return self.startingHandRank
 					elif not myHandSameSuit and not handStr[-1] == "S":
-						self.startingHandRank = float(lineList[1])
+						self.startingHandRank = float(lineList[3]) * 100
 						return self.startingHandRank
 			return 0
 		if setOfCards in self.handDict:
@@ -129,7 +129,8 @@ class PercentWin:
 
 		#if len(self.board) == 3 and self.startingHandRank > 60:
 		#	return "CHECK\n" 
-		print discardPercent
+		
+		#print discardPercent
 		if discardPercent > handPercentWin:
 			return "DISCARD:"+discard.strCard+"\n"
 		else:
@@ -137,16 +138,18 @@ class PercentWin:
 
 # FIX THIS ONE PART OF THIS:
 # KEEP A VERY STRONG STARTING HAND ~ALMOST~ NO MATTER WHAT
-	
+"""
+*** RIVER *** (400) [Ts 2h 8h 4c] [7d]
+challenger_theinnermachinat shows [Kd Kh]"""
 
 def main():
-	pw1 = PercentWin([myCard("Js"),myCard("6s"),myCard("Kh"),myCard("Qh")],
-		[myCard("6c"),myCard("9h")])
+	pw1 = PercentWin([myCard("Ts"),myCard("2h"),myCard("8h"),myCard("4c")],
+		[myCard("Kd"),myCard("Kh")])
 	pw2 = PercentWin([],[myCard("9s"), myCard("9c")])
 	handRank =  pw1.getWinPercentage()
 	print handRank
-	print pw1.shouldDiscard(handRank)
-main()
+	#print pw1.shouldDiscard(handRank)
+#main()
 
 
 					

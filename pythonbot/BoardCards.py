@@ -1,4 +1,4 @@
-class StartingHand:
+class BoardCards:
 	def __init__(self, boardCards):
 		self.boardCards = boardCards
 

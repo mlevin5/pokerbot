@@ -10,6 +10,9 @@ class StartingHand:
 			for card in self.faces:
 				if not card in other.faces:
 					return False
+			for card in other.faces:
+				if not card in self.faces:
+					return False
 			return self.sameSuit == other.sameSuit
 		else:
 			return False
@@ -28,15 +31,12 @@ class StartingHand:
 	def __repr__(self):
 		return self.__str__()
 def main():
-	QTs = StartingHand(myCard("Qd"), myCard("Td"))
+	QQ = StartingHand(myCard("Qd"), myCard("Qc"))
 	QTs2 = StartingHand(myCard("Tc"), myCard("Qc"))
 	QT = StartingHand(myCard("Qd"), myCard("Tc"))
 	QT2 = StartingHand(myCard("Tc"), myCard("Qd"))
-	QT3 = StartingHand(myCard("Qs"), myCard("Tc"))
+	QT3 = StartingHand(myCard("Qs"), myCard("Td"))
 	JT = StartingHand(myCard("Jd"), myCard("Tc"))
-	assert QTs == QTs2
-	assert QT == QT2
-	assert QT2 == QT3
-	assert QTs != QT
-	assert JT != QT
+	assert QQ != QT
+
 main()

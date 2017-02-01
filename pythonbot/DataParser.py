@@ -32,7 +32,7 @@ class DataParser:
         # GETACTION potSize numBoardCards [boardCards] numLastActions [lastActions] numLegalActions [legalActions] timebank
         if self.word == "GETACTION":
             self.potSize = int(d[1])
-            print self.potSize
+            #print self.potSize
             numBoardCards = int(d[2])
             for i in range(0,numBoardCards):
                 if len(self.board) < numBoardCards:
@@ -92,6 +92,9 @@ class DataParser:
                 self.handRank = self.startingHandRank
             else:
                 self.handRank = self.pw.getWinPercentage()
+
+            print "\n",self.hand, self.handRank
+            print self.board,"\n"
 
 
             # CHECK BET / CHECK RAISE
