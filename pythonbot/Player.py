@@ -37,7 +37,7 @@ class Player:
             print data
 
         # QUIT WHILE YOU'RE AHEAD FUNCTION ! **************
-            quitWhileAheadMode =  myBank >= myStack*1.5
+            quitWhileAheadMode =  myBank >= myStack
             #print quitWhileAheadMode
 
             d.parse(data)

@@ -164,10 +164,10 @@ class PercentWin:
 						numWinsForNewHand2+=1				
 					total+=1
 			if numWinsForNewHand1 >= numWinsForNewHand2:
-				discard = self.hand[0]
+				discard = self.hand[1]
 				discardPercent = (float(numWinsForNewHand1)/total)*100
 			else:
-				discard = self.hand[1]
+				discard = self.hand[0]
 				discardPercent = (float(numWinsForNewHand2)/total)*100
 			self.discardDict[setOfCards] = discardPercent
 		else:
@@ -177,7 +177,7 @@ class PercentWin:
 		#	return "CHECK\n" 
 		
 		print discardPercent
-		if discardPercent > handPercentWin:
+		if discardPercent >= handPercentWin:
 			return "DISCARD:"+discard.strCard+"\n"
 		else:
 			return "CHECK\n" 
@@ -189,8 +189,8 @@ class PercentWin:
 challenger_theinnermachinat shows [Kd Kh]"""
 
 def main():
-	pw1 = PercentWin([myCard("Tc"),myCard("8d"),myCard("Ah"),myCard("Js")],
-		[myCard("Qd"),myCard("9c")])
+	pw1 = PercentWin([myCard("Qh"),myCard("8c"),myCard("Qd"),myCard("3d")],
+		[myCard("Qc"),myCard("2d")])
 	pw2 = PercentWin([],[myCard("9s"), myCard("9c")])
 	handRank =  pw1.getWinPercentage()
 	print handRank
