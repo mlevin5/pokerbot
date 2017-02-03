@@ -1,0 +1,1002 @@
+6.S912 MIT Pokerbots - me22 vs me12 (stack=200, bb=2)
+Hand #1, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [2h 8d]
+Dealt to me12 [Th 6d]
+### me22 never connected - compiling might have errored? Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #2, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [Kc 2c]
+Dealt to me22 [6d 2s]
+### me12 never connected - compiling might have errored? Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #3, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [Qd 5d]
+Dealt to me12 [7c As]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #4, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [Js 5d]
+Dealt to me22 [3s 5s]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #5, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [Jc As]
+Dealt to me12 [6c 4d]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #6, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [3s 2c]
+Dealt to me22 [9h Kc]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #7, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [Th Qc]
+Dealt to me12 [4c Qh]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #8, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [Jd 6d]
+Dealt to me22 [Ah 8d]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #9, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [8d Jc]
+Dealt to me12 [2h 9d]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #10, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [Js Ac]
+Dealt to me22 [9h Jc]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #11, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [Ah 3s]
+Dealt to me12 [5d 8d]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #12, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [8c 7d]
+Dealt to me22 [3c Ac]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #13, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [9h 4h]
+Dealt to me12 [8s 7s]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #14, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [8s Tc]
+Dealt to me22 [Kc 2c]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #15, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [Qd 8d]
+Dealt to me12 [5s 2h]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #16, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [9d 8h]
+Dealt to me22 [6d Ts]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #17, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [Ts 9s]
+Dealt to me12 [5h Tc]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #18, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [9s 7d]
+Dealt to me22 [5h Th]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #19, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [7d Kd]
+Dealt to me12 [Ah Jc]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #20, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [7d Kc]
+Dealt to me22 [3c Th]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #21, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [Js 3h]
+Dealt to me12 [6c Qc]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #22, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [Ks Jd]
+Dealt to me22 [3d 7d]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #23, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [8s 3d]
+Dealt to me12 [Kd Td]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #24, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [Qd Tc]
+Dealt to me22 [Ks Kh]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #25, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [7s 6s]
+Dealt to me12 [3h Qh]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #26, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [9s 8d]
+Dealt to me22 [Kc 4h]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #27, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [2h Tc]
+Dealt to me12 [4h Js]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #28, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [Kc 3s]
+Dealt to me22 [2c 5c]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #29, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [7c 8c]
+Dealt to me12 [Ks Ah]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #30, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [Ts Ac]
+Dealt to me22 [6h Jh]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #31, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [3s As]
+Dealt to me12 [5d Jh]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #32, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [5d Kc]
+Dealt to me22 [Jc 3h]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #33, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [9d 3h]
+Dealt to me12 [5h Qc]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #34, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [Ac 8h]
+Dealt to me22 [Jh 2h]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #35, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [2h 3s]
+Dealt to me12 [6s 7d]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #36, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [8h 3d]
+Dealt to me22 [5s 3s]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #37, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [Ad 3h]
+Dealt to me12 [4s Jh]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #38, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [9c Kh]
+Dealt to me22 [Ac 4h]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #39, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [Jd 2s]
+Dealt to me12 [6h 9d]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #40, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [Td Qs]
+Dealt to me22 [6d 2d]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #41, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [9d Jc]
+Dealt to me12 [5h 4s]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #42, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [Qs Js]
+Dealt to me22 [Qd 4s]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #43, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [3h 2h]
+Dealt to me12 [3s Kh]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #44, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [5h 9c]
+Dealt to me22 [Jd 8h]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #45, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [5s Th]
+Dealt to me12 [Td 5d]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #46, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [Jh 8c]
+Dealt to me22 [9d 4s]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #47, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [Qd 9s]
+Dealt to me12 [Ah 6s]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #48, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [5s Kc]
+Dealt to me22 [3s 4d]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #49, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [8h 8s]
+Dealt to me12 [6h Ts]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #50, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [Jc 9h]
+Dealt to me22 [5d 4d]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #51, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [2d 8s]
+Dealt to me12 [4d 7d]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #52, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [4h 4c]
+Dealt to me22 [Jh 8h]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #53, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [7d 8s]
+Dealt to me12 [5h Kh]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #54, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [As Kc]
+Dealt to me22 [Js Kh]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #55, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [6d 8c]
+Dealt to me12 [3c Tc]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #56, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [2c 3s]
+Dealt to me22 [6h 9d]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #57, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [8s 6d]
+Dealt to me12 [Kc 2c]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #58, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [6c 2c]
+Dealt to me22 [7c 4s]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #59, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [3d 8c]
+Dealt to me12 [6c Ks]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #60, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [5c 7s]
+Dealt to me22 [9c Ad]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #61, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [4d 3d]
+Dealt to me12 [As Jc]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #62, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [Th 6s]
+Dealt to me22 [Td 7d]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #63, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [2h 4s]
+Dealt to me12 [Js Ah]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #64, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [2d Td]
+Dealt to me22 [3h 6c]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #65, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [9c Ac]
+Dealt to me12 [7s 9d]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #66, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [4c Qs]
+Dealt to me22 [Ac 5d]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #67, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [5s 4s]
+Dealt to me12 [Qd 5h]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #68, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [Ad 2d]
+Dealt to me22 [6h 7c]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #69, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [5d 3s]
+Dealt to me12 [Qd Td]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #70, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [6c 7h]
+Dealt to me22 [Qc Ks]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #71, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [As 8c]
+Dealt to me12 [2h 5h]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #72, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [2d 4s]
+Dealt to me22 [6s 4c]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #73, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [5h 7s]
+Dealt to me12 [Kh Ac]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #74, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [6c 9c]
+Dealt to me22 [7h 6h]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #75, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [9s 4s]
+Dealt to me12 [4h Jd]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #76, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [2c 4s]
+Dealt to me22 [6d 7d]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #77, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [9h 8d]
+Dealt to me12 [5h 3h]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #78, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [Ah Ac]
+Dealt to me22 [3s 2c]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #79, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [2d 9h]
+Dealt to me12 [7c 4d]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #80, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [6s Th]
+Dealt to me22 [8d Kh]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #81, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [6h Ts]
+Dealt to me12 [4c 6d]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #82, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [8s 6d]
+Dealt to me22 [5c 9c]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #83, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [3s 3h]
+Dealt to me12 [6c Kc]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #84, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [4c Ah]
+Dealt to me22 [4s Qh]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #85, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [6d Qc]
+Dealt to me12 [Ah 5h]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #86, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [Ks 9c]
+Dealt to me22 [7c 3h]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #87, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [4c 7h]
+Dealt to me12 [2s Ad]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #88, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [9c Qc]
+Dealt to me22 [Jd 5s]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #89, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [6c 5s]
+Dealt to me12 [7d 9s]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #90, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [Td Tc]
+Dealt to me22 [Ad 8d]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #91, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [Td 2c]
+Dealt to me12 [8d 4d]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #92, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [4d Ks]
+Dealt to me22 [Ah 7d]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #93, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [Ac Kd]
+Dealt to me12 [Qs 3c]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #94, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [Kd 4h]
+Dealt to me22 [7s 5d]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #95, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [Ad 4d]
+Dealt to me12 [9s Jc]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #96, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [9d 2h]
+Dealt to me22 [Qs Th]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #97, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [2c Ah]
+Dealt to me12 [Qs 5h]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #98, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [8d 5d]
+Dealt to me22 [9d 3c]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+Hand #99, me22 (0), me12 (0)
+me22 posts the blind of 1
+me12 posts the blind of 2
+Dealt to me22 [9s 4d]
+Dealt to me12 [As 5d]
+### me22 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me22]
+me22 folds
+me12 wins the pot (3)
+
+Hand #100, me12 (1), me22 (-1)
+me12 posts the blind of 1
+me22 posts the blind of 2
+Dealt to me12 [Qh 3c]
+Dealt to me22 [7c 8h]
+### me12 is not available. Playing default...
+### ILLEGAL ACTION: Check [player=me12]
+me12 folds
+me22 wins the pot (3)
+
+FINAL: me22 (0) me12 (0)

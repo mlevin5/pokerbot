@@ -1,0 +1,1171 @@
+6.S912 MIT Pokerbots - me1 vs random (stack=200, bb=2)
+Hand #1, me1 (0), random (0)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [9c 2h]
+Dealt to random [6s Kc]
+me1 folds
+random wins the pot (3)
+
+Hand #2, random (1), me1 (-1)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [3s Th]
+Dealt to me1 [5d 6d]
+random raises to 182
+me1 folds
+Uncalled bet of 180 returned to random
+random wins the pot (4)
+
+Hand #3, me1 (-3), random (3)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [7d Qs]
+Dealt to random [Ts Qh]
+me1 calls
+random raises to 80
+me1 calls
+*** FLOP *** (160) [9d 8d 4s]
+random discards Ts for 4c
+me1 discards Qs for 7s
+random checks
+me1 bets 2
+random calls
+*** TURN *** (164) [9d 8d 4s] [4h]
+random checks
+me1 checks
+random bets 32
+me1 calls
+*** RIVER *** (228) [9d 8d 4s 4h] [5d]
+random bets 55
+me1 calls
+me1 shows [7d 7s]
+random shows [Qh 4c]
+random wins the pot (338)
+
+Hand #4, random (172), me1 (-172)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [4s Qs]
+Dealt to me1 [8c 6h]
+random calls
+### ILLEGAL ACTION: Fold [player=me1]
+me1 checks
+*** FLOP *** (4) [6d 2d Ad]
+me1 checks
+random discards Qs for 4h
+me1 bets 31
+random calls
+*** TURN *** (66) [6d 2d Ad] [8s]
+me1 checks
+random discards 4h for Tc
+me1 bets 167
+random folds
+Uncalled bet of 167 returned to me1
+me1 wins the pot (66)
+
+Hand #5, me1 (-139), random (139)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Qd 9s]
+Dealt to random [8c 7d]
+me1 calls
+random raises to 146
+me1 calls
+*** FLOP *** (292) [8s 8d 5c]
+random checks
+me1 discards 9s for 3c
+random checks
+me1 bets 2
+random calls
+*** TURN *** (296) [8s 8d 5c] [7h]
+random discards 7d for As
+me1 discards 3c for 5s
+random checks
+me1 bets 2
+random raises to 19
+me1 calls
+*** RIVER *** (334) [8s 8d 5c 7h] [6h]
+random bets 3
+me1 calls
+me1 shows [Qd 5s]
+random shows [8c As]
+random wins the pot (340)
+
+Hand #6, random (309), me1 (-309)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [As 9h]
+Dealt to me1 [3d 5h]
+random folds
+me1 wins the pot (3)
+
+Hand #7, me1 (-308), random (308)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [8c Ac]
+Dealt to random [3s Ad]
+me1 raises to 102
+random raises to 200
+me1 calls
+*** FLOP *** (400) [Kh Td 2s]
+random discards Ad for 6s
+me1 discards 8c for As
+*** TURN *** (400) [Kh Td 2s] [7s]
+random checks
+me1 checks
+*** RIVER *** (400) [Kh Td 2s 7s] [8d]
+me1 shows [Ac As]
+random shows [3s 6s]
+me1 wins the pot (400)
+
+Hand #8, random (108), me1 (-108)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [Ks Ac]
+Dealt to me1 [7s 3s]
+random folds
+me1 wins the pot (3)
+
+Hand #9, me1 (-107), random (107)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [8c 8d]
+Dealt to random [8h 9h]
+me1 raises to 102
+random folds
+Uncalled bet of 100 returned to me1
+me1 wins the pot (4)
+
+Hand #10, random (105), me1 (-105)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [8s 3d]
+Dealt to me1 [2s Th]
+random folds
+me1 wins the pot (3)
+
+Hand #11, me1 (-104), random (104)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [3c Kc]
+Dealt to random [2s Jd]
+me1 folds
+random wins the pot (3)
+
+Hand #12, random (105), me1 (-105)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [9d Kh]
+Dealt to me1 [Ad 3h]
+random calls
+me1 raises to 27
+random raises to 68
+me1 calls
+*** FLOP *** (136) [Tc 7d Ts]
+me1 discards 3h for 6h
+random checks
+me1 bets 2
+random calls
+*** TURN *** (140) [Tc 7d Ts] [Kc]
+me1 discards 6h for 2c
+random discards Kh for 8s
+me1 bets 2
+random raises to 102
+me1 calls
+*** RIVER *** (344) [Tc 7d Ts Kc] [Ac]
+me1 bets 3
+random calls
+random shows [9d 8s]
+me1 shows [Ad 2c]
+me1 wins the pot (350)
+
+Hand #13, me1 (70), random (-70)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [7s 5s]
+Dealt to random [3s 8d]
+me1 folds
+random wins the pot (3)
+
+Hand #14, random (-69), me1 (69)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [7d 6d]
+Dealt to me1 [Qc 9c]
+random calls
+me1 raises to 4
+random folds
+Uncalled bet of 2 returned to me1
+me1 wins the pot (4)
+
+Hand #15, me1 (71), random (-71)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [5c Js]
+Dealt to random [Th 9h]
+me1 calls
+random checks
+*** FLOP *** (4) [Kc 9c 2d]
+random discards 9h for Ac
+me1 discards Js for Kh
+random checks
+me1 bets 198
+random folds
+Uncalled bet of 198 returned to me1
+me1 wins the pot (4)
+
+Hand #16, random (-73), me1 (73)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [6d Kd]
+Dealt to me1 [7s 8s]
+random calls
+me1 raises to 4
+random calls
+*** FLOP *** (8) [6s 7c 6c]
+me1 checks
+random discards Kd for 2s
+me1 bets 52
+random raises to 134
+me1 calls
+*** TURN *** (276) [6s 7c 6c] [Kh]
+me1 discards 8s for 8c
+random discards 2s for 9s
+me1 bets 4
+random calls
+*** RIVER *** (284) [6s 7c 6c Kh] [Ac]
+me1 bets 2
+random calls
+random shows [6d 9s]
+me1 shows [7s 8c]
+random wins the pot (288)
+
+Hand #17, me1 (-71), random (71)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Ac Qc]
+Dealt to random [Jc Td]
+me1 calls
+random checks
+*** FLOP *** (4) [5d 6s As]
+random checks
+me1 checks
+random checks
+me1 bets 198
+random folds
+Uncalled bet of 198 returned to me1
+me1 wins the pot (4)
+
+Hand #18, random (69), me1 (-69)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [Kh 9s]
+Dealt to me1 [6s 4c]
+random raises to 191
+me1 folds
+Uncalled bet of 189 returned to random
+random wins the pot (4)
+
+Hand #19, me1 (-71), random (71)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Kc 9h]
+Dealt to random [7c 6h]
+me1 raises to 102
+random raises to 200
+me1 calls
+*** FLOP *** (400) [Tc 2s 5c]
+random discards 6h for 6s
+me1 discards 9h for 3h
+*** TURN *** (400) [Tc 2s 5c] [Qd]
+random discards 6s for 9d
+me1 discards 3h for 9c
+*** RIVER *** (400) [Tc 2s 5c Qd] [2c]
+me1 shows [Kc 9c]
+random shows [7c 9d]
+me1 wins the pot (400)
+
+Hand #20, random (-129), me1 (129)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [7s 8c]
+Dealt to me1 [Qs Qd]
+random raises to 122
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 120 returned to random
+random wins the pot (4)
+
+Hand #21, me1 (127), random (-127)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [4s Th]
+Dealt to random [9d 9s]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #22, random (-126), me1 (126)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [Ad 8c]
+Dealt to me1 [Js 6c]
+random calls
+me1 checks
+*** FLOP *** (4) [9c 4h 5c]
+me1 checks
+random discards Ad for Kd
+me1 checks
+random bets 155
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 155 returned to random
+random wins the pot (4)
+
+Hand #23, me1 (124), random (-124)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Qh 9h]
+Dealt to random [Tc 8d]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #24, random (-123), me1 (123)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [Qc 9s]
+Dealt to me1 [7d 2c]
+random raises to 128
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 126 returned to random
+random wins the pot (4)
+
+Hand #25, me1 (121), random (-121)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [3c Tc]
+Dealt to random [Qc Kd]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #26, random (-120), me1 (120)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [5d Tc]
+Dealt to me1 [8c Ts]
+random raises to 192
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 190 returned to random
+random wins the pot (4)
+
+Hand #27, me1 (118), random (-118)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Jc 9h]
+Dealt to random [Ts 7c]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #28, random (-117), me1 (117)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [7d 7c]
+Dealt to me1 [Kc 8h]
+random raises to 107
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 105 returned to random
+random wins the pot (4)
+
+Hand #29, me1 (115), random (-115)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [8c Ad]
+Dealt to random [Qh 6s]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #30, random (-114), me1 (114)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [7h 8d]
+Dealt to me1 [5h 2c]
+random folds
+me1 wins the pot (3)
+
+Hand #31, me1 (115), random (-115)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [8h Kh]
+Dealt to random [Jd 9h]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #32, random (-114), me1 (114)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [2h Td]
+Dealt to me1 [7s Ad]
+random raises to 143
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 141 returned to random
+random wins the pot (4)
+
+Hand #33, me1 (112), random (-112)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Ac 4d]
+Dealt to random [3d Jh]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #34, random (-111), me1 (111)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [3c 5c]
+Dealt to me1 [7c Kc]
+random raises to 23
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 21 returned to random
+random wins the pot (4)
+
+Hand #35, me1 (109), random (-109)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [5s Qd]
+Dealt to random [6d 8h]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #36, random (-108), me1 (108)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [Kd 5d]
+Dealt to me1 [Th 7d]
+random folds
+me1 wins the pot (3)
+
+Hand #37, me1 (109), random (-109)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [As Td]
+Dealt to random [7d 6c]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #38, random (-108), me1 (108)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [3h Kc]
+Dealt to me1 [8s As]
+random raises to 165
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 163 returned to random
+random wins the pot (4)
+
+Hand #39, me1 (106), random (-106)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Kc 5c]
+Dealt to random [Kh 7h]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #40, random (-105), me1 (105)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [7d 2h]
+Dealt to me1 [2d 7c]
+random folds
+me1 wins the pot (3)
+
+Hand #41, me1 (106), random (-106)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Kc 6d]
+Dealt to random [Ad Js]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #42, random (-105), me1 (105)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [8h Qh]
+Dealt to me1 [Js 8d]
+random folds
+me1 wins the pot (3)
+
+Hand #43, me1 (106), random (-106)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Th 5d]
+Dealt to random [6s 3h]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #44, random (-105), me1 (105)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [Ah Kd]
+Dealt to me1 [Th Jh]
+random calls
+me1 checks
+*** FLOP *** (4) [8s Kh 9h]
+me1 checks
+random discards Ah for Ad
+me1 checks
+random checks
+*** TURN *** (4) [8s Kh 9h] [Td]
+me1 checks
+random discards Kd for 7c
+me1 checks
+random checks
+*** RIVER *** (4) [8s Kh 9h Td] [3d]
+me1 checks
+random checks
+random shows [Ad 7c]
+me1 shows [Th Jh]
+me1 wins the pot (4)
+
+Hand #45, me1 (107), random (-107)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [9s Tc]
+Dealt to random [6h 3h]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #46, random (-106), me1 (106)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [Td 7h]
+Dealt to me1 [Ks Jc]
+random calls
+me1 checks
+*** FLOP *** (4) [6c 4c 5h]
+me1 checks
+random checks
+me1 checks
+random checks
+*** TURN *** (4) [6c 4c 5h] [4s]
+me1 checks
+random discards 7h for 3s
+me1 checks
+random checks
+*** RIVER *** (4) [6c 4c 5h 4s] [4d]
+me1 checks
+random bets 97
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 97 returned to random
+random wins the pot (4)
+
+Hand #47, me1 (104), random (-104)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [7d 4s]
+Dealt to random [8s 5s]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #48, random (-103), me1 (103)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [4h 3h]
+Dealt to me1 [Js Td]
+random raises to 192
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 190 returned to random
+random wins the pot (4)
+
+Hand #49, me1 (101), random (-101)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [3c Qd]
+Dealt to random [9s 7c]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #50, random (-100), me1 (100)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [Js 3h]
+Dealt to me1 [Ks 5h]
+random calls
+me1 checks
+*** FLOP *** (4) [6h 8c 8h]
+me1 checks
+random discards Js for Ad
+me1 checks
+random checks
+*** TURN *** (4) [6h 8c 8h] [8s]
+me1 checks
+random discards 3h for As
+me1 checks
+random checks
+*** RIVER *** (4) [6h 8c 8h 8s] [Th]
+me1 checks
+random bets 55
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 55 returned to random
+random wins the pot (4)
+
+Hand #51, me1 (98), random (-98)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [9c Qs]
+Dealt to random [Ad 4h]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #52, random (-97), me1 (97)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [3h 2c]
+Dealt to me1 [8s 2d]
+random calls
+me1 checks
+*** FLOP *** (4) [Kd Qh Kh]
+me1 checks
+random discards 2c for Qd
+me1 checks
+random checks
+*** TURN *** (4) [Kd Qh Kh] [4h]
+me1 checks
+random discards Qd for Tc
+me1 checks
+random bets 181
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 181 returned to random
+random wins the pot (4)
+
+Hand #53, me1 (95), random (-95)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Ah Ad]
+Dealt to random [5s 6d]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #54, random (-94), me1 (94)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [8d 4d]
+Dealt to me1 [Qs Js]
+random raises to 113
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 111 returned to random
+random wins the pot (4)
+
+Hand #55, me1 (92), random (-92)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Ad 5h]
+Dealt to random [Qd Kc]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #56, random (-91), me1 (91)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [7h Qs]
+Dealt to me1 [6c 5s]
+random folds
+me1 wins the pot (3)
+
+Hand #57, me1 (92), random (-92)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [7s Js]
+Dealt to random [2c 9d]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #58, random (-91), me1 (91)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [Jh 2d]
+Dealt to me1 [Kc Jd]
+random raises to 119
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 117 returned to random
+random wins the pot (4)
+
+Hand #59, me1 (89), random (-89)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Tc 5c]
+Dealt to random [9s Th]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #60, random (-88), me1 (88)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [5c Ts]
+Dealt to me1 [7d Kh]
+random raises to 50
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 48 returned to random
+random wins the pot (4)
+
+Hand #61, me1 (86), random (-86)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Kh 6d]
+Dealt to random [Ts Qh]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #62, random (-85), me1 (85)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [2d Jc]
+Dealt to me1 [Js 3h]
+random calls
+me1 checks
+*** FLOP *** (4) [2s 5c Th]
+me1 checks
+random discards Jc for 6s
+me1 checks
+random bets 136
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 136 returned to random
+random wins the pot (4)
+
+Hand #63, me1 (83), random (-83)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [8d 7h]
+Dealt to random [Kh Ks]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #64, random (-82), me1 (82)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [5h 4s]
+Dealt to me1 [4d Ks]
+random raises to 155
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 153 returned to random
+random wins the pot (4)
+
+Hand #65, me1 (80), random (-80)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Td Th]
+Dealt to random [3c 8d]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #66, random (-79), me1 (79)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [Qd As]
+Dealt to me1 [4s Ad]
+random raises to 70
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 68 returned to random
+random wins the pot (4)
+
+Hand #67, me1 (77), random (-77)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Js Kc]
+Dealt to random [4s 5c]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #68, random (-76), me1 (76)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [Jd 6c]
+Dealt to me1 [Tc 6d]
+random calls
+me1 checks
+*** FLOP *** (4) [2c Qd Js]
+me1 checks
+random discards 6c for 8h
+me1 checks
+random bets 93
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 93 returned to random
+random wins the pot (4)
+
+Hand #69, me1 (74), random (-74)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [6s Kh]
+Dealt to random [Th Kd]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #70, random (-73), me1 (73)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [4d 4s]
+Dealt to me1 [8s Ac]
+random calls
+me1 checks
+*** FLOP *** (4) [9c 6s 4h]
+me1 checks
+random checks
+me1 checks
+random bets 72
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 72 returned to random
+random wins the pot (4)
+
+Hand #71, me1 (71), random (-71)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Ac 8h]
+Dealt to random [8d 8s]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #72, random (-70), me1 (70)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [Jc 2d]
+Dealt to me1 [4d 6s]
+random raises to 158
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 156 returned to random
+random wins the pot (4)
+
+Hand #73, me1 (68), random (-68)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [2h 2s]
+Dealt to random [6c Th]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #74, random (-67), me1 (67)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [Td 7s]
+Dealt to me1 [3d 2c]
+random folds
+me1 wins the pot (3)
+
+Hand #75, me1 (68), random (-68)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [As 6c]
+Dealt to random [9h Td]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #76, random (-67), me1 (67)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [6h 2d]
+Dealt to me1 [Ks Td]
+random raises to 29
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 27 returned to random
+random wins the pot (4)
+
+Hand #77, me1 (65), random (-65)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Tc 8d]
+Dealt to random [Jd 5s]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #78, random (-64), me1 (64)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [8h 6d]
+Dealt to me1 [Ks 5c]
+random folds
+me1 wins the pot (3)
+
+Hand #79, me1 (65), random (-65)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [6h 8s]
+Dealt to random [4c 7s]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #80, random (-64), me1 (64)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [Qc 7h]
+Dealt to me1 [2c Td]
+random calls
+me1 checks
+*** FLOP *** (4) [5d As 2h]
+me1 checks
+random discards 7h for 4c
+me1 checks
+random bets 63
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 63 returned to random
+random wins the pot (4)
+
+Hand #81, me1 (62), random (-62)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Ad 7h]
+Dealt to random [6s 8h]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #82, random (-61), me1 (61)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [2c 4s]
+Dealt to me1 [6s Kd]
+random folds
+me1 wins the pot (3)
+
+Hand #83, me1 (62), random (-62)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Jd 6c]
+Dealt to random [2h Ad]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #84, random (-61), me1 (61)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [Ts 9c]
+Dealt to me1 [8c 3s]
+random calls
+me1 checks
+*** FLOP *** (4) [Qd 4c 8d]
+me1 checks
+random checks
+me1 checks
+random checks
+*** TURN *** (4) [Qd 4c 8d] [Js]
+me1 checks
+random checks
+me1 checks
+random bets 7
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 7 returned to random
+random wins the pot (4)
+
+Hand #85, me1 (59), random (-59)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Ks 2d]
+Dealt to random [7h 7c]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #86, random (-58), me1 (58)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [Ah 2h]
+Dealt to me1 [Tc 5d]
+random calls
+me1 checks
+*** FLOP *** (4) [9d Th Kd]
+me1 checks
+random discards 2h for 7h
+me1 checks
+random checks
+*** TURN *** (4) [9d Th Kd] [As]
+me1 checks
+random checks
+me1 checks
+random bets 167
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 167 returned to random
+random wins the pot (4)
+
+Hand #87, me1 (56), random (-56)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [3s 5d]
+Dealt to random [Ts Jh]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #88, random (-55), me1 (55)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [Ac Qd]
+Dealt to me1 [3s Tc]
+random folds
+me1 wins the pot (3)
+
+Hand #89, me1 (56), random (-56)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Qd As]
+Dealt to random [Kh Ac]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #90, random (-55), me1 (55)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [As Th]
+Dealt to me1 [7h 5s]
+random folds
+me1 wins the pot (3)
+
+Hand #91, me1 (56), random (-56)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Kh As]
+Dealt to random [Tc 6c]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #92, random (-55), me1 (55)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [3s Tc]
+Dealt to me1 [Js 6c]
+random calls
+me1 checks
+*** FLOP *** (4) [Qc 6h Qh]
+me1 checks
+random discards 3s for 3c
+me1 checks
+random bets 126
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 126 returned to random
+random wins the pot (4)
+
+Hand #93, me1 (53), random (-53)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [4h 8c]
+Dealt to random [7s 3d]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #94, random (-52), me1 (52)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [3d 4c]
+Dealt to me1 [7h 4s]
+random folds
+me1 wins the pot (3)
+
+Hand #95, me1 (53), random (-53)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [Qc 8d]
+Dealt to random [Qd Jd]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #96, random (-52), me1 (52)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [7h Tc]
+Dealt to me1 [3h Ts]
+random folds
+me1 wins the pot (3)
+
+Hand #97, me1 (53), random (-53)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [5h Ac]
+Dealt to random [Qh 2s]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #98, random (-52), me1 (52)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [4s Ac]
+Dealt to me1 [2d 5d]
+random folds
+me1 wins the pot (3)
+
+Hand #99, me1 (53), random (-53)
+me1 posts the blind of 1
+random posts the blind of 2
+Dealt to me1 [3d Ac]
+Dealt to random [Qs 2c]
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+random wins the pot (3)
+
+Hand #100, random (-52), me1 (52)
+random posts the blind of 1
+me1 posts the blind of 2
+Dealt to random [Ad 9c]
+Dealt to me1 [9s Qc]
+random raises to 82
+### ILLEGAL ACTION: Check [player=me1]
+me1 folds
+Uncalled bet of 80 returned to random
+random wins the pot (4)
+
+FINAL: me1 (50) random (-50)
