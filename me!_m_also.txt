@@ -1,0 +1,6327 @@
+6.S912 MIT Pokerbots - me! vs m_also (stack=200, bb=2)
+Hand #1, me! (0), m_also (0)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [5c Qc]
+Dealt to m_also [9c Kc]
+me! calls
+m_also raises to 6
+me! calls
+*** FLOP *** (12) [9d Ks 2s]
+m_also checks
+me! discards 5c for 3s
+m_also bets 10
+me! calls
+*** TURN *** (32) [9d Ks 2s] [7h]
+m_also checks
+me! discards 3s for 4d
+m_also bets 13
+me! calls
+*** RIVER *** (58) [9d Ks 2s 7h] [Kh]
+m_also bets 171
+me! folds
+Uncalled bet of 171 returned to m_also
+m_also wins the pot (58)
+
+Hand #2, m_also (29), me! (-29)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Kd 5h]
+Dealt to me! [Ts Kc]
+m_also calls
+me! raises to 37
+m_also calls
+*** FLOP *** (74) [2s 9h Kh]
+me! checks
+m_also discards 5h for 5c
+me! bets 15
+m_also calls
+*** TURN *** (104) [2s 9h Kh] [9d]
+me! checks
+m_also discards 5c for Jd
+me! bets 65
+m_also calls
+*** RIVER *** (234) [2s 9h Kh 9d] [As]
+me! bets 13
+m_also calls
+m_also shows [Kd Jd]
+me! shows [Ts Kc]
+m_also ties for the pot (130)
+me! ties for the pot (130)
+
+Hand #3, me! (-29), m_also (29)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [5s 2s]
+Dealt to m_also [7s 6c]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [8d 6h Kd]
+m_also discards 7s for 5h
+me! discards 2s for Ts
+m_also bets 2
+me! calls
+*** TURN *** (12) [8d 6h Kd] [Jc]
+m_also discards 5h for Qc
+me! discards 5s for 9s
+m_also bets 2
+me! calls
+*** RIVER *** (16) [8d 6h Kd Jc] [Kh]
+m_also bets 192
+me! folds
+Uncalled bet of 192 returned to m_also
+m_also wins the pot (16)
+
+Hand #4, m_also (37), me! (-37)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Ad Js]
+Dealt to me! [Jc 7s]
+m_also calls
+me! raises to 4
+m_also calls
+*** FLOP *** (8) [4h 3s 5d]
+me! discards Jc for Qs
+m_also discards Js for Qh
+me! bets 2
+m_also calls
+*** TURN *** (12) [4h 3s 5d] [Ts]
+me! discards Qs for Ah
+m_also discards Qh for Jd
+me! bets 2
+m_also calls
+*** RIVER *** (16) [4h 3s 5d Ts] [7h]
+me! bets 192
+m_also folds
+Uncalled bet of 192 returned to me!
+me! wins the pot (16)
+
+Hand #5, me! (-29), m_also (29)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [2d 8d]
+Dealt to m_also [6s 8h]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [Ks 9d 4s]
+m_also discards 6s for Th
+me! discards 2d for Qc
+m_also bets 2
+me! calls
+*** TURN *** (12) [Ks 9d 4s] [2s]
+m_also discards 8h for 4h
+me! discards 8d for Qh
+m_also bets 2
+me! calls
+*** RIVER *** (16) [Ks 9d 4s 2s] [9h]
+m_also bets 192
+me! folds
+Uncalled bet of 192 returned to m_also
+m_also wins the pot (16)
+
+Hand #6, m_also (37), me! (-37)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [6s 5d]
+Dealt to me! [3h Qc]
+m_also calls
+me! raises to 4
+m_also calls
+*** FLOP *** (8) [7d 5c 8d]
+me! discards 3h for 8s
+m_also checks
+me! bets 90
+m_also folds
+Uncalled bet of 90 returned to me!
+me! wins the pot (8)
+
+Hand #7, me! (-33), m_also (33)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Td 6c]
+Dealt to m_also [9h Qs]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [7h 2s 8h]
+m_also discards 9h for 2c
+me! discards 6c for 8d
+m_also bets 2
+me! calls
+*** TURN *** (12) [7h 2s 8h] [As]
+m_also checks
+me! checks
+m_also bets 2
+me! calls
+*** RIVER *** (16) [7h 2s 8h As] [Jd]
+m_also bets 192
+me! folds
+Uncalled bet of 192 returned to m_also
+m_also wins the pot (16)
+
+Hand #8, m_also (41), me! (-41)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [3s 7c]
+Dealt to me! [9d Kh]
+m_also calls
+me! raises to 28
+m_also calls
+*** FLOP *** (56) [Qs 6c Ah]
+me! checks
+m_also discards 3s for Ts
+me! bets 2
+m_also calls
+*** TURN *** (60) [Qs 6c Ah] [9s]
+me! checks
+m_also discards 7c for 5d
+me! bets 40
+m_also calls
+*** RIVER *** (140) [Qs 6c Ah 9s] [7d]
+me! bets 2
+m_also calls
+m_also shows [Ts 5d]
+me! shows [9d Kh]
+me! wins the pot (144)
+
+Hand #9, me! (31), m_also (-31)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Ah 8h]
+Dealt to m_also [3d 6c]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [Td Qs 7d]
+m_also discards 3d for 5h
+me! discards 8h for Kd
+m_also bets 2
+me! calls
+*** TURN *** (12) [Td Qs 7d] [9d]
+m_also discards 5h for 4d
+me! discards Ah for 2c
+m_also bets 2
+me! calls
+*** RIVER *** (16) [Td Qs 7d 9d] [9h]
+m_also bets 192
+me! folds
+Uncalled bet of 192 returned to m_also
+m_also wins the pot (16)
+
+Hand #10, m_also (-23), me! (23)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Ac 6c]
+Dealt to me! [6s Js]
+m_also calls
+me! raises to 12
+m_also calls
+*** FLOP *** (24) [As Ts Kc]
+me! discards 6s for Ad
+m_also discards 6c for 8h
+me! bets 35
+m_also raises to 129
+me! raises to 188
+m_also calls
+*** TURN *** (400) [As Ts Kc] [4d]
+me! checks
+m_also discards 8h for 2d
+*** RIVER *** (400) [As Ts Kc 4d] [Qc]
+m_also shows [Ac 2d]
+me! shows [Js Ad]
+me! wins the pot (400)
+
+Hand #11, me! (223), m_also (-223)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Kh 2c]
+Dealt to m_also [6h 7s]
+me! folds
+m_also wins the pot (3)
+
+Hand #12, m_also (-222), me! (222)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [8h As]
+Dealt to me! [3h Ad]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Tc 3c Ah]
+me! checks
+m_also checks
+me! bets 62
+m_also raises to 161
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (128)
+
+Hand #13, me! (158), m_also (-158)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [2h 8h]
+Dealt to m_also [6d 3s]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [Th 2c Kh]
+m_also discards 3s for 2s
+me! discards 8h for 4c
+m_also bets 2
+me! calls
+*** TURN *** (12) [Th 2c Kh] [Jh]
+m_also discards 6d for 3h
+me! discards 4c for Qd
+m_also bets 2
+me! calls
+*** RIVER *** (16) [Th 2c Kh Jh] [3d]
+m_also bets 192
+me! folds
+Uncalled bet of 192 returned to m_also
+m_also wins the pot (16)
+
+Hand #14, m_also (-150), me! (150)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [5c Ah]
+Dealt to me! [6d Qh]
+m_also calls
+me! raises to 4
+m_also calls
+*** FLOP *** (8) [Ac Th Tc]
+me! discards 6d for 6h
+m_also discards 5c for Js
+me! bets 2
+m_also calls
+*** TURN *** (12) [Ac Th Tc] [Kc]
+me! discards 6h for 4h
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (16) [Ac Th Tc Kc] [3d]
+me! bets 192
+m_also folds
+Uncalled bet of 192 returned to me!
+me! wins the pot (16)
+
+Hand #15, me! (158), m_also (-158)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Ad Qs]
+Dealt to m_also [Ah 3s]
+me! calls
+m_also raises to 39
+me! calls
+*** FLOP *** (78) [Qd 5s 5d]
+m_also discards 3s for Qh
+me! checks
+m_also bets 74
+me! calls
+*** TURN *** (226) [Qd 5s 5d] [5c]
+m_also checks
+me! checks
+m_also bets 15
+me! raises to 58
+m_also raises to 87
+me! calls
+*** RIVER *** (400) [Qd 5s 5d 5c] [Jh]
+me! shows [Ad Qs]
+m_also shows [Ah Qh]
+me! ties for the pot (200)
+m_also ties for the pot (200)
+
+Hand #16, m_also (-158), me! (158)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [3s 9d]
+Dealt to me! [8d 3c]
+m_also calls
+me! raises to 4
+m_also calls
+*** FLOP *** (8) [7c 8c Ad]
+me! discards 3c for Qh
+m_also discards 3s for 7h
+me! bets 48
+m_also folds
+Uncalled bet of 48 returned to me!
+me! wins the pot (8)
+
+Hand #17, me! (162), m_also (-162)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [8s Ac]
+Dealt to m_also [5d 8d]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [Kh Ad 6h]
+m_also discards 5d for 6d
+me! checks
+m_also bets 2
+me! raises to 100
+m_also folds
+Uncalled bet of 98 returned to me!
+me! wins the pot (12)
+
+Hand #18, m_also (-168), me! (168)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Kc Qh]
+Dealt to me! [4d 6h]
+m_also calls
+me! raises to 4
+m_also calls
+*** FLOP *** (8) [Ad 4h 8d]
+me! discards 6h for 6s
+m_also checks
+me! bets 2
+m_also calls
+*** TURN *** (12) [Ad 4h 8d] [4s]
+me! discards 6s for 2c
+m_also checks
+me! bets 79
+m_also folds
+Uncalled bet of 79 returned to me!
+me! wins the pot (12)
+
+Hand #19, me! (174), m_also (-174)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Qs 9d]
+Dealt to m_also [Kh Ts]
+me! calls
+m_also raises to 30
+me! calls
+*** FLOP *** (60) [9c 4d 3d]
+m_also discards Ts for 4h
+me! checks
+m_also bets 28
+me! raises to 113
+m_also folds
+Uncalled bet of 85 returned to me!
+me! wins the pot (116)
+
+Hand #20, m_also (-232), me! (232)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [3s Jh]
+Dealt to me! [7d Qs]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Tc 5s Qc]
+me! checks
+m_also discards 3s for 4c
+me! bets 88
+m_also folds
+Uncalled bet of 88 returned to me!
+me! wins the pot (4)
+
+Hand #21, me! (234), m_also (-234)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [5d 4h]
+Dealt to m_also [3h Jh]
+me! folds
+m_also wins the pot (3)
+
+Hand #22, m_also (-233), me! (233)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Js 8h]
+Dealt to me! [Jc 2h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [2s Tc 2c]
+me! checks
+m_also discards 8h for 8s
+me! bets 60
+m_also folds
+Uncalled bet of 60 returned to me!
+me! wins the pot (4)
+
+Hand #23, me! (235), m_also (-235)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [4c Qs]
+Dealt to m_also [Qc 2d]
+me! folds
+m_also wins the pot (3)
+
+Hand #24, m_also (-234), me! (234)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [2s Qc]
+Dealt to me! [Jd 6c]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [5s 3c 5d]
+me! discards 6c for Kc
+m_also discards 2s for Ah
+me! bets 2
+m_also calls
+*** TURN *** (8) [5s 3c 5d] [Qh]
+me! discards Jd for 4s
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (12) [5s 3c 5d Qh] [Ks]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #25, me! (240), m_also (-240)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [3d 9s]
+Dealt to m_also [4s Th]
+me! folds
+m_also wins the pot (3)
+
+Hand #26, m_also (-239), me! (239)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Jd 7c]
+Dealt to me! [9c 7h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [6c 9s 2c]
+me! checks
+m_also discards 7c for 7d
+me! bets 22
+m_also folds
+Uncalled bet of 22 returned to me!
+me! wins the pot (4)
+
+Hand #27, me! (241), m_also (-241)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Jc 4c]
+Dealt to m_also [Kd 3d]
+me! folds
+m_also wins the pot (3)
+
+Hand #28, m_also (-240), me! (240)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [8c 3c]
+Dealt to me! [8s 7h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [6c 2h Qh]
+me! discards 7h for Th
+m_also discards 3c for Tc
+me! bets 2
+m_also calls
+*** TURN *** (8) [6c 2h Qh] [Jc]
+me! discards 8s for Kh
+m_also discards 8c for Td
+me! bets 2
+m_also calls
+*** RIVER *** (12) [6c 2h Qh Jc] [7c]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #29, me! (246), m_also (-246)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Th Kc]
+Dealt to m_also [5d 9s]
+me! folds
+m_also wins the pot (3)
+
+Hand #30, m_also (-245), me! (245)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [6h Kd]
+Dealt to me! [8c 7h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [2h 9d 3s]
+me! discards 7h for 5h
+m_also discards 6h for Tc
+me! bets 2
+m_also calls
+*** TURN *** (8) [2h 9d 3s] [7s]
+me! discards 5h for 6d
+m_also discards Tc for 9c
+me! bets 2
+m_also calls
+*** RIVER *** (12) [2h 9d 3s 7s] [As]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #31, me! (251), m_also (-251)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [5h 9d]
+Dealt to m_also [Ah 4s]
+me! folds
+m_also wins the pot (3)
+
+Hand #32, m_also (-250), me! (250)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [4d 8c]
+Dealt to me! [Jc 5c]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Ah 8s Kh]
+me! discards 5c for 4s
+m_also discards 4d for Kd
+me! bets 2
+m_also raises to 101
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (8)
+
+Hand #33, me! (246), m_also (-246)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [8s Ts]
+Dealt to m_also [Ah Jh]
+me! folds
+m_also wins the pot (3)
+
+Hand #34, m_also (-245), me! (245)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Th 2h]
+Dealt to me! [4c Jc]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [6c 2d 9h]
+me! discards 4c for 6s
+m_also checks
+me! bets 4
+m_also calls
+*** TURN *** (12) [6c 2d 9h] [Ah]
+me! checks
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (16) [6c 2d 9h Ah] [3d]
+me! bets 192
+m_also folds
+Uncalled bet of 192 returned to me!
+me! wins the pot (16)
+
+Hand #35, me! (253), m_also (-253)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [3s 9h]
+Dealt to m_also [8c 6h]
+me! folds
+m_also wins the pot (3)
+
+Hand #36, m_also (-252), me! (252)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Qs 6d]
+Dealt to me! [Ac 3s]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [5h 9d 5s]
+me! discards 3s for 2d
+m_also discards 6d for Th
+me! bets 2
+m_also calls
+*** TURN *** (8) [5h 9d 5s] [4c]
+me! discards 2d for Kd
+m_also discards Th for 6c
+me! bets 2
+m_also calls
+*** RIVER *** (12) [5h 9d 5s 4c] [Qc]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #37, me! (258), m_also (-258)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [4s 4h]
+Dealt to m_also [Th 3d]
+me! folds
+m_also wins the pot (3)
+
+Hand #38, m_also (-257), me! (257)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [3c 2s]
+Dealt to me! [6s Kc]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Kh 2d Qd]
+me! discards 6s for 6h
+m_also discards 3c for 7d
+me! bets 31
+m_also calls
+*** TURN *** (66) [Kh 2d Qd] [6d]
+me! checks
+m_also checks
+me! bets 44
+m_also calls
+*** RIVER *** (154) [Kh 2d Qd 6d] [8s]
+me! bets 35
+m_also calls
+m_also shows [2s 7d]
+me! shows [Kc 6h]
+me! wins the pot (224)
+
+Hand #39, me! (369), m_also (-369)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [7h Ad]
+Dealt to m_also [Th 4s]
+me! folds
+m_also wins the pot (3)
+
+Hand #40, m_also (-368), me! (368)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [4c 4s]
+Dealt to me! [7d 5h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Ad Th 5c]
+me! discards 7d for 7s
+m_also checks
+me! bets 2
+m_also calls
+*** TURN *** (8) [Ad Th 5c] [Ts]
+me! discards 7s for Kd
+m_also checks
+me! bets 8
+m_also calls
+*** RIVER *** (24) [Ad Th 5c Ts] [Kc]
+me! bets 188
+m_also folds
+Uncalled bet of 188 returned to me!
+me! wins the pot (24)
+
+Hand #41, me! (380), m_also (-380)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [7s Tc]
+Dealt to m_also [Ac Td]
+me! folds
+m_also wins the pot (3)
+
+Hand #42, m_also (-379), me! (379)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Jc 2d]
+Dealt to me! [5c Kd]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Ac Ah 7d]
+me! discards 5c for As
+m_also discards 2d for 3s
+me! bets 39
+m_also folds
+Uncalled bet of 39 returned to me!
+me! wins the pot (4)
+
+Hand #43, me! (381), m_also (-381)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [8d 5c]
+Dealt to m_also [9d Qd]
+me! folds
+m_also wins the pot (3)
+
+Hand #44, m_also (-380), me! (380)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [5s Jc]
+Dealt to me! [Jh 3d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [2c 6d 4d]
+me! discards Jh for 9h
+m_also discards Jc for 5d
+me! bets 2
+m_also calls
+*** TURN *** (8) [2c 6d 4d] [Kd]
+me! discards 9h for Qd
+m_also checks
+me! bets 23
+m_also calls
+*** RIVER *** (54) [2c 6d 4d Kd] [4s]
+me! bets 173
+m_also folds
+Uncalled bet of 173 returned to me!
+me! wins the pot (54)
+
+Hand #45, me! (407), m_also (-407)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Jh Qc]
+Dealt to m_also [6d 8h]
+me! folds
+m_also wins the pot (3)
+
+Hand #46, m_also (-406), me! (406)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [4c 5s]
+Dealt to me! [Ad Js]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [2d Kh 2s]
+me! checks
+m_also discards 4c for Jd
+me! bets 30
+m_also folds
+Uncalled bet of 30 returned to me!
+me! wins the pot (4)
+
+Hand #47, me! (408), m_also (-408)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Ts Th]
+Dealt to m_also [Ks 6s]
+me! folds
+m_also wins the pot (3)
+
+Hand #48, m_also (-407), me! (407)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [4d Kh]
+Dealt to me! [6s Ac]
+m_also calls
+me! raises to 10
+m_also calls
+*** FLOP *** (20) [Qd 7h Ks]
+me! discards 6s for Ts
+m_also discards 4d for 5s
+me! bets 2
+m_also calls
+*** TURN *** (24) [Qd 7h Ks] [2c]
+me! checks
+m_also discards 5s for 8s
+me! bets 2
+m_also calls
+*** RIVER *** (28) [Qd 7h Ks 2c] [Qh]
+me! bets 186
+m_also folds
+Uncalled bet of 186 returned to me!
+me! wins the pot (28)
+
+Hand #49, me! (421), m_also (-421)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [3d 7d]
+Dealt to m_also [2c Qd]
+me! folds
+m_also wins the pot (3)
+
+Hand #50, m_also (-420), me! (420)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [3s Jh]
+Dealt to me! [6h Js]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [2d 6d Kh]
+me! checks
+m_also discards 3s for 3h
+me! bets 16
+m_also folds
+Uncalled bet of 16 returned to me!
+me! wins the pot (4)
+
+Hand #51, me! (422), m_also (-422)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Qc Ks]
+Dealt to m_also [4c Kc]
+me! folds
+m_also wins the pot (3)
+
+Hand #52, m_also (-421), me! (421)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [6s Ks]
+Dealt to me! [2c 9c]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [3c 6d Td]
+me! discards 2c for Ad
+m_also checks
+me! bets 2
+m_also calls
+*** TURN *** (8) [3c 6d Td] [3d]
+me! discards 9c for 2h
+m_also discards Ks for 7c
+me! bets 2
+m_also calls
+*** RIVER *** (12) [3c 6d Td 3d] [As]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #53, me! (427), m_also (-427)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Ac Qs]
+Dealt to m_also [Th Tc]
+me! folds
+m_also wins the pot (3)
+
+Hand #54, m_also (-426), me! (426)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [9d Qc]
+Dealt to me! [4d Td]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [7s 3s Kd]
+me! discards 4d for Jd
+m_also discards 9d for Kc
+me! bets 2
+m_also raises to 101
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (8)
+
+Hand #55, me! (422), m_also (-422)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [2s 9c]
+Dealt to m_also [2h Jd]
+me! folds
+m_also wins the pot (3)
+
+Hand #56, m_also (-421), me! (421)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Qs 2s]
+Dealt to me! [Ah 3d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [9s 2c Tc]
+me! discards 3d for 3h
+m_also checks
+me! bets 2
+m_also calls
+*** TURN *** (8) [9s 2c Tc] [2h]
+me! discards 3h for 8s
+m_also checks
+me! bets 2
+m_also raises to 100
+me! folds
+Uncalled bet of 98 returned to m_also
+m_also wins the pot (12)
+
+Hand #57, me! (415), m_also (-415)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Kd 4d]
+Dealt to m_also [Ad 6h]
+me! calls
+m_also raises to 11
+me! calls
+*** FLOP *** (22) [Kc 2s 5d]
+m_also discards 6h for 6d
+me! discards 4d for 6s
+m_also bets 2
+me! calls
+*** TURN *** (26) [Kc 2s 5d] [3d]
+m_also checks
+me! checks
+m_also bets 2
+me! calls
+*** RIVER *** (30) [Kc 2s 5d 3d] [6c]
+m_also bets 185
+me! folds
+Uncalled bet of 185 returned to m_also
+m_also wins the pot (30)
+
+Hand #58, m_also (-400), me! (400)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [2c 7c]
+Dealt to me! [Tc 6s]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Jh Jd 7h]
+me! discards 6s for Qs
+m_also discards 2c for Jc
+me! bets 2
+m_also raises to 101
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (8)
+
+Hand #59, me! (396), m_also (-396)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Ad 3d]
+Dealt to m_also [4s 5s]
+me! folds
+m_also wins the pot (3)
+
+Hand #60, m_also (-395), me! (395)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [8d 9c]
+Dealt to me! [5h Ks]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Kc 5s Kh]
+me! checks
+m_also discards 8d for Jh
+me! bets 36
+m_also folds
+Uncalled bet of 36 returned to me!
+me! wins the pot (4)
+
+Hand #61, me! (397), m_also (-397)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [2h 8c]
+Dealt to m_also [Qh 8s]
+me! folds
+m_also wins the pot (3)
+
+Hand #62, m_also (-396), me! (396)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [3d 6c]
+Dealt to me! [2s 7d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Ks Jd Qh]
+me! discards 2s for Qs
+m_also discards 3d for Qd
+me! bets 47
+m_also calls
+*** TURN *** (98) [Ks Jd Qh] [7c]
+me! checks
+m_also discards 6c for Ah
+me! bets 68
+m_also calls
+*** RIVER *** (234) [Ks Jd Qh 7c] [Ts]
+me! bets 2
+m_also raises to 43
+me! calls
+m_also shows [Qd Ah]
+me! shows [7d Qs]
+m_also wins the pot (320)
+
+Hand #63, me! (236), m_also (-236)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [2d 4s]
+Dealt to m_also [3c 4h]
+me! folds
+m_also wins the pot (3)
+
+Hand #64, m_also (-235), me! (235)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [8c Kd]
+Dealt to me! [Qh 9d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [3h 5h 8h]
+me! discards 9d for Jh
+m_also checks
+me! bets 15
+m_also calls
+*** TURN *** (34) [3h 5h 8h] [9c]
+me! checks
+m_also checks
+me! bets 64
+m_also folds
+Uncalled bet of 64 returned to me!
+me! wins the pot (34)
+
+Hand #65, me! (252), m_also (-252)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Ad Qd]
+Dealt to m_also [Js 6s]
+me! folds
+m_also wins the pot (3)
+
+Hand #66, m_also (-251), me! (251)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Ah 8h]
+Dealt to me! [6h 5d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [3c 6c Ts]
+me! discards 5d for 5h
+m_also discards 8h for 4h
+me! bets 48
+m_also folds
+Uncalled bet of 48 returned to me!
+me! wins the pot (4)
+
+Hand #67, me! (253), m_also (-253)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Ac 2c]
+Dealt to m_also [3s Th]
+me! folds
+m_also wins the pot (3)
+
+Hand #68, m_also (-252), me! (252)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Ah Tc]
+Dealt to me! [6s 4h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [7s Jc Th]
+me! discards 4h for 5c
+m_also checks
+me! bets 2
+m_also calls
+*** TURN *** (8) [7s Jc Th] [5s]
+me! discards 6s for 7d
+m_also checks
+me! bets 89
+m_also calls
+*** RIVER *** (186) [7s Jc Th 5s] [Ts]
+me! bets 2
+m_also calls
+m_also shows [Ah Tc]
+me! shows [5c 7d]
+m_also wins the pot (190)
+
+Hand #69, me! (157), m_also (-157)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Js 8c]
+Dealt to m_also [Jc Th]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [8s 5c Kc]
+m_also checks
+me! checks
+m_also bets 2
+me! calls
+*** TURN *** (12) [8s 5c Kc] [6h]
+m_also discards Th for Jd
+me! checks
+m_also bets 18
+me! calls
+*** RIVER *** (48) [8s 5c Kc 6h] [5h]
+m_also bets 176
+me! folds
+Uncalled bet of 176 returned to m_also
+m_also wins the pot (48)
+
+Hand #70, m_also (-133), me! (133)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Ad Tc]
+Dealt to me! [3h 3s]
+m_also calls
+me! raises to 23
+m_also calls
+*** FLOP *** (46) [7c Js Kc]
+me! checks
+m_also checks
+me! bets 2
+m_also calls
+*** TURN *** (50) [7c Js Kc] [7h]
+me! checks
+m_also discards Tc for Qc
+me! bets 2
+m_also calls
+*** RIVER *** (54) [7c Js Kc 7h] [Jh]
+me! bets 173
+m_also folds
+Uncalled bet of 173 returned to me!
+me! wins the pot (54)
+
+Hand #71, me! (160), m_also (-160)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Ac 8c]
+Dealt to m_also [3c 6h]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [2s Kc 3s]
+m_also discards 6h for 7d
+me! discards 8c for 6c
+m_also bets 23
+me! calls
+*** TURN *** (54) [2s Kc 3s] [2c]
+m_also discards 7d for Qd
+me! discards 6c for 5h
+m_also bets 35
+me! calls
+*** RIVER *** (124) [2s Kc 3s 2c] [Ad]
+m_also bets 2
+me! calls
+me! shows [Ac 5h]
+m_also shows [3c Qd]
+me! wins the pot (128)
+
+Hand #72, m_also (-224), me! (224)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Qs 6d]
+Dealt to me! [4d Qd]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [9s 6s Ts]
+me! discards 4d for 3h
+m_also checks
+me! bets 2
+m_also calls
+*** TURN *** (8) [9s 6s Ts] [4s]
+me! checks
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (12) [9s 6s Ts 4s] [8d]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #73, me! (230), m_also (-230)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Qs Jh]
+Dealt to m_also [Kd 2h]
+me! folds
+m_also wins the pot (3)
+
+Hand #74, m_also (-229), me! (229)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Kc Ks]
+Dealt to me! [7d 2d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [8h Js 4d]
+me! discards 2d for Jc
+m_also checks
+me! bets 87
+m_also raises to 186
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (178)
+
+Hand #75, me! (140), m_also (-140)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [9c 8s]
+Dealt to m_also [4h 2s]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [7h Ts Qs]
+m_also discards 2s for 5h
+me! discards 8s for 4s
+m_also bets 2
+me! calls
+*** TURN *** (12) [7h Ts Qs] [Ac]
+m_also discards 4h for 5d
+me! discards 4s for 7d
+m_also bets 2
+me! calls
+*** RIVER *** (16) [7h Ts Qs Ac] [3h]
+m_also bets 192
+me! folds
+Uncalled bet of 192 returned to m_also
+m_also wins the pot (16)
+
+Hand #76, m_also (-132), me! (132)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [9d 2h]
+Dealt to me! [Qs 9s]
+m_also calls
+me! raises to 4
+m_also calls
+*** FLOP *** (8) [4d Js 7h]
+me! discards 9s for 8h
+m_also discards 2h for Th
+me! bets 2
+m_also calls
+*** TURN *** (12) [4d Js 7h] [8c]
+me! checks
+m_also checks
+me! bets 33
+m_also raises to 130
+me! folds
+Uncalled bet of 97 returned to m_also
+m_also wins the pot (78)
+
+Hand #77, me! (93), m_also (-93)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Tc 6d]
+Dealt to m_also [9h 3c]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [Jh Kc Ad]
+m_also discards 3c for 8h
+me! discards 6d for 4h
+m_also bets 2
+me! calls
+*** TURN *** (12) [Jh Kc Ad] [Qh]
+m_also checks
+me! checks
+m_also bets 2
+me! raises to 99
+m_also folds
+Uncalled bet of 97 returned to me!
+me! wins the pot (16)
+
+Hand #78, m_also (-101), me! (101)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Qh 7h]
+Dealt to me! [8h Ks]
+m_also calls
+me! raises to 26
+m_also calls
+*** FLOP *** (52) [4d Kd Ad]
+me! checks
+m_also discards 7h for 7d
+me! bets 30
+m_also calls
+*** TURN *** (112) [4d Kd Ad] [Qc]
+me! discards 8h for 6d
+m_also checks
+me! bets 13
+m_also calls
+*** RIVER *** (138) [4d Kd Ad Qc] [As]
+me! bets 55
+m_also calls
+m_also shows [Qh 7d]
+me! shows [Ks 6d]
+me! wins the pot (248)
+
+Hand #79, me! (225), m_also (-225)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Jd 4s]
+Dealt to m_also [Qh Kh]
+me! folds
+m_also wins the pot (3)
+
+Hand #80, m_also (-224), me! (224)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [7d 9c]
+Dealt to me! [2h Qc]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [4c Ac 4d]
+me! discards 2h for Jh
+m_also discards 7d for Td
+me! bets 2
+m_also calls
+*** TURN *** (8) [4c Ac 4d] [Qh]
+me! discards Jh for 2c
+m_also discards 9c for 6c
+me! bets 6
+m_also calls
+*** RIVER *** (20) [4c Ac 4d Qh] [3c]
+me! bets 190
+m_also folds
+Uncalled bet of 190 returned to me!
+me! wins the pot (20)
+
+Hand #81, me! (234), m_also (-234)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [6d Th]
+Dealt to m_also [8d 7s]
+me! folds
+m_also wins the pot (3)
+
+Hand #82, m_also (-233), me! (233)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [5s Kc]
+Dealt to me! [3c Th]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [2h 9s 9d]
+me! discards 3c for Jd
+m_also discards 5s for 7s
+me! bets 2
+m_also calls
+*** TURN *** (8) [2h 9s 9d] [4h]
+me! discards Th for 8h
+m_also discards 7s for 3s
+me! bets 2
+m_also calls
+*** RIVER *** (12) [2h 9s 9d 4h] [4c]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #83, me! (239), m_also (-239)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [9h Js]
+Dealt to m_also [Th 5d]
+me! folds
+m_also wins the pot (3)
+
+Hand #84, m_also (-238), me! (238)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Js 4c]
+Dealt to me! [8s 6h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [9c Qd Kh]
+me! discards 6h for 6c
+m_also discards 4c for Tc
+me! bets 2
+m_also raises to 101
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (8)
+
+Hand #85, me! (234), m_also (-234)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Qd Th]
+Dealt to m_also [2h 6c]
+me! folds
+m_also wins the pot (3)
+
+Hand #86, m_also (-233), me! (233)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [8d Jd]
+Dealt to me! [Jc 6h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [5d Ks 2h]
+me! discards 6h for Qh
+m_also discards 8d for 7d
+me! bets 2
+m_also calls
+*** TURN *** (8) [5d Ks 2h] [Ac]
+me! checks
+m_also discards 7d for Qd
+me! bets 2
+m_also calls
+*** RIVER *** (12) [5d Ks 2h Ac] [Qs]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #87, me! (239), m_also (-239)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Jh 7d]
+Dealt to m_also [6d 3c]
+me! folds
+m_also wins the pot (3)
+
+Hand #88, m_also (-238), me! (238)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Jc 9d]
+Dealt to me! [Qs 4s]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [5s 5c 7c]
+me! discards 4s for Kh
+m_also discards 9d for 4d
+me! bets 2
+m_also calls
+*** TURN *** (8) [5s 5c 7c] [6s]
+me! checks
+m_also discards Jc for Ah
+me! bets 2
+m_also calls
+*** RIVER *** (12) [5s 5c 7c 6s] [5h]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #89, me! (244), m_also (-244)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Jd Ts]
+Dealt to m_also [9c As]
+me! folds
+m_also wins the pot (3)
+
+Hand #90, m_also (-243), me! (243)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [7d Kh]
+Dealt to me! [6c Ah]
+m_also calls
+me! raises to 43
+m_also calls
+*** FLOP *** (86) [5h Ts Jc]
+me! discards 6c for 2s
+m_also discards 7d for Jd
+me! bets 2
+m_also raises to 80
+me! calls
+*** TURN *** (246) [5h Ts Jc] [6d]
+me! discards 2s for Kd
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (250) [5h Ts Jc 6d] [8c]
+me! bets 2
+m_also calls
+m_also shows [Kh Jd]
+me! shows [Ah Kd]
+m_also wins the pot (254)
+
+Hand #91, me! (116), m_also (-116)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [8s 5d]
+Dealt to m_also [2c 4h]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [6c Kd 9c]
+m_also discards 2c for 3h
+me! discards 5d for 7s
+m_also bets 2
+me! calls
+*** TURN *** (12) [6c Kd 9c] [Qc]
+m_also discards 3h for 5c
+me! discards 7s for 3s
+m_also bets 2
+me! calls
+*** RIVER *** (16) [6c Kd 9c Qc] [Kh]
+m_also bets 192
+me! folds
+Uncalled bet of 192 returned to m_also
+m_also wins the pot (16)
+
+Hand #92, m_also (-108), me! (108)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [8c 4c]
+Dealt to me! [5c Kc]
+m_also calls
+me! raises to 39
+m_also calls
+*** FLOP *** (78) [Qh 2d 3h]
+me! discards 5c for 5s
+m_also discards 4c for 3c
+me! bets 2
+m_also calls
+*** TURN *** (82) [Qh 2d 3h] [8h]
+me! discards 5s for Th
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (86) [Qh 2d 3h 8h] [6d]
+me! bets 2
+m_also calls
+m_also shows [8c 3c]
+me! shows [Kc Th]
+m_also wins the pot (90)
+
+Hand #93, me! (63), m_also (-63)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Qd 5c]
+Dealt to m_also [3d 3h]
+me! calls
+m_also raises to 37
+me! calls
+*** FLOP *** (74) [2c 9d 7s]
+m_also checks
+me! discards 5c for 7c
+m_also bets 40
+me! calls
+*** TURN *** (154) [2c 9d 7s] [6s]
+m_also checks
+me! checks
+m_also bets 2
+me! calls
+*** RIVER *** (158) [2c 9d 7s 6s] [9c]
+m_also bets 2
+me! calls
+me! shows [Qd 7c]
+m_also shows [3d 3h]
+me! wins the pot (162)
+
+Hand #94, m_also (-144), me! (144)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Ah 5h]
+Dealt to me! [3h 5s]
+m_also calls
+me! raises to 4
+m_also calls
+*** FLOP *** (8) [8d Ts Td]
+me! discards 3h for 9s
+m_also discards 5h for Ac
+me! bets 2
+m_also calls
+*** TURN *** (12) [8d Ts Td] [5d]
+me! discards 9s for 6s
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (16) [8d Ts Td 5d] [7h]
+me! bets 192
+m_also folds
+Uncalled bet of 192 returned to me!
+me! wins the pot (16)
+
+Hand #95, me! (152), m_also (-152)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [2c 3s]
+Dealt to m_also [9s Ts]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [6d 9c 4c]
+m_also checks
+me! discards 2c for 2s
+m_also bets 54
+me! folds
+Uncalled bet of 54 returned to m_also
+m_also wins the pot (8)
+
+Hand #96, m_also (-148), me! (148)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Kh Td]
+Dealt to me! [7s Ad]
+m_also calls
+me! raises to 33
+m_also calls
+*** FLOP *** (66) [3d Jc 2h]
+me! discards 7s for Qs
+m_also checks
+me! bets 2
+m_also calls
+*** TURN *** (70) [3d Jc 2h] [Th]
+me! checks
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (74) [3d Jc 2h Th] [5c]
+me! bets 2
+m_also calls
+m_also shows [Kh Td]
+me! shows [Ad Qs]
+m_also wins the pot (78)
+
+Hand #97, me! (109), m_also (-109)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Qs 8h]
+Dealt to m_also [As 4s]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [Qc 9c 3h]
+m_also discards 4s for 2d
+me! checks
+m_also bets 2
+me! raises to 100
+m_also folds
+Uncalled bet of 98 returned to me!
+me! wins the pot (12)
+
+Hand #98, m_also (-115), me! (115)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Kd Ks]
+Dealt to me! [2d 8d]
+m_also calls
+me! raises to 16
+m_also calls
+*** FLOP *** (32) [Js 3s Qc]
+me! discards 2d for 7s
+m_also checks
+me! bets 2
+m_also raises to 94
+me! folds
+Uncalled bet of 92 returned to m_also
+m_also wins the pot (36)
+
+Hand #99, me! (97), m_also (-97)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Qs Kd]
+Dealt to m_also [7c 9s]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [Ks Qd Th]
+m_also discards 7c for Jh
+me! checks
+m_also bets 63
+me! raises to 161
+m_also folds
+Uncalled bet of 98 returned to me!
+me! wins the pot (134)
+
+Hand #100, m_also (-164), me! (164)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [As 4s]
+Dealt to me! [8c 7s]
+m_also calls
+me! raises to 4
+m_also calls
+*** FLOP *** (8) [7h Ad 5h]
+me! checks
+m_also discards 4s for 6d
+me! bets 36
+m_also calls
+*** TURN *** (80) [7h Ad 5h] [Ks]
+me! discards 8c for Qc
+m_also discards 6d for 9c
+me! bets 12
+m_also calls
+*** RIVER *** (104) [7h Ad 5h Ks] [Ac]
+me! bets 27
+m_also raises to 101
+me! calls
+m_also shows [As 9c]
+me! shows [7s Qc]
+m_also wins the pot (306)
+
+Hand #101, me! (11), m_also (-11)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [4s Js]
+Dealt to m_also [5h 5s]
+me! calls
+m_also raises to 42
+me! calls
+*** FLOP *** (84) [Jh Qc 9c]
+m_also checks
+me! discards 4s for As
+m_also bets 2
+me! calls
+*** TURN *** (88) [Jh Qc 9c] [8d]
+m_also checks
+me! checks
+m_also bets 2
+me! calls
+*** RIVER *** (92) [Jh Qc 9c 8d] [6d]
+m_also bets 2
+me! calls
+me! shows [Js As]
+m_also shows [5h 5s]
+me! wins the pot (96)
+
+Hand #102, m_also (-59), me! (59)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Qs 3h]
+Dealt to me! [Ah Ks]
+m_also calls
+me! raises to 4
+m_also calls
+*** FLOP *** (8) [8s Td As]
+me! checks
+m_also discards 3h for 5c
+me! bets 68
+m_also folds
+Uncalled bet of 68 returned to me!
+me! wins the pot (8)
+
+Hand #103, me! (63), m_also (-63)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Kd Jd]
+Dealt to m_also [4d 7h]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [6h Kh 3s]
+m_also discards 4d for Js
+me! checks
+m_also bets 2
+me! raises to 100
+m_also folds
+Uncalled bet of 98 returned to me!
+me! wins the pot (12)
+
+Hand #104, m_also (-69), me! (69)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [8c 6d]
+Dealt to me! [2c Jd]
+m_also calls
+me! raises to 14
+m_also calls
+*** FLOP *** (28) [8h 5d Jc]
+me! discards 2c for Qh
+m_also checks
+me! bets 78
+m_also folds
+Uncalled bet of 78 returned to me!
+me! wins the pot (28)
+
+Hand #105, me! (83), m_also (-83)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [6c Jh]
+Dealt to m_also [4h Qd]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [Ac Js 4c]
+m_also checks
+me! discards 6c for Jd
+m_also bets 12
+me! raises to 110
+m_also folds
+Uncalled bet of 98 returned to me!
+me! wins the pot (32)
+
+Hand #106, m_also (-99), me! (99)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [9c 8c]
+Dealt to me! [3s Tc]
+m_also calls
+me! raises to 4
+m_also calls
+*** FLOP *** (8) [4h Jh 4c]
+me! discards 3s for 3h
+m_also discards 8c for 2d
+me! bets 2
+m_also calls
+*** TURN *** (12) [4h Jh 4c] [5c]
+me! discards 3h for Kd
+m_also discards 2d for 5s
+me! bets 2
+m_also calls
+*** RIVER *** (16) [4h Jh 4c 5c] [3c]
+me! bets 192
+m_also folds
+Uncalled bet of 192 returned to me!
+me! wins the pot (16)
+
+Hand #107, me! (107), m_also (-107)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [5c Qc]
+Dealt to m_also [Qs Kd]
+me! calls
+m_also raises to 16
+me! calls
+*** FLOP *** (32) [7d 2h Td]
+m_also checks
+me! discards 5c for Ts
+m_also bets 2
+me! raises to 94
+m_also folds
+Uncalled bet of 92 returned to me!
+me! wins the pot (36)
+
+Hand #108, m_also (-125), me! (125)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [6h Qh]
+Dealt to me! [Qs 8c]
+m_also calls
+me! raises to 28
+m_also calls
+*** FLOP *** (56) [8d Jh Qd]
+me! checks
+m_also discards 6h for 3d
+me! bets 8
+m_also calls
+*** TURN *** (72) [8d Jh Qd] [7s]
+me! checks
+m_also discards 3d for 2d
+me! bets 51
+m_also calls
+*** RIVER *** (174) [8d Jh Qd 7s] [Kh]
+me! bets 38
+m_also calls
+m_also shows [Qh 2d]
+me! shows [Qs 8c]
+me! wins the pot (250)
+
+Hand #109, me! (250), m_also (-250)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [6d 4h]
+Dealt to m_also [Ah 5d]
+me! folds
+m_also wins the pot (3)
+
+Hand #110, m_also (-249), me! (249)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Qs Kd]
+Dealt to me! [5d 3h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [6h 3c 8s]
+me! discards 5d for Qh
+m_also checks
+me! bets 2
+m_also calls
+*** TURN *** (8) [6h 3c 8s] [Td]
+me! checks
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (12) [6h 3c 8s Td] [4c]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #111, me! (255), m_also (-255)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [6d Tc]
+Dealt to m_also [5s 9s]
+me! folds
+m_also wins the pot (3)
+
+Hand #112, m_also (-254), me! (254)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [8s 5c]
+Dealt to me! [Ts 3d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [7s Qh Jc]
+me! discards 3d for 9d
+m_also discards 5c for Qs
+me! bets 2
+m_also raises to 101
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (8)
+
+Hand #113, me! (250), m_also (-250)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [3d 9h]
+Dealt to m_also [5s Th]
+me! folds
+m_also wins the pot (3)
+
+Hand #114, m_also (-249), me! (249)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [5d 3c]
+Dealt to me! [6c 9d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [6s As 9h]
+me! checks
+m_also discards 3c for 3d
+me! bets 7
+m_also folds
+Uncalled bet of 7 returned to me!
+me! wins the pot (4)
+
+Hand #115, me! (251), m_also (-251)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Jh Js]
+Dealt to m_also [4d 3d]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [8s Qc 4h]
+m_also discards 3d for Tc
+me! checks
+m_also bets 2
+me! calls
+*** TURN *** (12) [8s Qc 4h] [8c]
+m_also discards Tc for Jd
+me! checks
+m_also bets 17
+me! calls
+*** RIVER *** (46) [8s Qc 4h 8c] [9d]
+m_also bets 177
+me! folds
+Uncalled bet of 177 returned to m_also
+m_also wins the pot (46)
+
+Hand #116, m_also (-228), me! (228)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [6d Qd]
+Dealt to me! [8h 3s]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [4c 4d 6c]
+me! discards 3s for 5h
+m_also checks
+me! bets 2
+m_also calls
+*** TURN *** (8) [4c 4d 6c] [9d]
+me! discards 5h for Ac
+m_also discards Qd for 9c
+me! bets 2
+m_also calls
+*** RIVER *** (12) [4c 4d 6c 9d] [2h]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #117, me! (234), m_also (-234)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [2c Ac]
+Dealt to m_also [Ks Jh]
+me! folds
+m_also wins the pot (3)
+
+Hand #118, m_also (-233), me! (233)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [6c 6h]
+Dealt to me! [Tc Ts]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [5s 6d Ks]
+me! checks
+m_also checks
+me! bets 39
+m_also raises to 138
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (82)
+
+Hand #119, me! (192), m_also (-192)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [3h Qc]
+Dealt to m_also [Ks 5d]
+me! calls
+m_also raises to 19
+me! calls
+*** FLOP *** (38) [7c Td 8h]
+m_also discards 5d for 6c
+me! discards 3h for 2d
+m_also bets 2
+me! calls
+*** TURN *** (42) [7c Td 8h] [Tc]
+m_also checks
+me! discards 2d for Ts
+m_also bets 2
+me! raises to 91
+m_also folds
+Uncalled bet of 89 returned to me!
+me! wins the pot (46)
+
+Hand #120, m_also (-215), me! (215)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [4s 4d]
+Dealt to me! [7c 9d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [8d 9h Ad]
+me! discards 7c for 6s
+m_also checks
+me! bets 29
+m_also calls
+*** TURN *** (62) [8d 9h Ad] [Qc]
+me! discards 6s for 6c
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (66) [8d 9h Ad Qc] [Ac]
+me! bets 31
+m_also calls
+m_also shows [4s 4d]
+me! shows [9d 6c]
+me! wins the pot (128)
+
+Hand #121, me! (279), m_also (-279)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [3s 3h]
+Dealt to m_also [Jh 6s]
+me! folds
+m_also wins the pot (3)
+
+Hand #122, m_also (-278), me! (278)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [2s 3c]
+Dealt to me! [3s 4c]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [4s 3h Td]
+me! checks
+m_also discards 2s for 6h
+me! bets 59
+m_also folds
+Uncalled bet of 59 returned to me!
+me! wins the pot (4)
+
+Hand #123, me! (280), m_also (-280)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Qc 6c]
+Dealt to m_also [Jh 4s]
+me! folds
+m_also wins the pot (3)
+
+Hand #124, m_also (-279), me! (279)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Qs 8c]
+Dealt to me! [7h 5s]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Kc 8s 4s]
+me! discards 5s for Kd
+m_also checks
+me! bets 76
+m_also calls
+*** TURN *** (156) [Kc 8s 4s] [Ts]
+me! discards 7h for 9c
+m_also checks
+me! bets 19
+m_also calls
+*** RIVER *** (194) [Kc 8s 4s Ts] [6c]
+me! bets 51
+m_also calls
+m_also shows [Qs 8c]
+me! shows [Kd 9c]
+me! wins the pot (296)
+
+Hand #125, me! (427), m_also (-427)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [3h 4h]
+Dealt to m_also [Ad 3d]
+me! folds
+m_also wins the pot (3)
+
+Hand #126, m_also (-426), me! (426)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Th 9d]
+Dealt to me! [Ac Qh]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Qc Ts 7h]
+me! checks
+m_also checks
+me! bets 10
+m_also calls
+*** TURN *** (24) [Qc Ts 7h] [4s]
+me! checks
+m_also checks
+me! bets 59
+m_also calls
+*** RIVER *** (142) [Qc Ts 7h 4s] [9c]
+me! bets 60
+m_also calls
+m_also shows [Th 9d]
+me! shows [Ac Qh]
+m_also wins the pot (262)
+
+Hand #127, me! (295), m_also (-295)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [8d 9h]
+Dealt to m_also [3d Qc]
+me! folds
+m_also wins the pot (3)
+
+Hand #128, m_also (-294), me! (294)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [2s Jc]
+Dealt to me! [3s Qh]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Qc 7d 8s]
+me! discards 3s for Js
+m_also discards 2s for 7h
+me! bets 39
+m_also calls
+*** TURN *** (82) [Qc 7d 8s] [3c]
+me! checks
+m_also checks
+me! bets 33
+m_also calls
+*** RIVER *** (148) [Qc 7d 8s 3c] [Jd]
+me! bets 29
+m_also raises to 92
+me! raises to 126
+m_also calls
+m_also shows [Jc 7h]
+me! shows [Qh Js]
+me! wins the pot (400)
+
+Hand #129, me! (494), m_also (-494)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Jd 6s]
+Dealt to m_also [Tc 9c]
+me! folds
+m_also wins the pot (3)
+
+Hand #130, m_also (-493), me! (493)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Th 6s]
+Dealt to me! [Td Ts]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [4h 7s 5d]
+me! checks
+m_also discards Th for 9c
+me! bets 5
+m_also folds
+Uncalled bet of 5 returned to me!
+me! wins the pot (4)
+
+Hand #131, me! (495), m_also (-495)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Kc Kh]
+Dealt to m_also [3d 7s]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [2s 6s Ah]
+m_also discards 3d for 4h
+me! checks
+m_also bets 2
+me! calls
+*** TURN *** (12) [2s 6s Ah] [8d]
+m_also discards 4h for Qh
+me! checks
+m_also bets 2
+me! calls
+*** RIVER *** (16) [2s 6s Ah 8d] [Qs]
+m_also bets 192
+me! folds
+Uncalled bet of 192 returned to m_also
+m_also wins the pot (16)
+
+Hand #132, m_also (-487), me! (487)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [6s 3s]
+Dealt to me! [Kd Js]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Kc Jh Ah]
+me! checks
+m_also discards 3s for 3h
+me! bets 6
+m_also folds
+Uncalled bet of 6 returned to me!
+me! wins the pot (4)
+
+Hand #133, me! (489), m_also (-489)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [3s Th]
+Dealt to m_also [8h 9h]
+me! folds
+m_also wins the pot (3)
+
+Hand #134, m_also (-488), me! (488)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [9d 2d]
+Dealt to me! [Qh Ah]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Ad 6h 3s]
+me! checks
+m_also discards 2d for Kd
+me! bets 80
+m_also folds
+Uncalled bet of 80 returned to me!
+me! wins the pot (4)
+
+Hand #135, me! (490), m_also (-490)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [5h Qs]
+Dealt to m_also [5c Ah]
+me! folds
+m_also wins the pot (3)
+
+Hand #136, m_also (-489), me! (489)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Jc Jd]
+Dealt to me! [8h Kh]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Qd 8d 4d]
+me! checks
+m_also checks
+me! bets 12
+m_also calls
+*** TURN *** (28) [Qd 8d 4d] [3c]
+me! checks
+m_also checks
+me! bets 38
+m_also calls
+*** RIVER *** (104) [Qd 8d 4d 3c] [2d]
+me! bets 2
+m_also calls
+m_also shows [Jc Jd]
+me! shows [8h Kh]
+m_also wins the pot (108)
+
+Hand #137, me! (435), m_also (-435)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Th Qd]
+Dealt to m_also [6h 6c]
+me! folds
+m_also wins the pot (3)
+
+Hand #138, m_also (-434), me! (434)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [2s 5d]
+Dealt to me! [6h 6c]
+m_also calls
+me! raises to 35
+m_also calls
+*** FLOP *** (70) [Qs 3s Jd]
+me! checks
+m_also discards 2s for Ks
+me! bets 13
+m_also calls
+*** TURN *** (96) [Qs 3s Jd] [8h]
+me! checks
+m_also discards 5d for Ah
+me! bets 2
+m_also calls
+*** RIVER *** (100) [Qs 3s Jd 8h] [Ad]
+me! bets 2
+m_also calls
+m_also shows [Ks Ah]
+me! shows [6h 6c]
+m_also wins the pot (104)
+
+Hand #139, me! (382), m_also (-382)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [4s Jc]
+Dealt to m_also [2c 2s]
+me! folds
+m_also wins the pot (3)
+
+Hand #140, m_also (-381), me! (381)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [3c Jc]
+Dealt to me! [2c 6d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [9c Kd 4h]
+me! discards 2c for 7d
+m_also discards 3c for 6h
+me! bets 2
+m_also calls
+*** TURN *** (8) [9c Kd 4h] [Js]
+me! discards 6d for 4c
+m_also discards 6h for Qc
+me! bets 2
+m_also calls
+*** RIVER *** (12) [9c Kd 4h Js] [7s]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #141, me! (387), m_also (-387)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Th 9c]
+Dealt to m_also [5c 4c]
+me! folds
+m_also wins the pot (3)
+
+Hand #142, m_also (-386), me! (386)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Kd 9h]
+Dealt to me! [7d Qs]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [6d 3h 2d]
+me! discards 7d for Td
+m_also discards 9h for Js
+me! bets 2
+m_also calls
+*** TURN *** (8) [6d 3h 2d] [9d]
+me! discards Qs for Tc
+m_also discards Js for 7s
+me! bets 13
+m_also calls
+*** RIVER *** (34) [6d 3h 2d 9d] [5d]
+me! bets 183
+m_also folds
+Uncalled bet of 183 returned to me!
+me! wins the pot (34)
+
+Hand #143, me! (403), m_also (-403)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [8h Qh]
+Dealt to m_also [7h 8d]
+me! folds
+m_also wins the pot (3)
+
+Hand #144, m_also (-402), me! (402)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [4c 6h]
+Dealt to me! [7c Ks]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Qc Ad Qd]
+me! discards 7c for 7h
+m_also discards 4c for Td
+me! bets 2
+m_also calls
+*** TURN *** (8) [Qc Ad Qd] [8h]
+me! discards 7h for 3c
+m_also discards 6h for Th
+me! bets 2
+m_also calls
+*** RIVER *** (12) [Qc Ad Qd 8h] [8c]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #145, me! (408), m_also (-408)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [4s Ad]
+Dealt to m_also [2s 7s]
+me! folds
+m_also wins the pot (3)
+
+Hand #146, m_also (-407), me! (407)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [9d 7h]
+Dealt to me! [8h 6c]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Jd 5d 4s]
+me! discards 6c for 2d
+m_also discards 7h for Jh
+me! bets 2
+m_also calls
+*** TURN *** (8) [Jd 5d 4s] [9s]
+me! discards 2d for 7c
+m_also checks
+me! bets 2
+m_also raises to 100
+me! folds
+Uncalled bet of 98 returned to m_also
+m_also wins the pot (12)
+
+Hand #147, me! (401), m_also (-401)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Kc 4h]
+Dealt to m_also [4c Kd]
+me! folds
+m_also wins the pot (3)
+
+Hand #148, m_also (-400), me! (400)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [4c 9c]
+Dealt to me! [2c Kh]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Ts 3d Ac]
+me! discards 2c for 7d
+m_also discards 4c for 6c
+me! bets 2
+m_also calls
+*** TURN *** (8) [Ts 3d Ac] [4s]
+me! discards 7d for 3s
+m_also discards 6c for Jd
+me! bets 2
+m_also calls
+*** RIVER *** (12) [Ts 3d Ac 4s] [2d]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #149, me! (406), m_also (-406)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [6d 9s]
+Dealt to m_also [4h Td]
+me! folds
+m_also wins the pot (3)
+
+Hand #150, m_also (-405), me! (405)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [9c Ad]
+Dealt to me! [5c 8h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [6s 5h 3s]
+me! checks
+m_also discards 9c for Ac
+me! bets 32
+m_also raises to 131
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (68)
+
+Hand #151, me! (371), m_also (-371)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [9d 5h]
+Dealt to m_also [Td Qs]
+me! folds
+m_also wins the pot (3)
+
+Hand #152, m_also (-370), me! (370)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [8s 6s]
+Dealt to me! [2s 9h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [As 6d 5d]
+me! discards 2s for 9d
+m_also checks
+me! bets 21
+m_also calls
+*** TURN *** (46) [As 6d 5d] [Ad]
+me! checks
+m_also discards 8s for 5s
+me! bets 18
+m_also calls
+*** RIVER *** (82) [As 6d 5d Ad] [8d]
+me! bets 24
+m_also calls
+m_also shows [6s 5s]
+me! shows [9h 9d]
+me! wins the pot (130)
+
+Hand #153, me! (435), m_also (-435)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [3s 4d]
+Dealt to m_also [Js Ad]
+me! folds
+m_also wins the pot (3)
+
+Hand #154, m_also (-434), me! (434)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [6d 8h]
+Dealt to me! [Ad 6s]
+m_also calls
+me! raises to 24
+m_also calls
+*** FLOP *** (48) [Ks 4c 3d]
+me! discards 6s for 5h
+m_also discards 6d for Td
+me! bets 2
+m_also calls
+*** TURN *** (52) [Ks 4c 3d] [Kh]
+me! discards 5h for 9c
+m_also discards 8h for 2c
+me! bets 2
+m_also calls
+*** RIVER *** (56) [Ks 4c 3d Kh] [2s]
+me! bets 172
+m_also folds
+Uncalled bet of 172 returned to me!
+me! wins the pot (56)
+
+Hand #155, me! (462), m_also (-462)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Td 4c]
+Dealt to m_also [7c Ad]
+me! folds
+m_also wins the pot (3)
+
+Hand #156, m_also (-461), me! (461)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [7s Js]
+Dealt to me! [9s Td]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Jd 9h 3s]
+me! checks
+m_also checks
+me! bets 42
+m_also calls
+*** TURN *** (88) [Jd 9h 3s] [6h]
+me! checks
+m_also checks
+me! bets 19
+m_also calls
+*** RIVER *** (126) [Jd 9h 3s 6h] [2c]
+me! bets 17
+m_also calls
+m_also shows [7s Js]
+me! shows [9s Td]
+m_also wins the pot (160)
+
+Hand #157, me! (381), m_also (-381)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [8s 2s]
+Dealt to m_also [Qh Kc]
+me! folds
+m_also wins the pot (3)
+
+Hand #158, m_also (-380), me! (380)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [2c Kd]
+Dealt to me! [5s 9h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Jd 7h Th]
+me! discards 5s for 4s
+m_also discards 2c for Kc
+me! bets 2
+m_also raises to 101
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (8)
+
+Hand #159, me! (376), m_also (-376)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [6h 8c]
+Dealt to m_also [9s Jh]
+me! folds
+m_also wins the pot (3)
+
+Hand #160, m_also (-375), me! (375)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [6h 7d]
+Dealt to me! [3c 2c]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [6d Qs Qh]
+me! discards 2c for Qd
+m_also discards 7d for 3h
+me! bets 68
+m_also calls
+*** TURN *** (140) [6d Qs Qh] [Ts]
+me! discards 3c for 4c
+m_also discards 3h for 6c
+me! bets 6
+m_also raises to 71
+me! raises to 130
+m_also calls
+*** RIVER *** (400) [6d Qs Qh Ts] [4h]
+m_also shows [6h 6c]
+me! shows [Qd 4c]
+me! wins the pot (400)
+
+Hand #161, me! (575), m_also (-575)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [8c 4s]
+Dealt to m_also [Qd 2h]
+me! folds
+m_also wins the pot (3)
+
+Hand #162, m_also (-574), me! (574)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [7s 5s]
+Dealt to me! [8h Qs]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [9h 7c 8c]
+me! checks
+m_also checks
+me! bets 18
+m_also calls
+*** TURN *** (40) [9h 7c 8c] [Jh]
+me! checks
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (44) [9h 7c 8c Jh] [Ts]
+me! bets 178
+m_also folds
+Uncalled bet of 178 returned to me!
+me! wins the pot (44)
+
+Hand #163, me! (596), m_also (-596)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Jd 4c]
+Dealt to m_also [5c 8c]
+me! folds
+m_also wins the pot (3)
+
+Hand #164, m_also (-595), me! (595)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [8d 9h]
+Dealt to me! [7c 3c]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [7d 9c Qs]
+me! discards 3c for 8h
+m_also checks
+me! bets 2
+m_also calls
+*** TURN *** (8) [7d 9c Qs] [Ks]
+me! discards 8h for Kc
+m_also discards 8d for 6d
+me! bets 78
+m_also folds
+Uncalled bet of 78 returned to me!
+me! wins the pot (8)
+
+Hand #165, me! (599), m_also (-599)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Td Qs]
+Dealt to m_also [4s Ks]
+me! folds
+m_also wins the pot (3)
+
+Hand #166, m_also (-598), me! (598)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [2s 6c]
+Dealt to me! [8s Qs]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Ts Td 6s]
+me! discards 8s for 5s
+m_also discards 2s for Kh
+me! bets 2
+m_also calls
+*** TURN *** (8) [Ts Td 6s] [4c]
+me! discards 5s for Jd
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (12) [Ts Td 6s 4c] [2h]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #167, me! (604), m_also (-604)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [5h 6c]
+Dealt to m_also [Kc Kd]
+me! folds
+m_also wins the pot (3)
+
+Hand #168, m_also (-603), me! (603)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [2d 9h]
+Dealt to me! [8d 9d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Kh 4d 6c]
+me! discards 8d for Jh
+m_also discards 2d for 9c
+me! bets 2
+m_also calls
+*** TURN *** (8) [Kh 4d 6c] [3c]
+me! discards 9d for Qd
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (12) [Kh 4d 6c 3c] [7c]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #169, me! (609), m_also (-609)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [6h 7c]
+Dealt to m_also [Th 4h]
+me! folds
+m_also wins the pot (3)
+
+Hand #170, m_also (-608), me! (608)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [5c Js]
+Dealt to me! [8s As]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Ac 8c 3h]
+me! checks
+m_also discards 5c for 4c
+me! bets 64
+m_also folds
+Uncalled bet of 64 returned to me!
+me! wins the pot (4)
+
+Hand #171, me! (610), m_also (-610)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [7d 6h]
+Dealt to m_also [Td As]
+me! folds
+m_also wins the pot (3)
+
+Hand #172, m_also (-609), me! (609)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Tc Kc]
+Dealt to me! [Qs 4h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Ah Ac Qd]
+me! discards 4h for 5d
+m_also checks
+me! bets 33
+m_also calls
+*** TURN *** (70) [Ah Ac Qd] [8d]
+me! discards 5d for 5h
+m_also discards Tc for Jd
+me! bets 43
+m_also calls
+*** RIVER *** (156) [Ah Ac Qd 8d] [4s]
+me! bets 26
+m_also calls
+m_also shows [Kc Jd]
+me! shows [Qs 5h]
+me! wins the pot (208)
+
+Hand #173, me! (713), m_also (-713)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Kc 3c]
+Dealt to m_also [5h As]
+me! folds
+m_also wins the pot (3)
+
+Hand #174, m_also (-712), me! (712)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [2c Tc]
+Dealt to me! [Jc 8s]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [8d 4s Qh]
+me! checks
+m_also discards 2c for 2d
+me! bets 71
+m_also folds
+Uncalled bet of 71 returned to me!
+me! wins the pot (4)
+
+Hand #175, me! (714), m_also (-714)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Js Kh]
+Dealt to m_also [9c Th]
+me! folds
+m_also wins the pot (3)
+
+Hand #176, m_also (-713), me! (713)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [4s Ad]
+Dealt to me! [2h 8h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Ac Kh 7h]
+me! discards 2h for 4c
+m_also discards 4s for 7c
+me! bets 2
+m_also raises to 101
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (8)
+
+Hand #177, me! (709), m_also (-709)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Th Jc]
+Dealt to m_also [Qs Jh]
+me! folds
+m_also wins the pot (3)
+
+Hand #178, m_also (-708), me! (708)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Qc 3h]
+Dealt to me! [6d Kh]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [3c Jh 7c]
+me! discards 6d for Td
+m_also checks
+me! bets 2
+m_also calls
+*** TURN *** (8) [3c Jh 7c] [5h]
+me! discards Td for 2c
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (12) [3c Jh 7c 5h] [Th]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #179, me! (714), m_also (-714)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [8s 6s]
+Dealt to m_also [7h Ks]
+me! folds
+m_also wins the pot (3)
+
+Hand #180, m_also (-713), me! (713)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [2s Js]
+Dealt to me! [Qh Jh]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [9d Ks Ts]
+me! checks
+m_also discards 2s for 3s
+me! bets 80
+m_also folds
+Uncalled bet of 80 returned to me!
+me! wins the pot (4)
+
+Hand #181, me! (715), m_also (-715)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [2s Ad]
+Dealt to m_also [7d 7h]
+me! folds
+m_also wins the pot (3)
+
+Hand #182, m_also (-714), me! (714)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [7c 4h]
+Dealt to me! [Js 7h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [8c Ac Th]
+me! discards 7h for Jd
+m_also discards 4h for 2d
+me! bets 23
+m_also folds
+Uncalled bet of 23 returned to me!
+me! wins the pot (4)
+
+Hand #183, me! (716), m_also (-716)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [As 7h]
+Dealt to m_also [Ks Jh]
+me! folds
+m_also wins the pot (3)
+
+Hand #184, m_also (-715), me! (715)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [4s 8d]
+Dealt to me! [6h Jh]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [3c Ts 5d]
+me! discards 6h for Ad
+m_also discards 4s for 5c
+me! bets 2
+m_also calls
+*** TURN *** (8) [3c Ts 5d] [5s]
+me! checks
+m_also discards 8d for As
+me! bets 2
+m_also raises to 100
+me! folds
+Uncalled bet of 98 returned to m_also
+m_also wins the pot (12)
+
+Hand #185, me! (709), m_also (-709)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [8c Kh]
+Dealt to m_also [Kd Jc]
+me! folds
+m_also wins the pot (3)
+
+Hand #186, m_also (-708), me! (708)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [3h 3c]
+Dealt to me! [3s Ah]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Qs 5d 4d]
+me! discards 3s for 4c
+m_also checks
+me! bets 39
+m_also folds
+Uncalled bet of 39 returned to me!
+me! wins the pot (4)
+
+Hand #187, me! (710), m_also (-710)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [3h 5h]
+Dealt to m_also [Td 8c]
+me! folds
+m_also wins the pot (3)
+
+Hand #188, m_also (-709), me! (709)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [6s 3s]
+Dealt to me! [7s Td]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [2h 5h Js]
+me! discards 7s for Jh
+m_also discards 3s for 8h
+me! bets 65
+m_also folds
+Uncalled bet of 65 returned to me!
+me! wins the pot (4)
+
+Hand #189, me! (711), m_also (-711)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [7s Qc]
+Dealt to m_also [2s Ac]
+me! folds
+m_also wins the pot (3)
+
+Hand #190, m_also (-710), me! (710)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Ac 3s]
+Dealt to me! [4h 9d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [2d 7h 6s]
+me! discards 4h for 6d
+m_also discards 3s for 9c
+me! bets 26
+m_also calls
+*** TURN *** (56) [2d 7h 6s] [9s]
+me! checks
+m_also checks
+me! bets 16
+m_also calls
+*** RIVER *** (88) [2d 7h 6s 9s] [Ad]
+me! bets 3
+m_also raises to 81
+me! calls
+m_also shows [Ac 9c]
+me! shows [9d 6d]
+m_also wins the pot (250)
+
+Hand #191, me! (585), m_also (-585)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [2d Qd]
+Dealt to m_also [Ks 4h]
+me! folds
+m_also wins the pot (3)
+
+Hand #192, m_also (-584), me! (584)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [5c 6h]
+Dealt to me! [4h Qh]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [7c 9c 8c]
+me! discards 4h for Kc
+m_also checks
+me! bets 2
+m_also raises to 101
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (8)
+
+Hand #193, me! (580), m_also (-580)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [7s 2h]
+Dealt to m_also [3h 7h]
+me! folds
+m_also wins the pot (3)
+
+Hand #194, m_also (-579), me! (579)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [7s 3d]
+Dealt to me! [8s 2d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [9d 9c 8c]
+me! discards 2d for 6s
+m_also discards 3d for 4h
+me! bets 95
+m_also folds
+Uncalled bet of 95 returned to me!
+me! wins the pot (4)
+
+Hand #195, me! (581), m_also (-581)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [8c 8d]
+Dealt to m_also [2s 4c]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [Ac 5h 5s]
+m_also discards 2s for 7s
+me! checks
+m_also bets 2
+me! calls
+*** TURN *** (12) [Ac 5h 5s] [Ad]
+m_also checks
+me! checks
+m_also bets 2
+me! calls
+*** RIVER *** (16) [Ac 5h 5s Ad] [Jd]
+m_also bets 192
+me! folds
+Uncalled bet of 192 returned to m_also
+m_also wins the pot (16)
+
+Hand #196, m_also (-573), me! (573)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Tc 4s]
+Dealt to me! [6s Jh]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [4h 9s Qd]
+me! discards 6s for Js
+m_also checks
+me! bets 98
+m_also folds
+Uncalled bet of 98 returned to me!
+me! wins the pot (4)
+
+Hand #197, me! (575), m_also (-575)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [7c 5s]
+Dealt to m_also [3c Jc]
+me! folds
+m_also wins the pot (3)
+
+Hand #198, m_also (-574), me! (574)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [7s Ah]
+Dealt to me! [Ks 2c]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [9s 6c 2d]
+me! checks
+m_also discards 7s for Kd
+me! bets 2
+m_also calls
+*** TURN *** (8) [9s 6c 2d] [Th]
+me! checks
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (12) [9s 6c 2d Th] [5c]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #199, me! (580), m_also (-580)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [6s Kh]
+Dealt to m_also [Js Jc]
+me! folds
+m_also wins the pot (3)
+
+Hand #200, m_also (-579), me! (579)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Qd 5s]
+Dealt to me! [2d Qc]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Ts 8c Jh]
+me! discards 2d for 6s
+m_also discards 5s for Jc
+me! bets 2
+m_also calls
+*** TURN *** (8) [Ts 8c Jh] [2h]
+me! discards 6s for 6h
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (12) [Ts 8c Jh 2h] [Kh]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #201, me! (585), m_also (-585)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [5s Js]
+Dealt to m_also [Td 8h]
+me! folds
+m_also wins the pot (3)
+
+Hand #202, m_also (-584), me! (584)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [9s 9c]
+Dealt to me! [7h 4d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [4s 3h 2d]
+me! discards 7h for Td
+m_also checks
+me! bets 72
+m_also calls
+*** TURN *** (148) [4s 3h 2d] [Ks]
+me! checks
+m_also checks
+me! bets 12
+m_also calls
+*** RIVER *** (172) [4s 3h 2d Ks] [7d]
+me! bets 2
+m_also calls
+m_also shows [9s 9c]
+me! shows [4d Td]
+m_also wins the pot (176)
+
+Hand #203, me! (496), m_also (-496)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [8d Jc]
+Dealt to m_also [Js Ac]
+me! folds
+m_also wins the pot (3)
+
+Hand #204, m_also (-495), me! (495)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [3h 3c]
+Dealt to me! [2h Kc]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [6s Ah Kd]
+me! discards 2h for 6c
+m_also checks
+me! bets 91
+m_also folds
+Uncalled bet of 91 returned to me!
+me! wins the pot (4)
+
+Hand #205, me! (497), m_also (-497)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Jc 8s]
+Dealt to m_also [Kh 6c]
+me! folds
+m_also wins the pot (3)
+
+Hand #206, m_also (-496), me! (496)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [4d Ah]
+Dealt to me! [3d Ks]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [As 5s Jd]
+me! discards 3d for 2c
+m_also discards 4d for 3c
+me! bets 2
+m_also calls
+*** TURN *** (8) [As 5s Jd] [9h]
+me! discards 2c for 2d
+m_also discards 3c for 8s
+me! bets 2
+m_also calls
+*** RIVER *** (12) [As 5s Jd 9h] [Qc]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #207, me! (502), m_also (-502)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Ks Jd]
+Dealt to m_also [4s 5d]
+me! folds
+m_also wins the pot (3)
+
+Hand #208, m_also (-501), me! (501)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [As 6d]
+Dealt to me! [3c 9c]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Js 3d 3h]
+me! checks
+m_also discards 6d for 5d
+me! bets 42
+m_also folds
+Uncalled bet of 42 returned to me!
+me! wins the pot (4)
+
+Hand #209, me! (503), m_also (-503)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Kd 7h]
+Dealt to m_also [Kc 9d]
+me! folds
+m_also wins the pot (3)
+
+Hand #210, m_also (-502), me! (502)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [5d Kh]
+Dealt to me! [Kc 6c]
+m_also calls
+me! raises to 42
+m_also calls
+*** FLOP *** (84) [4h Kd 7d]
+me! discards 6c for 2h
+m_also discards 5d for 9d
+me! bets 14
+m_also raises to 93
+me! calls
+*** TURN *** (270) [4h Kd 7d] [Jc]
+me! discards 2h for 9s
+m_also checks
+me! bets 6
+m_also calls
+*** RIVER *** (282) [4h Kd 7d Jc] [Js]
+me! bets 9
+m_also calls
+m_also shows [Kh 9d]
+me! shows [Kc 9s]
+m_also ties for the pot (150)
+me! ties for the pot (150)
+
+Hand #211, me! (502), m_also (-502)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [2s 2d]
+Dealt to m_also [Kd 6h]
+me! folds
+m_also wins the pot (3)
+
+Hand #212, m_also (-501), me! (501)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [8s 3s]
+Dealt to me! [Tc Qc]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [As 5s 9s]
+me! checks
+m_also checks
+me! bets 2
+m_also raises to 101
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (8)
+
+Hand #213, me! (497), m_also (-497)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [5s 9d]
+Dealt to m_also [6s Qh]
+me! folds
+m_also wins the pot (3)
+
+Hand #214, m_also (-496), me! (496)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [9d 6c]
+Dealt to me! [Kh Ah]
+m_also calls
+me! raises to 41
+m_also calls
+*** FLOP *** (82) [9h 8h Qd]
+me! checks
+m_also discards 6c for 4h
+me! bets 2
+m_also calls
+*** TURN *** (86) [9h 8h Qd] [Qs]
+me! checks
+m_also discards 4h for 2h
+me! bets 2
+m_also calls
+*** RIVER *** (90) [9h 8h Qd Qs] [3c]
+me! bets 2
+m_also calls
+m_also shows [9d 2h]
+me! shows [Kh Ah]
+m_also wins the pot (94)
+
+Hand #215, me! (449), m_also (-449)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [7h Kd]
+Dealt to m_also [4h Qc]
+me! folds
+m_also wins the pot (3)
+
+Hand #216, m_also (-448), me! (448)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [9s Ac]
+Dealt to me! [3s Ts]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [4s 2s 6h]
+me! discards Ts for Ah
+m_also discards 9s for Kd
+me! bets 2
+m_also calls
+*** TURN *** (8) [4s 2s 6h] [3d]
+me! checks
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (12) [4s 2s 6h 3d] [5h]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #217, me! (454), m_also (-454)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [5h 9c]
+Dealt to m_also [2s Ad]
+me! folds
+m_also wins the pot (3)
+
+Hand #218, m_also (-453), me! (453)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [9d 8h]
+Dealt to me! [4h Ah]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [5h 3h Js]
+me! discards 4h for 8d
+m_also discards 8h for Ts
+me! bets 2
+m_also calls
+*** TURN *** (8) [5h 3h Js] [Ks]
+me! discards 8d for Jc
+m_also discards 9d for 3d
+me! bets 13
+m_also calls
+*** RIVER *** (34) [5h 3h Js Ks] [4d]
+me! bets 183
+m_also folds
+Uncalled bet of 183 returned to me!
+me! wins the pot (34)
+
+Hand #219, me! (470), m_also (-470)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Qh 3s]
+Dealt to m_also [6s Kc]
+me! folds
+m_also wins the pot (3)
+
+Hand #220, m_also (-469), me! (469)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Ts 2s]
+Dealt to me! [8c Ks]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [7h 6s 8s]
+me! checks
+m_also discards 2s for 5c
+me! bets 63
+m_also folds
+Uncalled bet of 63 returned to me!
+me! wins the pot (4)
+
+Hand #221, me! (471), m_also (-471)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Ad 6c]
+Dealt to m_also [9c 8c]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [7d 3d 3c]
+m_also discards 8c for 4c
+me! discards 6c for Qs
+m_also bets 2
+me! calls
+*** TURN *** (12) [7d 3d 3c] [Qd]
+m_also discards 4c for 5h
+me! checks
+m_also bets 2
+me! calls
+*** RIVER *** (16) [7d 3d 3c Qd] [8s]
+m_also bets 192
+me! folds
+Uncalled bet of 192 returned to m_also
+m_also wins the pot (16)
+
+Hand #222, m_also (-463), me! (463)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [4d 7h]
+Dealt to me! [7d 5s]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [2d Qs Td]
+me! discards 5s for 8s
+m_also discards 4d for 5h
+me! bets 2
+m_also calls
+*** TURN *** (8) [2d Qs Td] [4c]
+me! discards 7d for 9c
+m_also discards 5h for Ks
+me! bets 2
+m_also calls
+*** RIVER *** (12) [2d Qs Td 4c] [3s]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #223, me! (469), m_also (-469)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Qh Js]
+Dealt to m_also [Jc 5h]
+me! folds
+m_also wins the pot (3)
+
+Hand #224, m_also (-468), me! (468)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [3s Th]
+Dealt to me! [6c 7c]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [4d 2h Qh]
+me! discards 6c for Ah
+m_also discards 3s for 7s
+me! bets 2
+m_also calls
+*** TURN *** (8) [4d 2h Qh] [2s]
+me! discards 7c for Kh
+m_also discards 7s for Js
+me! bets 2
+m_also calls
+*** RIVER *** (12) [4d 2h Qh 2s] [8s]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #225, me! (474), m_also (-474)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Jc 8h]
+Dealt to m_also [Qh Tc]
+me! folds
+m_also wins the pot (3)
+
+Hand #226, m_also (-473), me! (473)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Js Ad]
+Dealt to me! [3h 7s]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [3c 7d Qc]
+me! checks
+m_also checks
+me! bets 92
+m_also folds
+Uncalled bet of 92 returned to me!
+me! wins the pot (4)
+
+Hand #227, me! (475), m_also (-475)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Qh Ks]
+Dealt to m_also [5c Qd]
+me! folds
+m_also wins the pot (3)
+
+Hand #228, m_also (-474), me! (474)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [9s Ks]
+Dealt to me! [5h 9d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [2s 9c Ah]
+me! discards 5h for As
+m_also checks
+me! bets 48
+m_also calls
+*** TURN *** (100) [2s 9c Ah] [3s]
+me! checks
+m_also checks
+me! bets 17
+m_also calls
+*** RIVER *** (134) [2s 9c Ah 3s] [4s]
+me! bets 62
+m_also raises to 128
+me! calls
+m_also shows [9s Ks]
+me! shows [9d As]
+m_also wins the pot (390)
+
+Hand #229, me! (279), m_also (-279)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Qs Kc]
+Dealt to m_also [Kh Qc]
+me! folds
+m_also wins the pot (3)
+
+Hand #230, m_also (-278), me! (278)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [5s 3d]
+Dealt to me! [Td 3s]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Tc Qs Kc]
+me! discards 3s for 2d
+m_also discards 3d for 7d
+me! bets 2
+m_also calls
+*** TURN *** (8) [Tc Qs Kc] [Qc]
+me! discards 2d for 5d
+m_also discards 5s for 4s
+me! bets 2
+m_also calls
+*** RIVER *** (12) [Tc Qs Kc Qc] [Ad]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #231, me! (284), m_also (-284)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [7h 5d]
+Dealt to m_also [Ts Ks]
+me! folds
+m_also wins the pot (3)
+
+Hand #232, m_also (-283), me! (283)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [8s 7c]
+Dealt to me! [7s 3h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [3d Kc 2s]
+me! discards 7s for 2c
+m_also discards 7c for 6h
+me! bets 94
+m_also folds
+Uncalled bet of 94 returned to me!
+me! wins the pot (4)
+
+Hand #233, me! (285), m_also (-285)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [9h 4h]
+Dealt to m_also [9s Jc]
+me! folds
+m_also wins the pot (3)
+
+Hand #234, m_also (-284), me! (284)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Ad 7h]
+Dealt to me! [6c 9h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Qd 4s 3d]
+me! discards 6c for 7d
+m_also discards 7h for Qc
+me! bets 2
+m_also raises to 101
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (8)
+
+Hand #235, me! (280), m_also (-280)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Kc 3d]
+Dealt to m_also [5c Qh]
+me! folds
+m_also wins the pot (3)
+
+Hand #236, m_also (-279), me! (279)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Ac 3d]
+Dealt to me! [Qs Qc]
+m_also calls
+me! raises to 16
+m_also calls
+*** FLOP *** (32) [Td Ks 3s]
+me! checks
+m_also checks
+me! bets 85
+m_also folds
+Uncalled bet of 85 returned to me!
+me! wins the pot (32)
+
+Hand #237, me! (295), m_also (-295)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [6d Qs]
+Dealt to m_also [Ks Kc]
+me! folds
+m_also wins the pot (3)
+
+Hand #238, m_also (-294), me! (294)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [7s Ah]
+Dealt to me! [Ac Kc]
+m_also calls
+me! raises to 46
+m_also calls
+*** FLOP *** (92) [2c Qd 9c]
+me! checks
+m_also discards 7s for Ks
+me! bets 2
+m_also calls
+*** TURN *** (96) [2c Qd 9c] [4h]
+me! checks
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (100) [2c Qd 9c 4h] [Ad]
+me! bets 69
+m_also calls
+m_also shows [Ah Ks]
+me! shows [Ac Kc]
+m_also ties for the pot (119)
+me! ties for the pot (119)
+
+Hand #239, me! (294), m_also (-294)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Ah 2c]
+Dealt to m_also [9c 4h]
+me! folds
+m_also wins the pot (3)
+
+Hand #240, m_also (-293), me! (293)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [6c 6d]
+Dealt to me! [2s 7d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Th Qh 6s]
+me! discards 2s for 3d
+m_also checks
+me! bets 2
+m_also raises to 101
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (8)
+
+Hand #241, me! (289), m_also (-289)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Ah Qd]
+Dealt to m_also [2c Ad]
+me! folds
+m_also wins the pot (3)
+
+Hand #242, m_also (-288), me! (288)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [5c Jc]
+Dealt to me! [8s Kc]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [4h Ac 8d]
+me! checks
+m_also discards 5c for 3h
+me! bets 14
+m_also calls
+*** TURN *** (32) [4h Ac 8d] [8c]
+me! checks
+m_also discards 3h for 6c
+me! bets 46
+m_also folds
+Uncalled bet of 46 returned to me!
+me! wins the pot (32)
+
+Hand #243, me! (304), m_also (-304)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Tc 5s]
+Dealt to m_also [9c 7c]
+me! folds
+m_also wins the pot (3)
+
+Hand #244, m_also (-303), me! (303)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Ad 8s]
+Dealt to me! [Jd 2h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [7s Jc Qs]
+me! discards 2h for 4h
+m_also discards 8s for 6c
+me! bets 32
+m_also folds
+Uncalled bet of 32 returned to me!
+me! wins the pot (4)
+
+Hand #245, me! (305), m_also (-305)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Tc 7h]
+Dealt to m_also [Jh 9s]
+me! folds
+m_also wins the pot (3)
+
+Hand #246, m_also (-304), me! (304)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [2c Jc]
+Dealt to me! [Qs Ks]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [3d 8c As]
+me! checks
+m_also discards 2c for Kc
+me! bets 2
+m_also calls
+*** TURN *** (8) [3d 8c As] [Ah]
+me! checks
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (12) [3d 8c As Ah] [Js]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #247, me! (310), m_also (-310)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [2d 7c]
+Dealt to m_also [9d 9c]
+me! folds
+m_also wins the pot (3)
+
+Hand #248, m_also (-309), me! (309)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [9s Qd]
+Dealt to me! [6d Ts]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [As 3c 3d]
+me! discards 6d for 6s
+m_also discards 9s for 7s
+me! bets 2
+m_also calls
+*** TURN *** (8) [As 3c 3d] [9h]
+me! discards 6s for Ks
+m_also discards 7s for 9d
+me! bets 2
+m_also calls
+*** RIVER *** (12) [As 3c 3d 9h] [Kh]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #249, me! (315), m_also (-315)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Kh Jh]
+Dealt to m_also [4s Jd]
+me! folds
+m_also wins the pot (3)
+
+Hand #250, m_also (-314), me! (314)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [2s Jd]
+Dealt to me! [4s 4h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [8c 6c 7c]
+me! checks
+m_also discards 2s for Ad
+me! bets 2
+m_also calls
+*** TURN *** (8) [8c 6c 7c] [3h]
+me! checks
+m_also discards Jd for 7d
+me! bets 2
+m_also calls
+*** RIVER *** (12) [8c 6c 7c 3h] [Qh]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #251, me! (320), m_also (-320)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [9d 8s]
+Dealt to m_also [Kc Jh]
+me! folds
+m_also wins the pot (3)
+
+Hand #252, m_also (-319), me! (319)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [5h 5d]
+Dealt to me! [Jh Ks]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [6h Ts 2s]
+me! checks
+m_also checks
+me! bets 2
+m_also calls
+*** TURN *** (8) [6h Ts 2s] [Tc]
+me! checks
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (12) [6h Ts 2s Tc] [Ac]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #253, me! (325), m_also (-325)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [3h 7d]
+Dealt to m_also [6d Ks]
+me! folds
+m_also wins the pot (3)
+
+Hand #254, m_also (-324), me! (324)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Kc Ks]
+Dealt to me! [4h 7s]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [2h 5s Ts]
+me! discards 4h for Jd
+m_also checks
+me! bets 2
+m_also raises to 101
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (8)
+
+Hand #255, me! (320), m_also (-320)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [9d 4c]
+Dealt to m_also [Qd 4s]
+me! folds
+m_also wins the pot (3)
+
+Hand #256, m_also (-319), me! (319)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Qc 9h]
+Dealt to me! [3h Kd]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Jh 8c 3c]
+me! checks
+m_also discards 9h for 3s
+me! bets 4
+m_also calls
+*** TURN *** (12) [Jh 8c 3c] [Qs]
+me! checks
+m_also checks
+me! bets 2
+m_also raises to 99
+me! folds
+Uncalled bet of 97 returned to m_also
+m_also wins the pot (16)
+
+Hand #257, me! (311), m_also (-311)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [3s Jc]
+Dealt to m_also [Ah 5s]
+me! folds
+m_also wins the pot (3)
+
+Hand #258, m_also (-310), me! (310)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Qh Jc]
+Dealt to me! [7s 4d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [9d Th 7d]
+me! discards 4d for Qc
+m_also discards Qh for 8h
+me! bets 2
+m_also raises to 101
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (8)
+
+Hand #259, me! (306), m_also (-306)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [6h 6c]
+Dealt to m_also [Js 7c]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [Jc 2d 8d]
+m_also checks
+me! checks
+m_also bets 5
+me! calls
+*** TURN *** (18) [Jc 2d 8d] [Ad]
+m_also discards 7c for Kc
+me! checks
+m_also bets 7
+me! calls
+*** RIVER *** (32) [Jc 2d 8d Ad] [Ah]
+m_also bets 184
+me! folds
+Uncalled bet of 184 returned to m_also
+m_also wins the pot (32)
+
+Hand #260, m_also (-290), me! (290)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [8s 2h]
+Dealt to me! [8c 5c]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Js 6c Ks]
+me! discards 5c for Qc
+m_also discards 2h for 4h
+me! bets 2
+m_also calls
+*** TURN *** (8) [Js 6c Ks] [3s]
+me! discards 8c for Ah
+m_also discards 4h for Th
+me! bets 2
+m_also calls
+*** RIVER *** (12) [Js 6c Ks 3s] [Ts]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #261, me! (296), m_also (-296)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [8c Tc]
+Dealt to m_also [Kd Ks]
+me! folds
+m_also wins the pot (3)
+
+Hand #262, m_also (-295), me! (295)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Qh 6h]
+Dealt to me! [Tc 3d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [4c Kc Td]
+me! discards 3d for Js
+m_also discards 6h for 7c
+me! bets 56
+m_also folds
+Uncalled bet of 56 returned to me!
+me! wins the pot (4)
+
+Hand #263, me! (297), m_also (-297)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [8h Td]
+Dealt to m_also [9s Jh]
+me! folds
+m_also wins the pot (3)
+
+Hand #264, m_also (-296), me! (296)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [7c 2d]
+Dealt to me! [Tc Ac]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [6s Ts 7d]
+me! checks
+m_also discards 2d for 4c
+me! bets 63
+m_also folds
+Uncalled bet of 63 returned to me!
+me! wins the pot (4)
+
+Hand #265, me! (298), m_also (-298)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [9d 2c]
+Dealt to m_also [5d 5h]
+me! folds
+m_also wins the pot (3)
+
+Hand #266, m_also (-297), me! (297)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [9d Td]
+Dealt to me! [Jc 5s]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [3d Jd 8s]
+me! discards 5s for 6d
+m_also discards 9d for 8d
+me! bets 16
+m_also calls
+*** TURN *** (36) [3d Jd 8s] [Ac]
+me! discards 6d for 5c
+m_also discards Td for 4h
+me! bets 28
+m_also calls
+*** RIVER *** (92) [3d Jd 8s Ac] [2s]
+me! bets 29
+m_also calls
+m_also shows [8d 4h]
+me! shows [Jc 5c]
+me! wins the pot (150)
+
+Hand #267, me! (372), m_also (-372)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Td 5s]
+Dealt to m_also [Jd 9d]
+me! folds
+m_also wins the pot (3)
+
+Hand #268, m_also (-371), me! (371)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Ah Qd]
+Dealt to me! [Ad 6c]
+m_also calls
+me! raises to 5
+m_also calls
+*** FLOP *** (10) [3h Ts 2s]
+me! discards 6c for Tc
+m_also checks
+me! bets 83
+m_also folds
+Uncalled bet of 83 returned to me!
+me! wins the pot (10)
+
+Hand #269, me! (376), m_also (-376)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Jh 3c]
+Dealt to m_also [2d 6s]
+me! folds
+m_also wins the pot (3)
+
+Hand #270, m_also (-375), me! (375)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [2c Ad]
+Dealt to me! [Th Js]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Ah 8s 7s]
+me! checks
+m_also discards 2c for Ks
+me! bets 2
+m_also raises to 101
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (8)
+
+Hand #271, me! (371), m_also (-371)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Qd 6s]
+Dealt to m_also [6c 6d]
+me! folds
+m_also wins the pot (3)
+
+Hand #272, m_also (-370), me! (370)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [7c 9h]
+Dealt to me! [9d Qs]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [8h Jc Td]
+me! checks
+m_also checks
+me! bets 7
+m_also raises to 106
+me! raises to 198
+m_also calls
+*** TURN *** (400) [8h Jc Td] [Th]
+me! checks
+m_also checks
+*** RIVER *** (400) [8h Jc Td Th] [As]
+m_also shows [7c 9h]
+me! shows [9d Qs]
+me! wins the pot (400)
+
+Hand #273, me! (570), m_also (-570)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [2h 2s]
+Dealt to m_also [9d Jh]
+me! folds
+m_also wins the pot (3)
+
+Hand #274, m_also (-569), me! (569)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [3d 3c]
+Dealt to me! [3h 9s]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Ac 7h 6s]
+me! discards 3h for 6c
+m_also checks
+me! bets 2
+m_also calls
+*** TURN *** (8) [Ac 7h 6s] [Js]
+me! discards 9s for 7d
+m_also checks
+me! bets 16
+m_also calls
+*** RIVER *** (40) [Ac 7h 6s Js] [Th]
+me! bets 180
+m_also folds
+Uncalled bet of 180 returned to me!
+me! wins the pot (40)
+
+Hand #275, me! (589), m_also (-589)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Kd As]
+Dealt to m_also [Qh 5h]
+me! folds
+m_also wins the pot (3)
+
+Hand #276, m_also (-588), me! (588)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Tc Jc]
+Dealt to me! [2c Qc]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Qs 4h 8c]
+me! discards 2c for 8s
+m_also checks
+me! bets 12
+m_also calls
+*** TURN *** (28) [Qs 4h 8c] [3s]
+me! checks
+m_also discards Tc for 3d
+me! bets 57
+m_also folds
+Uncalled bet of 57 returned to me!
+me! wins the pot (28)
+
+Hand #277, me! (602), m_also (-602)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Tc Qs]
+Dealt to m_also [As Ts]
+me! folds
+m_also wins the pot (3)
+
+Hand #278, m_also (-601), me! (601)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Qc 6h]
+Dealt to me! [9d 8c]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [4d Qd Ac]
+me! discards 8c for 3c
+m_also discards 6h for 5s
+me! bets 2
+m_also calls
+*** TURN *** (8) [4d Qd Ac] [Td]
+me! discards 3c for 9s
+m_also discards 5s for Ad
+me! bets 2
+m_also raises to 100
+me! folds
+Uncalled bet of 98 returned to m_also
+m_also wins the pot (12)
+
+Hand #279, me! (595), m_also (-595)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Kh As]
+Dealt to m_also [Kc Th]
+me! folds
+m_also wins the pot (3)
+
+Hand #280, m_also (-594), me! (594)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [3h 7s]
+Dealt to me! [3s 2c]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Js Th 9s]
+me! discards 2c for 6c
+m_also discards 3h for 6d
+me! bets 2
+m_also calls
+*** TURN *** (8) [Js Th 9s] [8h]
+me! checks
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (12) [Js Th 9s 8h] [8c]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #281, me! (600), m_also (-600)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Tc 2c]
+Dealt to m_also [6d 8c]
+me! folds
+m_also wins the pot (3)
+
+Hand #282, m_also (-599), me! (599)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [8c Tc]
+Dealt to me! [As 4c]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [6c 3h 6d]
+me! discards 4c for 7d
+m_also discards 8c for 9d
+me! bets 2
+m_also calls
+*** TURN *** (8) [6c 3h 6d] [5s]
+me! checks
+m_also discards 9d for 7h
+me! bets 2
+m_also calls
+*** RIVER *** (12) [6c 3h 6d 5s] [9c]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #283, me! (605), m_also (-605)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Kh 3c]
+Dealt to m_also [4h 7d]
+me! folds
+m_also wins the pot (3)
+
+Hand #284, m_also (-604), me! (604)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [9c 5d]
+Dealt to me! [4c 7s]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Kc Ad As]
+me! discards 4c for Qh
+m_also discards 5d for 9d
+me! bets 2
+m_also calls
+*** TURN *** (8) [Kc Ad As] [9s]
+me! discards 7s for 9h
+m_also checks
+me! bets 40
+m_also raises to 138
+me! folds
+Uncalled bet of 98 returned to m_also
+m_also wins the pot (88)
+
+Hand #285, me! (560), m_also (-560)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Jh 5d]
+Dealt to m_also [4s 5c]
+me! folds
+m_also wins the pot (3)
+
+Hand #286, m_also (-559), me! (559)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [7c Td]
+Dealt to me! [8c 6d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [7d 5c Ts]
+me! discards 6d for Qc
+m_also checks
+me! bets 2
+m_also raises to 101
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (8)
+
+Hand #287, me! (555), m_also (-555)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Ah Jh]
+Dealt to m_also [Qd 6d]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [5s As 4s]
+m_also discards 6d for 2h
+me! checks
+m_also bets 2
+me! calls
+*** TURN *** (12) [5s As 4s] [8d]
+m_also discards Qd for Jd
+me! checks
+m_also bets 2
+me! calls
+*** RIVER *** (16) [5s As 4s 8d] [2d]
+m_also bets 192
+me! folds
+Uncalled bet of 192 returned to m_also
+m_also wins the pot (16)
+
+Hand #288, m_also (-547), me! (547)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [4d 4h]
+Dealt to me! [2c Jh]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Th 3h 5d]
+me! discards 2c for Kh
+m_also checks
+me! bets 2
+m_also calls
+*** TURN *** (8) [Th 3h 5d] [Ts]
+me! checks
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (12) [Th 3h 5d Ts] [Qc]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #289, me! (553), m_also (-553)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [2c 3c]
+Dealt to m_also [Ad 5h]
+me! folds
+m_also wins the pot (3)
+
+Hand #290, m_also (-552), me! (552)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Th 8d]
+Dealt to me! [5d Ac]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [8s Kc 4h]
+me! discards 5d for 4c
+m_also checks
+me! bets 13
+m_also calls
+*** TURN *** (30) [8s Kc 4h] [Ah]
+me! checks
+m_also discards Th for Kh
+me! bets 73
+m_also raises to 165
+me! folds
+Uncalled bet of 92 returned to m_also
+m_also wins the pot (176)
+
+Hand #291, me! (464), m_also (-464)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [5h 4h]
+Dealt to m_also [Ts Ac]
+me! folds
+m_also wins the pot (3)
+
+Hand #292, m_also (-463), me! (463)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [9d Ac]
+Dealt to me! [8h 8s]
+m_also calls
+me! raises to 47
+m_also calls
+*** FLOP *** (94) [Jd 3h 8c]
+me! checks
+m_also discards 9d for 2d
+me! bets 31
+m_also calls
+*** TURN *** (156) [Jd 3h 8c] [9h]
+me! checks
+m_also discards 2d for Kd
+me! bets 37
+m_also calls
+*** RIVER *** (230) [Jd 3h 8c 9h] [Ad]
+me! bets 28
+m_also calls
+m_also shows [Ac Kd]
+me! shows [8h 8s]
+me! wins the pot (286)
+
+Hand #293, me! (606), m_also (-606)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Ad 8c]
+Dealt to m_also [Qh 7h]
+me! folds
+m_also wins the pot (3)
+
+Hand #294, m_also (-605), me! (605)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [9c 4s]
+Dealt to me! [2d 6c]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Jh 3s 5s]
+me! discards 2d for Jd
+m_also discards 4s for 8h
+me! bets 13
+m_also folds
+Uncalled bet of 13 returned to me!
+me! wins the pot (4)
+
+Hand #295, me! (607), m_also (-607)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [8s Ac]
+Dealt to m_also [8d 3s]
+me! folds
+m_also wins the pot (3)
+
+Hand #296, m_also (-606), me! (606)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [6s Jd]
+Dealt to me! [8d 8s]
+m_also calls
+me! raises to 5
+m_also calls
+*** FLOP *** (10) [5h Td Ts]
+me! checks
+m_also discards 6s for 7c
+me! bets 82
+m_also folds
+Uncalled bet of 82 returned to me!
+me! wins the pot (10)
+
+Hand #297, me! (611), m_also (-611)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [5s Js]
+Dealt to m_also [4s Qc]
+me! folds
+m_also wins the pot (3)
+
+Hand #298, m_also (-610), me! (610)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [3h 8d]
+Dealt to me! [Kc Ah]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Ac 4d 4h]
+me! checks
+m_also discards 3h for Ts
+me! bets 59
+m_also folds
+Uncalled bet of 59 returned to me!
+me! wins the pot (4)
+
+Hand #299, me! (612), m_also (-612)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Ad 9s]
+Dealt to m_also [4c As]
+me! folds
+m_also wins the pot (3)
+
+Hand #300, m_also (-611), me! (611)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [7d 8s]
+Dealt to me! [9d Th]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Kd 6d 9c]
+me! checks
+m_also discards 7d for Kc
+me! bets 65
+m_also raises to 164
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (134)
+
+Hand #301, me! (544), m_also (-544)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [4s Ts]
+Dealt to m_also [7h 4h]
+me! folds
+m_also wins the pot (3)
+
+Hand #302, m_also (-543), me! (543)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Ah Qh]
+Dealt to me! [Tc Ac]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [4c Qc Qs]
+me! checks
+m_also checks
+me! bets 11
+m_also raises to 110
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (26)
+
+Hand #303, me! (530), m_also (-530)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Ks 9c]
+Dealt to m_also [Kd 5c]
+me! folds
+m_also wins the pot (3)
+
+Hand #304, m_also (-529), me! (529)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [3h 2d]
+Dealt to me! [7s 4h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Ts 6d 9d]
+me! discards 4h for 2s
+m_also discards 2d for 3c
+me! bets 2
+m_also calls
+*** TURN *** (8) [Ts 6d 9d] [9s]
+me! discards 2s for Qh
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (12) [Ts 6d 9d 9s] [7h]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #305, me! (535), m_also (-535)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [9d 7d]
+Dealt to m_also [5d 8h]
+me! folds
+m_also wins the pot (3)
+
+Hand #306, m_also (-534), me! (534)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Ac 4c]
+Dealt to me! [6d Kc]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [3c 2c As]
+me! discards 6d for Qs
+m_also checks
+me! bets 2
+m_also calls
+*** TURN *** (8) [3c 2c As] [2d]
+me! checks
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (12) [3c 2c As 2d] [Ks]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #307, me! (540), m_also (-540)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [3d 7h]
+Dealt to m_also [4h 5h]
+me! folds
+m_also wins the pot (3)
+
+Hand #308, m_also (-539), me! (539)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Kd 7d]
+Dealt to me! [5s 9h]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [8s 3h 6s]
+me! discards 5s for Th
+m_also discards 7d for 2d
+me! bets 2
+m_also calls
+*** TURN *** (8) [8s 3h 6s] [8h]
+me! discards 9h for Td
+m_also discards 2d for Ah
+me! bets 38
+m_also folds
+Uncalled bet of 38 returned to me!
+me! wins the pot (8)
+
+Hand #309, me! (543), m_also (-543)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Qc Qd]
+Dealt to m_also [Kh 4s]
+me! calls
+m_also raises to 7
+me! calls
+*** FLOP *** (14) [7s Kc Qh]
+m_also discards 4s for Kd
+me! checks
+m_also bets 4
+me! raises to 100
+m_also raises to 193
+me! calls
+*** TURN *** (400) [7s Kc Qh] [7c]
+m_also checks
+me! checks
+*** RIVER *** (400) [7s Kc Qh 7c] [3h]
+me! shows [Qc Qd]
+m_also shows [Kh Kd]
+m_also wins the pot (400)
+
+Hand #310, m_also (-343), me! (343)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [9s 9d]
+Dealt to me! [7h 7d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [9c As 5s]
+me! checks
+m_also checks
+me! bets 18
+m_also raises to 117
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (40)
+
+Hand #311, me! (323), m_also (-323)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Jh Qd]
+Dealt to m_also [3d 5s]
+me! folds
+m_also wins the pot (3)
+
+Hand #312, m_also (-322), me! (322)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Js 7d]
+Dealt to me! [4c 2c]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Th Jh 5h]
+me! discards 2c for 8d
+m_also checks
+me! bets 2
+m_also calls
+*** TURN *** (8) [Th Jh 5h] [Qc]
+me! discards 4c for 5d
+m_also discards 7d for As
+me! bets 2
+m_also calls
+*** RIVER *** (12) [Th Jh 5h Qc] [3s]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #313, me! (328), m_also (-328)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [9d Ad]
+Dealt to m_also [As 5s]
+me! folds
+m_also wins the pot (3)
+
+Hand #314, m_also (-327), me! (327)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [4d 9d]
+Dealt to me! [7d 6d]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Js 5h 7s]
+me! checks
+m_also discards 4d for 8s
+me! bets 30
+m_also folds
+Uncalled bet of 30 returned to me!
+me! wins the pot (4)
+
+Hand #315, me! (329), m_also (-329)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [9s 9h]
+Dealt to m_also [4s Qd]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [5s Ah 8h]
+m_also discards 4s for Kh
+me! checks
+m_also bets 2
+me! calls
+*** TURN *** (12) [5s Ah 8h] [Jh]
+m_also discards Qd for Js
+me! checks
+m_also bets 29
+me! calls
+*** RIVER *** (70) [5s Ah 8h Jh] [5h]
+m_also bets 19
+me! calls
+me! shows [9s 9h]
+m_also shows [Kh Js]
+m_also wins the pot (108)
+
+Hand #316, m_also (-275), me! (275)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Qh 9h]
+Dealt to me! [4s 5c]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [8h 5h Qs]
+me! discards 4s for Ks
+m_also checks
+me! bets 34
+m_also raises to 133
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (72)
+
+Hand #317, me! (239), m_also (-239)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [3s Ad]
+Dealt to m_also [Ah Ks]
+me! folds
+m_also wins the pot (3)
+
+Hand #318, m_also (-238), me! (238)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Js 6h]
+Dealt to me! [Th Jh]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [8c 5d Ts]
+me! checks
+m_also discards 6h for 9s
+me! bets 49
+m_also folds
+Uncalled bet of 49 returned to me!
+me! wins the pot (4)
+
+Hand #319, me! (240), m_also (-240)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [5c Jc]
+Dealt to m_also [Th 6c]
+me! folds
+m_also wins the pot (3)
+
+Hand #320, m_also (-239), me! (239)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Tc 8d]
+Dealt to me! [6h 4s]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [9h Jd Qc]
+me! discards 4s for 9c
+m_also checks
+me! bets 2
+m_also raises to 101
+me! folds
+Uncalled bet of 99 returned to m_also
+m_also wins the pot (8)
+
+Hand #321, me! (235), m_also (-235)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [3d Ts]
+Dealt to m_also [As 7h]
+me! folds
+m_also wins the pot (3)
+
+Hand #322, m_also (-234), me! (234)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [3c 4c]
+Dealt to me! [Qh 8c]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [Kc 7s 6s]
+me! discards 8c for 2c
+m_also discards 3c for Td
+me! bets 2
+m_also calls
+*** TURN *** (8) [Kc 7s 6s] [6h]
+me! discards 2c for Tc
+m_also discards 4c for As
+me! bets 2
+m_also calls
+*** RIVER *** (12) [Kc 7s 6s 6h] [4d]
+me! bets 194
+m_also folds
+Uncalled bet of 194 returned to me!
+me! wins the pot (12)
+
+Hand #323, me! (240), m_also (-240)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [8h 9c]
+Dealt to m_also [5c Kh]
+me! folds
+m_also wins the pot (3)
+
+Hand #324, m_also (-239), me! (239)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [2c Jh]
+Dealt to me! [Qs Qh]
+m_also calls
+me! raises to 40
+m_also calls
+*** FLOP *** (80) [Qc Ah 8c]
+me! checks
+m_also discards 2c for Kc
+me! bets 59
+m_also calls
+*** TURN *** (198) [Qc Ah 8c] [2h]
+me! checks
+m_also checks
+me! bets 13
+m_also calls
+*** RIVER *** (224) [Qc Ah 8c 2h] [9d]
+me! bets 23
+m_also calls
+m_also shows [Jh Kc]
+me! shows [Qs Qh]
+me! wins the pot (270)
+
+Hand #325, me! (374), m_also (-374)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [6s Ts]
+Dealt to m_also [5d Kc]
+me! folds
+m_also wins the pot (3)
+
+Hand #326, m_also (-373), me! (373)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [3d 8h]
+Dealt to me! [6d Kh]
+m_also calls
+### ILLEGAL ACTION: Fold [player=me!]
+me! checks
+*** FLOP *** (4) [3h 8s Ks]
+me! discards 6d for Qs
+m_also checks
+me! bets 33
+m_also raises to 132
+me! raises to 198
+m_also calls
+*** TURN *** (400) [3h 8s Ks] [4h]
+me! checks
+m_also checks
+*** RIVER *** (400) [3h 8s Ks 4h] [7d]
+m_also shows [3d 8h]
+me! shows [Kh Qs]
+m_also wins the pot (400)
+
+Hand #327, me! (173), m_also (-173)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [4h 5h]
+Dealt to m_also [4s 6c]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [4c 8c 9c]
+m_also checks
+me! discards 5h for 6d
+m_also bets 2
+me! calls
+*** TURN *** (12) [4c 8c 9c] [9s]
+m_also checks
+me! discards 6d for Qh
+m_also bets 2
+me! calls
+*** RIVER *** (16) [4c 8c 9c 9s] [6s]
+m_also bets 192
+me! folds
+Uncalled bet of 192 returned to m_also
+m_also wins the pot (16)
+
+Hand #328, m_also (-165), me! (165)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [4h 9s]
+Dealt to me! [3s 5d]
+m_also calls
+me! raises to 4
+m_also calls
+*** FLOP *** (8) [6h 5h 3h]
+me! checks
+m_also discards 9s for 9h
+me! bets 79
+m_also raises to 177
+me! folds
+Uncalled bet of 98 returned to m_also
+m_also wins the pot (166)
+
+Hand #329, me! (82), m_also (-82)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [As Ad]
+Dealt to m_also [Kd 6s]
+me! calls
+m_also raises to 15
+me! calls
+*** FLOP *** (30) [Kc 3d Ts]
+m_also discards 6s for 5h
+me! checks
+m_also bets 49
+me! raises to 141
+m_also calls
+*** TURN *** (312) [Kc 3d Ts] [Jh]
+m_also discards 5h for Kh
+me! checks
+m_also bets 4
+me! calls
+*** RIVER *** (320) [Kc 3d Ts Jh] [6d]
+m_also bets 2
+me! calls
+me! shows [As Ad]
+m_also shows [Kd Kh]
+m_also wins the pot (324)
+
+Hand #330, m_also (80), me! (-80)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [3s Qc]
+Dealt to me! [3h 6c]
+m_also calls
+me! raises to 4
+m_also calls
+*** FLOP *** (8) [Td Th 5s]
+me! discards 3h for 3d
+m_also discards 3s for 4c
+me! bets 2
+m_also calls
+*** TURN *** (12) [Td Th 5s] [6d]
+me! discards 3d for 4s
+m_also discards 4c for 9c
+me! bets 8
+m_also calls
+*** RIVER *** (28) [Td Th 5s 6d] [2s]
+me! bets 186
+m_also folds
+Uncalled bet of 186 returned to me!
+me! wins the pot (28)
+
+Hand #331, me! (-66), m_also (66)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Qs 7c]
+Dealt to m_also [8h 9h]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [3c 3s 6d]
+m_also discards 8h for Th
+me! discards 7c for 2c
+m_also bets 2
+me! calls
+*** TURN *** (12) [3c 3s 6d] [Jd]
+m_also discards 9h for Qd
+me! discards 2c for Ad
+m_also bets 2
+me! calls
+*** RIVER *** (16) [3c 3s 6d Jd] [Ks]
+m_also bets 192
+me! folds
+Uncalled bet of 192 returned to m_also
+m_also wins the pot (16)
+
+Hand #332, m_also (74), me! (-74)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Tc Qd]
+Dealt to me! [3h 9d]
+m_also calls
+me! raises to 4
+m_also calls
+*** FLOP *** (8) [7s 8c 6c]
+me! discards 3h for Qh
+m_also discards Qd for 9h
+me! bets 2
+m_also raises to 100
+me! folds
+Uncalled bet of 98 returned to m_also
+m_also wins the pot (12)
+
+Hand #333, me! (-80), m_also (80)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [5h 8c]
+Dealt to m_also [5d 7s]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [3d Qs Ac]
+m_also discards 5d for As
+me! discards 5h for Jd
+m_also bets 97
+me! folds
+Uncalled bet of 97 returned to m_also
+m_also wins the pot (8)
+
+Hand #334, m_also (84), me! (-84)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [8c Tc]
+Dealt to me! [Qc Ad]
+m_also calls
+me! raises to 28
+m_also calls
+*** FLOP *** (56) [Jc 4c As]
+me! checks
+m_also discards 8c for 4h
+me! bets 42
+m_also calls
+*** TURN *** (140) [Jc 4c As] [7s]
+me! checks
+m_also discards Tc for 5h
+me! bets 17
+m_also calls
+*** RIVER *** (174) [Jc 4c As 7s] [Ks]
+me! bets 14
+m_also calls
+m_also shows [4h 5h]
+me! shows [Qc Ad]
+me! wins the pot (202)
+
+Hand #335, me! (17), m_also (-17)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [3h Ad]
+Dealt to m_also [4c 5d]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [Qd 7d 9c]
+m_also discards 4c for 2c
+me! discards 3h for Kc
+m_also bets 2
+me! calls
+*** TURN *** (12) [Qd 7d 9c] [6c]
+m_also discards 2c for 2h
+me! checks
+m_also bets 2
+me! calls
+*** RIVER *** (16) [Qd 7d 9c 6c] [3d]
+m_also bets 192
+me! folds
+Uncalled bet of 192 returned to m_also
+m_also wins the pot (16)
+
+Hand #336, m_also (-9), me! (9)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Ts 8h]
+Dealt to me! [7h 9c]
+m_also calls
+me! raises to 4
+m_also calls
+*** FLOP *** (8) [As Js 5d]
+me! discards 7h for 7d
+m_also discards 8h for Jh
+me! bets 2
+m_also calls
+*** TURN *** (12) [As Js 5d] [2c]
+me! discards 7d for 6d
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (16) [As Js 5d 2c] [3s]
+me! bets 192
+m_also folds
+Uncalled bet of 192 returned to me!
+me! wins the pot (16)
+
+Hand #337, me! (17), m_also (-17)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [2h Ah]
+Dealt to m_also [Ks 8h]
+me! calls
+m_also raises to 4
+me! calls
+*** FLOP *** (8) [4s 4c 2d]
+m_also discards 8h for Td
+me! checks
+m_also bets 2
+me! calls
+*** TURN *** (12) [4s 4c 2d] [9h]
+m_also discards Td for Tc
+me! checks
+m_also bets 2
+me! calls
+*** RIVER *** (16) [4s 4c 2d 9h] [Kh]
+m_also bets 192
+me! folds
+Uncalled bet of 192 returned to m_also
+m_also wins the pot (16)
+
+Hand #338, m_also (-9), me! (9)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Kd 4d]
+Dealt to me! [3d 4s]
+m_also calls
+me! raises to 4
+m_also calls
+*** FLOP *** (8) [5h Qs Kh]
+me! discards 3d for Ah
+m_also discards 4d for 7d
+me! bets 2
+m_also calls
+*** TURN *** (12) [5h Qs Kh] [7s]
+me! discards 4s for Qc
+m_also checks
+me! bets 90
+m_also raises to 187
+me! folds
+Uncalled bet of 97 returned to m_also
+m_also wins the pot (192)
+
+Hand #339, me! (-87), m_also (87)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [2c 9h]
+Dealt to m_also [3d 3h]
+me! calls
+m_also raises to 31
+me! calls
+*** FLOP *** (62) [Tc Qc As]
+m_also checks
+me! discards 2c for 9s
+m_also bets 2
+me! calls
+*** TURN *** (66) [Tc Qc As] [8s]
+m_also checks
+me! checks
+m_also bets 2
+me! calls
+*** RIVER *** (70) [Tc Qc As 8s] [Ad]
+m_also bets 2
+me! calls
+me! shows [9h 9s]
+m_also shows [3d 3h]
+me! wins the pot (74)
+
+Hand #340, m_also (50), me! (-50)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [2c 7c]
+Dealt to me! [2s 7h]
+m_also calls
+me! raises to 4
+m_also calls
+*** FLOP *** (8) [8h 7s 8c]
+me! discards 2s for 2h
+m_also discards 2c for Js
+me! bets 21
+m_also calls
+*** TURN *** (50) [8h 7s 8c] [Ks]
+me! discards 2h for 6s
+m_also discards Js for 8s
+me! bets 18
+m_also raises to 105
+me! folds
+Uncalled bet of 87 returned to m_also
+m_also wins the pot (86)
+
+Hand #341, me! (-93), m_also (93)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [8s Th]
+Dealt to m_also [7s Qh]
+me! calls
+m_also raises to 44
+me! calls
+*** FLOP *** (88) [8h 3d Qc]
+m_also checks
+me! checks
+m_also bets 29
+me! calls
+*** TURN *** (146) [8h 3d Qc] [Ac]
+m_also discards 7s for 5h
+me! discards Th for 2d
+m_also bets 31
+me! calls
+*** RIVER *** (208) [8h 3d Qc Ac] [6c]
+m_also bets 10
+me! calls
+me! shows [8s 2d]
+m_also shows [Qh 5h]
+m_also wins the pot (228)
+
+Hand #342, m_also (207), me! (-207)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [6c Ks]
+Dealt to me! [3d 8s]
+m_also folds
+me! wins the pot (3)
+
+Hand #343, me! (-206), m_also (206)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [6h 3h]
+Dealt to m_also [5c 2h]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [5d 5s 9c]
+m_also discards 2h for Qh
+me! discards 3h for 6c
+m_also bets 17
+me! calls
+*** TURN *** (38) [5d 5s 9c] [2s]
+m_also checks
+me! checks
+m_also bets 25
+me! calls
+*** RIVER *** (88) [5d 5s 9c 2s] [8s]
+m_also bets 52
+me! calls
+me! shows [6h 6c]
+m_also shows [5c Qh]
+m_also wins the pot (192)
+
+Hand #344, m_also (302), me! (-302)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Qc 5c]
+Dealt to me! [Kh 6s]
+m_also folds
+me! wins the pot (3)
+
+Hand #345, me! (-301), m_also (301)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [2c Td]
+Dealt to m_also [9s 5d]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [Ks 3d 4d]
+m_also discards 5d for Jd
+me! discards 2c for 9c
+m_also bets 2
+me! calls
+*** TURN *** (8) [Ks 3d 4d] [2d]
+m_also discards 9s for 5c
+me! discards 9c for 2s
+m_also bets 2
+me! calls
+*** RIVER *** (12) [Ks 3d 4d 2d] [Ts]
+m_also bets 194
+me! folds
+Uncalled bet of 194 returned to m_also
+m_also wins the pot (12)
+
+Hand #346, m_also (307), me! (-307)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Qc 4d]
+Dealt to me! [6h 3h]
+m_also folds
+me! wins the pot (3)
+
+Hand #347, me! (-306), m_also (306)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Tc 3d]
+Dealt to m_also [2s 9c]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [4c Js 4s]
+m_also discards 2s for 8h
+me! discards 3d for Ad
+m_also bets 2
+me! calls
+*** TURN *** (8) [4c Js 4s] [6c]
+m_also discards 8h for 5h
+me! discards Tc for 7c
+m_also bets 2
+me! calls
+*** RIVER *** (12) [4c Js 4s 6c] [5c]
+m_also bets 194
+me! folds
+Uncalled bet of 194 returned to m_also
+m_also wins the pot (12)
+
+Hand #348, m_also (312), me! (-312)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [4s 7c]
+Dealt to me! [6d Jh]
+m_also folds
+me! wins the pot (3)
+
+Hand #349, me! (-311), m_also (311)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [2s 9c]
+Dealt to m_also [4d Ac]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [Ad 5d 6d]
+m_also checks
+me! discards 2s for 9h
+m_also bets 34
+me! calls
+*** TURN *** (72) [Ad 5d 6d] [6h]
+m_also checks
+me! checks
+m_also bets 74
+me! folds
+Uncalled bet of 74 returned to m_also
+m_also wins the pot (72)
+
+Hand #350, m_also (347), me! (-347)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Qs 7c]
+Dealt to me! [7s 8d]
+m_also folds
+me! wins the pot (3)
+
+Hand #351, me! (-346), m_also (346)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [6d Ah]
+Dealt to m_also [8d 3s]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [2h Qs Ks]
+m_also discards 3s for 5s
+me! discards 6d for 4s
+m_also bets 2
+me! calls
+*** TURN *** (8) [2h Qs Ks] [Qd]
+m_also discards 5s for Ts
+me! discards 4s for 5d
+m_also bets 2
+me! calls
+*** RIVER *** (12) [2h Qs Ks Qd] [2d]
+m_also bets 194
+me! folds
+Uncalled bet of 194 returned to m_also
+m_also wins the pot (12)
+
+Hand #352, m_also (352), me! (-352)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [4h 2d]
+Dealt to me! [As 8c]
+m_also folds
+me! wins the pot (3)
+
+Hand #353, me! (-351), m_also (351)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [8h 9h]
+Dealt to m_also [5c 2d]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [9d Th Jh]
+m_also discards 2d for Td
+me! checks
+m_also bets 46
+me! folds
+Uncalled bet of 46 returned to m_also
+m_also wins the pot (4)
+
+Hand #354, m_also (353), me! (-353)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [2d Js]
+Dealt to me! [3s 3h]
+m_also folds
+me! wins the pot (3)
+
+Hand #355, me! (-352), m_also (352)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Kh 5h]
+Dealt to m_also [Kc 6d]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [Qc 4c Qd]
+m_also discards 6d for 6c
+me! discards 5h for Td
+m_also bets 2
+me! calls
+*** TURN *** (8) [Qc 4c Qd] [8h]
+m_also discards 6c for 7h
+me! checks
+m_also bets 2
+me! calls
+*** RIVER *** (12) [Qc 4c Qd 8h] [3h]
+m_also bets 194
+me! folds
+Uncalled bet of 194 returned to m_also
+m_also wins the pot (12)
+
+Hand #356, m_also (358), me! (-358)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [2s 8c]
+Dealt to me! [Ad Js]
+m_also folds
+me! wins the pot (3)
+
+Hand #357, me! (-357), m_also (357)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Ac 5d]
+Dealt to m_also [Qc Th]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [4h Ah Qs]
+m_also checks
+me! discards 5d for 7d
+m_also bets 90
+me! raises to 189
+m_also folds
+Uncalled bet of 99 returned to me!
+me! wins the pot (184)
+
+Hand #358, m_also (265), me! (-265)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [3s Ac]
+Dealt to me! [Js Ah]
+m_also folds
+me! wins the pot (3)
+
+Hand #359, me! (-264), m_also (264)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [4c Jc]
+Dealt to m_also [3s Qs]
+me! calls
+m_also raises to 26
+me! calls
+*** FLOP *** (52) [7s 4s 3d]
+m_also checks
+me! checks
+m_also bets 2
+me! calls
+*** TURN *** (56) [7s 4s 3d] [Kd]
+m_also checks
+me! checks
+m_also bets 2
+me! calls
+*** RIVER *** (60) [7s 4s 3d Kd] [Ad]
+m_also bets 170
+me! folds
+Uncalled bet of 170 returned to m_also
+m_also wins the pot (60)
+
+Hand #360, m_also (294), me! (-294)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Td Ac]
+Dealt to me! [Ah 7d]
+m_also folds
+me! wins the pot (3)
+
+Hand #361, me! (-293), m_also (293)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [8s 3d]
+Dealt to m_also [Qs Ad]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [8c 6d Ac]
+m_also checks
+me! discards 3d for As
+m_also bets 72
+me! raises to 171
+m_also folds
+Uncalled bet of 99 returned to me!
+me! wins the pot (148)
+
+Hand #362, m_also (219), me! (-219)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [8d 8c]
+Dealt to me! [As Qd]
+m_also calls
+me! raises to 5
+m_also calls
+*** FLOP *** (10) [5h Jc 6d]
+me! checks
+m_also checks
+me! bets 2
+m_also calls
+*** TURN *** (14) [5h Jc 6d] [5s]
+me! checks
+m_also checks
+me! bets 2
+m_also calls
+*** RIVER *** (18) [5h Jc 6d 5s] [4h]
+me! bets 191
+m_also folds
+Uncalled bet of 191 returned to me!
+me! wins the pot (18)
+
+Hand #363, me! (-210), m_also (210)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [7c 4h]
+Dealt to m_also [8h 2h]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [Qc 4d Qd]
+m_also discards 2h for Qs
+me! discards 7c for Kd
+m_also bets 81
+me! calls
+*** TURN *** (166) [Qc 4d Qd] [7h]
+m_also checks
+me! checks
+m_also bets 39
+me! calls
+*** RIVER *** (244) [Qc 4d Qd 7h] [5s]
+m_also bets 22
+me! calls
+me! shows [4h Kd]
+m_also shows [8h Qs]
+m_also wins the pot (288)
+
+Hand #364, m_also (354), me! (-354)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Tc Qd]
+Dealt to me! [6h Ad]
+m_also folds
+me! wins the pot (3)
+
+Hand #365, me! (-353), m_also (353)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Kc Jd]
+Dealt to m_also [8s 6s]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [5d Jc Qd]
+m_also discards 6s for 3d
+me! checks
+m_also bets 2
+me! calls
+*** TURN *** (8) [5d Jc Qd] [6c]
+m_also discards 3d for 2s
+me! checks
+m_also bets 2
+me! calls
+*** RIVER *** (12) [5d Jc Qd 6c] [5c]
+m_also bets 194
+me! folds
+Uncalled bet of 194 returned to m_also
+m_also wins the pot (12)
+
+Hand #366, m_also (359), me! (-359)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [As Jd]
+Dealt to me! [Qc 8d]
+m_also folds
+me! wins the pot (3)
+
+Hand #367, me! (-358), m_also (358)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [8h Jh]
+Dealt to m_also [6s 9c]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [Kd 8d 3c]
+m_also discards 6s for 4h
+me! checks
+m_also bets 2
+me! calls
+*** TURN *** (8) [Kd 8d 3c] [7h]
+m_also discards 4h for Qc
+me! checks
+m_also bets 2
+me! calls
+*** RIVER *** (12) [Kd 8d 3c 7h] [Jd]
+m_also bets 194
+me! folds
+Uncalled bet of 194 returned to m_also
+m_also wins the pot (12)
+
+Hand #368, m_also (364), me! (-364)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [3d 8d]
+Dealt to me! [8c 5d]
+m_also folds
+me! wins the pot (3)
+
+Hand #369, me! (-363), m_also (363)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [As 6s]
+Dealt to m_also [9h Qc]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [7h 7s Jd]
+m_also discards 9h for 9d
+me! discards 6s for Ts
+m_also bets 2
+me! calls
+*** TURN *** (8) [7h 7s Jd] [4h]
+m_also discards 9d for Tc
+me! discards Ts for Ad
+m_also bets 2
+me! calls
+*** RIVER *** (12) [7h 7s Jd 4h] [3d]
+m_also bets 194
+me! folds
+Uncalled bet of 194 returned to m_also
+m_also wins the pot (12)
+
+Hand #370, m_also (369), me! (-369)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Qd Ah]
+Dealt to me! [6d 3h]
+m_also folds
+me! wins the pot (3)
+
+Hand #371, me! (-368), m_also (368)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Qd 7c]
+Dealt to m_also [Jh 4s]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [Ts 4h 7h]
+m_also checks
+me! checks
+m_also bets 2
+me! calls
+*** TURN *** (8) [Ts 4h 7h] [6s]
+m_also discards Jh for 9h
+me! checks
+m_also bets 2
+me! calls
+*** RIVER *** (12) [Ts 4h 7h 6s] [8s]
+m_also bets 194
+me! folds
+Uncalled bet of 194 returned to m_also
+m_also wins the pot (12)
+
+Hand #372, m_also (374), me! (-374)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Ts 3s]
+Dealt to me! [Kh Jc]
+m_also folds
+me! wins the pot (3)
+
+Hand #373, me! (-373), m_also (373)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [4s 4d]
+Dealt to m_also [Ts 9h]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [Qd 8s 5c]
+m_also discards 9h for 8d
+me! checks
+m_also bets 58
+me! folds
+Uncalled bet of 58 returned to m_also
+m_also wins the pot (4)
+
+Hand #374, m_also (375), me! (-375)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Jh 6d]
+Dealt to me! [2d 7h]
+m_also folds
+me! wins the pot (3)
+
+Hand #375, me! (-374), m_also (374)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Ad Ts]
+Dealt to m_also [5s 7s]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [Jd Qc 5d]
+m_also discards 7s for 5h
+me! checks
+m_also bets 77
+me! folds
+Uncalled bet of 77 returned to m_also
+m_also wins the pot (4)
+
+Hand #376, m_also (376), me! (-376)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [7d 4c]
+Dealt to me! [9s 7c]
+m_also folds
+me! wins the pot (3)
+
+Hand #377, me! (-375), m_also (375)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [7h Kd]
+Dealt to m_also [Ah 3c]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [5d 8d Ad]
+m_also discards 3c for Qd
+me! discards 7h for 9d
+m_also bets 82
+me! raises to 181
+m_also folds
+Uncalled bet of 99 returned to me!
+me! wins the pot (168)
+
+Hand #378, m_also (291), me! (-291)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Ah Qd]
+Dealt to me! [Js 8c]
+m_also folds
+me! wins the pot (3)
+
+Hand #379, me! (-290), m_also (290)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [7s Jd]
+Dealt to m_also [6s Kh]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [Ts 6c 5d]
+m_also checks
+me! discards 7s for 3h
+m_also bets 11
+me! folds
+Uncalled bet of 11 returned to m_also
+m_also wins the pot (4)
+
+Hand #380, m_also (292), me! (-292)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Js 4s]
+Dealt to me! [3s 4c]
+m_also folds
+me! wins the pot (3)
+
+Hand #381, me! (-291), m_also (291)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [6c Kd]
+Dealt to m_also [3h 8d]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [Js 7h Qd]
+m_also discards 3h for 8h
+me! discards 6c for 4s
+m_also bets 37
+me! folds
+Uncalled bet of 37 returned to m_also
+m_also wins the pot (4)
+
+Hand #382, m_also (293), me! (-293)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [4c 8s]
+Dealt to me! [5d 3c]
+m_also folds
+me! wins the pot (3)
+
+Hand #383, me! (-292), m_also (292)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [6c 9h]
+Dealt to m_also [Kc 3h]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [2s Ac 6d]
+m_also discards 3h for 3s
+me! checks
+m_also bets 2
+me! calls
+*** TURN *** (8) [2s Ac 6d] [4d]
+m_also checks
+me! checks
+m_also bets 2
+me! calls
+*** RIVER *** (12) [2s Ac 6d 4d] [4s]
+m_also bets 194
+me! folds
+Uncalled bet of 194 returned to m_also
+m_also wins the pot (12)
+
+Hand #384, m_also (298), me! (-298)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [8c 7h]
+Dealt to me! [Ts 4d]
+m_also folds
+me! wins the pot (3)
+
+Hand #385, me! (-297), m_also (297)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Kh Qd]
+Dealt to m_also [4s 6h]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [Tc Kc Ad]
+m_also discards 4s for Qs
+me! checks
+m_also bets 2
+me! calls
+*** TURN *** (8) [Tc Kc Ad] [8h]
+m_also discards 6h for Ah
+me! checks
+m_also bets 32
+me! calls
+*** RIVER *** (72) [Tc Kc Ad 8h] [Ts]
+m_also bets 72
+me! calls
+me! shows [Kh Qd]
+m_also shows [Qs Ah]
+m_also wins the pot (216)
+
+Hand #386, m_also (405), me! (-405)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [As Qh]
+Dealt to me! [7h Ac]
+m_also folds
+me! wins the pot (3)
+
+Hand #387, me! (-404), m_also (404)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [4d 7h]
+Dealt to m_also [Ac Ts]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [7c Td 5s]
+m_also checks
+me! discards 4d for Qc
+m_also bets 14
+me! calls
+*** TURN *** (32) [7c Td 5s] [Th]
+m_also checks
+me! checks
+m_also bets 2
+me! calls
+*** RIVER *** (36) [7c Td 5s Th] [2d]
+m_also bets 182
+me! folds
+Uncalled bet of 182 returned to m_also
+m_also wins the pot (36)
+
+Hand #388, m_also (422), me! (-422)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [7c Jh]
+Dealt to me! [3c 9c]
+m_also folds
+me! wins the pot (3)
+
+Hand #389, me! (-421), m_also (421)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [7c 2d]
+Dealt to m_also [Jd 3h]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [4h 8h 2s]
+m_also discards 3h for 7d
+me! discards 7c for Jh
+m_also bets 2
+me! calls
+*** TURN *** (8) [4h 8h 2s] [Qc]
+m_also discards 7d for 8c
+me! checks
+m_also bets 48
+me! folds
+Uncalled bet of 48 returned to m_also
+m_also wins the pot (8)
+
+Hand #390, m_also (425), me! (-425)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [Qs 6s]
+Dealt to me! [7h Ah]
+m_also folds
+me! wins the pot (3)
+
+Hand #391, me! (-424), m_also (424)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [6s Jh]
+Dealt to m_also [Kc 2h]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [9h 2d Qc]
+m_also checks
+me! discards 6s for 6h
+m_also bets 2
+me! calls
+*** TURN *** (8) [9h 2d Qc] [Td]
+m_also checks
+me! discards 6h for 8c
+m_also bets 2
+me! raises to 100
+m_also folds
+Uncalled bet of 98 returned to me!
+me! wins the pot (12)
+
+Hand #392, m_also (418), me! (-418)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [4c Jd]
+Dealt to me! [Jc Tc]
+m_also folds
+me! wins the pot (3)
+
+Hand #393, me! (-417), m_also (417)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [5s 2c]
+Dealt to m_also [5d Kd]
+me! calls
+### ILLEGAL ACTION: Fold [player=m_also]
+m_also checks
+*** FLOP *** (4) [Td 7s 6c]
+m_also discards 5d for 2h
+me! discards 2c for 8s
+m_also bets 2
+me! calls
+*** TURN *** (8) [Td 7s 6c] [3h]
+m_also discards 2h for Kc
+me! checks
+m_also bets 13
+me! folds
+Uncalled bet of 13 returned to m_also
+m_also wins the pot (8)
+
+Hand #394, m_also (421), me! (-421)
+m_also posts the blind of 1
+me! posts the blind of 2
+Dealt to m_also [As 9h]
+Dealt to me! [7h 7c]
+m_also folds
+me! wins the pot (3)
+
+Hand #395, me! (-420), m_also (420)
+me! posts the blind of 1
+m_also posts the blind of 2
+Dealt to me! [Jd Js]
+Dealt to m_also [9d 9s]
+me! calls
+m_also raises to 34
+me! calls
+*** FLOP *** (68) [2s Qs Qc]
+m_also checks
+me! checks
+m_also bets 28
+me! calls
+*** TURN *** (124) [2s Qs Qc] [As]
+m_also checks
+me! checks
+m_also bets 20
+me! calls
+*** RIVER *** (164) [2s Qs Qc As] [7s]

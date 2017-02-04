@@ -42,7 +42,8 @@ class Player:
 
         # QUIT WHILE YOU'RE AHEAD FUNCTION ! **************
             quitWhileAheadMode =  myBank > myStack
-            winMode = myBank > 1.5*(numHands-handID)
+            #winMode = myBank > 1.5*(numHands-handID)
+            winMode = myBank > 10*(numHands-handID)
             onEdgeMode = myBank < handID-numHands
             #print quitWhileAheadMode
             if winMode:
