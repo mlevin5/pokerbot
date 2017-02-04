@@ -60,10 +60,13 @@ class Player:
                 myBank = d.myBank
                 startingHandRank = d.startingHandRank
                 handID = d.handID
+                totalOppBet = 0
+                totalMyBets = 0
             elif word == "GETACTION":
 
                 actionType = d.actionType
                 handRank = d.handRank
+
 
                 # opponent checked
                 if actionType == "CHECK BET/RAISE":
@@ -73,14 +76,20 @@ class Player:
                                        100, # preflop, medium bet/raise
                                        52] # preflop, small bet/raise
                     else:
-                        bettingNums = [93, # postflop, go all in 
-                                       90, # postflop, large bet/raise
+                        bettingNums = [101, # postflop, go all in 
+                                       101, # postflop, large bet/raise
                                        80, # postflop, medium bet/raise
                                        70] # postflop, small bet/raise 
                     if (quitWhileAheadMode or onEdgeMode) and handRank < quitRank and len(d.board) == 0:
+                        bet = 0
                         s.send("FOLD\n")
+                    elif len(d.board) == 5 and totalOppBet <= 5 and totalMyBets <= 30:
+                        bet = d.maxBet
+                        s.send(d.betOrRaise+":"+str(bet)+"\n")
+                        print "all in bb"
                     elif handRank >= bettingNums[0]: # all in
-                        s.send(d.betOrRaise+":"+str(d.maxBet)+"\n")
+                        bet = d.maxBet
+                        s.send(d.betOrRaise+":"+str(bet)+"\n")
                         print "all in bb"
                     elif handRank >= bettingNums[1]:
                         bet = bc.getBetAmount("LARGE",d.maxBet,d.minBet)
@@ -92,7 +101,9 @@ class Player:
                         bet = bc.getBetAmount("SMALL",d.maxBet,d.minBet)
                         s.send(d.betOrRaise+":"+str(bet)+"\n")
                     else:
-                        s.send(d.betOrRaise+":"+str(d.minBet)+"\n") 
+                        bet = d.minBet
+                        s.send(d.betOrRaise+":"+str(bet)+"\n") 
+                    totalMyBets+=bet
 
                 # discard round
                 elif actionType == "CHECK DISCARD DISCARD":
@@ -100,6 +111,8 @@ class Player:
 
                 # opponent bet and it wasnt all-in
                 elif actionType == "FOLD CALL RAISE" or actionType == "FOLD CALL": 
+                    totalOppBet += d.oppBet
+
                     if len(d.board) == 0:
                         bettingNums = [100, # preflop, rank to raise on a bet
                                        52, # preflop, rank to call a bet
