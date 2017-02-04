@@ -68,10 +68,10 @@ class Player:
                 # opponent checked
                 if actionType == "CHECK BET/RAISE":
                     if len(d.board) == 0:  # range for preflop: 61 to 40
-                        bettingNums = [54, # preflop, go all in 
-                                       53, # preflop, large bet/raise
-                                       52, # preflop, medium bet/raise
-                                       51] # preflop, small bet/raise
+                        bettingNums = [70, # preflop, go all in 
+                                       70, # preflop, large bet/raise
+                                       54, # preflop, medium bet/raise
+                                       53] # preflop, small bet/raise
                     else:
                         bettingNums = [90, # postflop, go all in 
                                        85, # postflop, large bet/raise

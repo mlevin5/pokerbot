@@ -57,7 +57,7 @@ class Player:
                 handRank = d.handRank
 
                 # opponent checked
-                if actionType == "CHECK BET/RAISE":
+                if actionType == "CHECK BET/RAISE": #starting round
                     s.send("RAISE:200\n")
 
                 # discard round
@@ -65,7 +65,7 @@ class Player:
                     s.send(d.shouldDiscard)
 
                 # opponent bet and it wasnt all-in
-                elif actionType == "FOLD CALL RAISE" or actionType == "FOLD CALL": 
+                elif actionType == "FOLD CALL RAISE" or actionType == "FOLD CALL": #starting round
                     s.send("CALL\n")
 # shitty hand (30% ish)
 # raise on pre flop

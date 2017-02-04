@@ -42,7 +42,7 @@ class FindBestStartingHand:
 def main():
 	f = FindBestStartingHand()
 	f.parse()
-#main()
+main()
 
 
 
