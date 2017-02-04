@@ -53,6 +53,7 @@ class DataParser:
                 elif a.action == "POST":
                     if a.player == self.oppName:
                         self.oppBet = float(a.amount)
+                # GETACTION 319 3 3d 3s 3c 2 BET:2:me! RAISE:29:random 3 FOLD CALL RAISE:56:56 99.83093758099999
                 #if action.player == self.myName:
                 #    if action.action == "BET":
                 #        pass
@@ -120,6 +121,8 @@ class DataParser:
                 self.maxRaise = float(r[2])
                 for a in lastActions:
                     if a.action == "BET" and a.player == self.oppName:
+                        self.oppBet = float(a.amount)
+                    if a.action == "RAISE" and a.player == self.oppName:
                         self.oppBet = float(a.amount)
                 self.actionType = "FOLD CALL RAISE"
 

@@ -104,7 +104,7 @@ class PercentWin:
 			discardPercent[0] = 0.0
 		discPercs = [(discardPercent[1], self.hand[0]),
 					 (discardPercent[0], self.hand[1])]
-		print discPercs
+		#print discPercs
 		if discPercs[0][0] > discPercs[1][0]:
 			discardThisCard = discPercs[0]
 		elif discPercs[0][0] < discPercs[1][0]:
@@ -122,7 +122,7 @@ class PercentWin:
 
 
 	def discardLoop(self, handCard, myHandRank):
-		print myHandRank
+		#print myHandRank
 		numWinsForNewHand = 0
 		total = 0
 		protect = False
@@ -130,7 +130,7 @@ class PercentWin:
 			if handCard != replacementCard:
 				newHandDiscard = [handCard.evalCard, replacementCard.evalCard]
 				thisHandRank = self.evaluator.evaluate(self.evalBoard, newHandDiscard)
-				print thisHandRank, replacementCard, handCard
+				#print thisHandRank, replacementCard, handCard
 				if thisHandRank <= 1609:
 					protect = True
 				if thisHandRank - 3 <= myHandRank:
@@ -145,13 +145,12 @@ class PercentWin:
 # FIX THIS ONE PART OF THIS:
 # KEEP A VERY STRONG STARTING HAND ~ALMOST~ NO MATTER WHAT
 """
-*** TURN *** (400) [9d Qs Ks] [2h]
-8c kc
+[8c 9h 4c] [Kh]
 """
 
 def main():
-	pw1 = PercentWin([myCard("9c"),myCard("Qs"),myCard("Ks"),myCard("2h")],
-		[myCard("8c"),myCard("Kc")])
+	pw1 = PercentWin([myCard("8c"),myCard("9h"),myCard("4c"),myCard("Kh")],
+		[myCard("Jh"),myCard("Ks")])
 	# worst straight: 1609
 	# best straight: 1600
 	# worst flush: 1599

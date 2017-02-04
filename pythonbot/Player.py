@@ -67,20 +67,21 @@ class Player:
 
                 # opponent checked
                 if actionType == "CHECK BET/RAISE":
-                    if len(d.board) == 0:  # range for preflop: 61 to 40
-                        bettingNums = [70, # preflop, go all in 
-                                       70, # preflop, large bet/raise
-                                       54, # preflop, medium bet/raise
-                                       53] # preflop, small bet/raise
+                    if len(d.board) == 0:  # range for preflop: 78 to 26
+                        bettingNums = [100, # preflop, go all in 
+                                       100, # preflop, large bet/raise
+                                       100, # preflop, medium bet/raise
+                                       52] # preflop, small bet/raise
                     else:
-                        bettingNums = [90, # postflop, go all in 
-                                       85, # postflop, large bet/raise
-                                       75, # postflop, medium bet/raise
+                        bettingNums = [93, # postflop, go all in 
+                                       90, # postflop, large bet/raise
+                                       80, # postflop, medium bet/raise
                                        70] # postflop, small bet/raise 
                     if (quitWhileAheadMode or onEdgeMode) and handRank < quitRank and len(d.board) == 0:
                         s.send("FOLD\n")
                     elif handRank >= bettingNums[0]: # all in
                         s.send(d.betOrRaise+":"+str(d.maxBet)+"\n")
+                        print "all in bb"
                     elif handRank >= bettingNums[1]:
                         bet = bc.getBetAmount("LARGE",d.maxBet,d.minBet)
                         s.send(d.betOrRaise+":"+str(bet)+"\n")
@@ -100,11 +101,15 @@ class Player:
                 # opponent bet and it wasnt all-in
                 elif actionType == "FOLD CALL RAISE" or actionType == "FOLD CALL": 
                     if len(d.board) == 0:
-                        bettingNums = [54, # preflop, rank to raise on a bet
-                                       50] # preflop, rank to call a bet
+                        bettingNums = [100, # preflop, rank to raise on a bet
+                                       52, # preflop, rank to call a bet
+                                       53,
+                                       52]
                     else:
-                        bettingNums = [90, # postflop, rank to raise on a bet
-                                       85] # postflop, rank to call a bet
+                        bettingNums = [93, # postflop, rank to raise on a bet
+                                       90, # postflop, rank to call a bet
+                                       80,
+                                       70]
                     # quit while youre ahead!
                     if (quitWhileAheadMode or onEdgeMode) and handRank < quitRank and len(d.board) == 0:
                         s.send("FOLD\n")
@@ -114,20 +119,28 @@ class Player:
                         s.send("RAISE:"+str(raiseAmount)+"\n") 
                     # call no matter what
                     elif handRank >= bettingNums[1]:
+                        print "call 1"
                         s.send("CALL\n")
                         print "handRank threshold call"
+                    elif d.oppBet <= myStack/4.0 and len(d.board) == 0:
+                        print "call 2"
+                        s.send("CALL\n")
                     # call big bet
                     elif len(d.board) == 0:
                         s.send("FOLD\n")
-                    #elif handRank >= bettingNums[1] and d.oppBet >= myStack/2.0:
-                    #elif handRank >= bettingNums[1] and d.oppBet >= myStack/4.0:
+                    elif handRank >= bettingNums[2] and d.oppBet <= myStack/2.0:
+                        print "call 3"
+                        s.send("CALL\n")
+                    elif handRank >= bettingNums[3] and d.oppBet <= myStack/4.0:
+                        print "call 4"
+                        s.send("CALL\n")
                     else:
 
                         # FOLD MORE OFTEN TO DEFEAT FORD
                         # FOLD LESS OFTEN TO DEFEAT BLUFFBOT
-                        
-                        if d.oppBet <= d.handRank/3:
-                            print "betsize 1 call"
+                        # could be 3, could be 2
+                        if d.oppBet <= d.handRank/2:
+                            print "betsize 1 call", d.oppBet
                             s.send("CALL\n")
 
                         elif d.potSize - d.oppBet >= d.oppBet: 
