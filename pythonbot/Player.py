@@ -25,7 +25,7 @@ class Player:
         quitWhileAheadMode = False
         winMode = False
         onEdgeMode = False
-        quitRank = 52 # max rank to call in quitwhileaheadmode
+        quitRank = 60 # max rank to call in quitwhileaheadmode
         myStack = 200
         myBank = 0
         handID = 1
@@ -83,7 +83,11 @@ class Player:
                     if (quitWhileAheadMode or onEdgeMode) and handRank < quitRank and len(d.board) == 0:
                         bet = 0
                         s.send("FOLD\n")
-                    elif len(d.board) == 5 and totalOppBet <= 5 and totalMyBets <= 30:
+                    elif len(d.board) == 5 and totalOppBet <= 10 and totalMyBets <= 30:
+                        bet = d.maxBet
+                        s.send(d.betOrRaise+":"+str(bet)+"\n")
+                        print "all in bb"
+                    elif len(d.board) >= 3 and d.lastOppAction == "CHECK" and handRank < 50.0:
                         bet = d.maxBet
                         s.send(d.betOrRaise+":"+str(bet)+"\n")
                         print "all in bb"
@@ -105,6 +109,7 @@ class Player:
                         s.send(d.betOrRaise+":"+str(bet)+"\n") 
                     totalMyBets+=bet
 
+
                 # discard round
                 elif actionType == "CHECK DISCARD DISCARD":
                     s.send(d.shouldDiscard)
@@ -125,6 +130,9 @@ class Player:
                                        70]
                     # quit while youre ahead!
                     if (quitWhileAheadMode or onEdgeMode) and handRank < quitRank and len(d.board) == 0:
+                        s.send("FOLD\n")
+                    elif d.oppBet >= 150 and handRank<99:
+                        print d.oppBet, "oppbet"
                         s.send("FOLD\n")
                     # raise!
                     elif handRank >= bettingNums[0] and actionType != "FOLD CALL":
